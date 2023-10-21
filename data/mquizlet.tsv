@@ -1,0 +1,3539 @@
+ID	Traditional	Pinyin	POS	Meaning
+B3L10-I-01	住院	zhùyuàn	V-sep	to stay in a hospital, be hospitalized
+B3L10-I-02	臉	liǎn	N	face
+B3L10-I-03	受傷	shòushāng	Vp-sep	to be injured
+B3L10-I-04	撞	zhuàng	V	to hit, collide
+B3L10-I-05	遵守	zūnshǒu	V	to obey, follow, comply with
+B3L10-I-06	規則	guīzé	N	rules, regulations
+B3L10-I-07	報警	bàojǐng	V-sep	to report to (or call) the police
+B3L10-I-08	急診室	jízhěnshì	N	emergency room
+B3L10-I-09	傷	shāng	N	injury
+B3L10-I-10	骨折	gǔzhé	Vp	to fracture, break a bone
+B3L10-I-11	片子	piànzi	N	(X-ray) film
+B3L10-I-12	開刀	kāidāo	V-sep	to have surgery
+B3L10-I-13	病人	bìngrén	N	patient
+B3L10-I-14	情況	qíngkuàng	N	situation
+B3L10-I-15	緊急	jǐnjí	Vs	urgent
+B3L10-I-16	病床	bìngchuáng	N	hospital
+B3L10-I-17	要命	yàomìng	Vs	murderous, horrible
+B3L10-I-18	打針	dǎzhēn	V-sep	to inject, give a shot
+B3L10-I-19	止痛	zhǐtòng	Vi	to kill pain (lit. stop pain)
+B3L10-I-20	手術	shǒushù	N	operation, surgery
+B3L10-I-21	警察	jǐngchá	N	police
+B3L10-I-22	危險	wéixiǎn	N	danger
+B3L10-I-23	至於	zhìyú	Ptc	as to, regarding
+B3L10-I-24	部位	bùwèi	N	(body) part, location
+B3L10-I-25	恢復	huīfù	Vp	to recover
+B3L10-I-26	傷口	shāngkǒu	N	wound
+B3L10-I-27	哎呀	āiya	Ptc	interjection for realization of something important, oh no, yikes
+B3L10-I-28	出車禍	chū chēhuò		to have an automobile accident
+B3L10-I-29	趕時間	gǎn shíjiān		to be in a hurry
+B3L10-I-30	撞到	zhuàng dǎo		to knock down, knock over
+B3L10-I-31	救護車	jiùhù chē		ambulance
+B3L10-I-32	照X光	zhào X guāng		to take an X-ray
+B3L10-I-33	動手術	dòng shǒushù		to have undergo a surgery
+B3L10-II-01	醫美	yīměi	N	cosmetic surgery
+B3L10-II-02	合理	hélǐ	Vs	reasonable
+B3L10-II-03	休假	xiūjià	V-sep	to take time off
+B3L10-II-04	迷人	mírén	Vs	charming, attractive
+B3L10-II-05	職場	zhíchǎng	N	workplace
+B3L10-II-06	競爭力	jìngzhēnglì	N	competitive edge
+B3L10-II-07	調查	diàochá	N	survey, investigation
+B3L10-II-08	整形	zhěngxíng	V-sep	plastic surgery
+B3L10-II-09	增加	zēngjiā	V	to increase
+B3L10-II-10	自信	zìxìn	N	self-confidence
+B3L10-II-11	外表	wàibiǎo	N	appearance, exterior
+B3L10-II-12	普通	pǔtōng	Vs	common, ordinary
+B3L10-II-13	從事	cóngshì	V	to be engaged in, work in (a field of work)
+B3L10-II-14	醫治	yīzhì	V	to heal, cure
+B3L10-II-15	一向	yíxiàng	Adv	have always
+B3L10-II-16	一般	yìbān	Vs-attr	general, most
+B3L10-II-17	主要	zhǔyào	Vs-attr	primary, main
+B3L10-II-18	待遇	dàiyù	N	pay
+B3L10-II-19	公立	gōnglì	Vs-attr	public; government-run
+B3L10-II-20	外科	wàikē	N	department of surgery
+B3L10-II-21	超過	chāoguò	Vpt	to exceed
+B3L10-II-22	倍	bèi	M	times, -fold
+B3L10-II-23	另	lìng	Det	another, additional
+B3L10-II-24	價值觀	jiàzhíguān	N	values
+B3L10-II-25	尊敬	zūnjìng	Vst	to respect, respectful of
+B3L10-II-26	告	gào	V	to sue, bring suit against
+B3L10-II-27	平均	píngjūn	Adv	average
+B3L10-II-28	醫療	yīliáo	N	medical treatment, health care
+B3L10-II-29	怪	guài	V	to blame
+B3L10-II-30	愛林	Àilín		female person's name
+B3L10-II-31	微整形	wéizhěngxíng		micro-cosmetic surgery, plastic surgery, face contouring
+B3L10-II-32	數一數二	shǔyī shǔ'èr		one of the top or best in..., leading...
+B3L10-II-33	人際關係	rénjì guānxì		interpersonal relations
+B3L10-II-34	動不動就	dòng bú dòng jiù		to do something impetuously
+B3L10-II-35	找回	zhǎo huí		to rediscover, to retrieve
+B3L11-I-01	建	jiàn	V	to build (Classical Chinese)
+B3L11-I-02	重建	chóngjiàn	V	to rebuild
+B3L11-I-03	到底	dàodǐ	Adv	in the end, after all
+B3L11-I-04	世紀	shìjì	N	century
+B3L11-I-05	貿易	màoyì	N	trade
+B3L11-I-06	商業	shāngyè	N	commerce, business
+B3L11-I-07	利益	lìyì	N	gains, benefit
+B3L11-I-08	派	pài	V	to send, dispatch
+B3L11-I-09	軍隊	jūnduì	N	army, military
+B3L11-I-10	燒	shāo	V	to burn
+B3L11-I-11	城牆	chéngqiáng	N	city walls, defensive walls
+B3L11-I-12	頭髮	tóufǎ	N	hair
+B3L11-I-13	甚至	shènzhì	Adv	even, even to the point of
+B3L11-I-14	打仗	dǎzhàng	V-sep	to engage in warfare
+B3L11-I-15	少數	shǎoshù	N	minority, a few
+B3L11-I-16	開墾	kāikěn	V	to open up land for farming
+B3L11-I-17	將軍	jiāngjūn	N	general
+B3L11-I-18	軍人	jūnrén	N	military service member
+B3L11-I-19	平原	píngyuán	N	flatland, plains
+B3L11-I-20	人口	rénkǒu	N	population
+B3L11-I-21	血統	xiětǒng	N	blood, bloodline
+B3L11-I-22	嘍	lou	Ptc	"a sentence-final particle meaning ""in that case"""
+B3L11-I-23	孫子	sūnzi	N	grandson
+B3L11-I-24	領土	lǐngtǔ	N	territory (of a nation)
+B3L11-I-25	男性	nánxìng	N	male
+B3L11-I-26	禁止	jìnzhǐ	V	to forbid
+B3L11-I-27	娶	qǔ	V	to take a women in marriage
+B3L11-I-28	相信	xiāngxìn	Vst	to believe
+B3L11-I-29	精彩	jīngcǎi	Vs	splendid, brilliant as (of a performance)
+B3L11-I-30	紅毛城	Hóngmáo chéng		Fort Santo Domingo, literally red-hair city
+B3L11-I-31	東方	Dōngfāng		the East, the Orient
+B3L11-I-32	淡水	Dànshuǐ		Tamsui
+B3L11-I-33	漢人	Hàn rén		Han-ethic Chinese
+B3L11-I-34	鄭成功	Zhèng Chénggōng		Koxinga, 國姓爺, 1624-62, who ruled Taiwan against the Manchu sovereignty
+B3L11-I-35	明朝	Míng cháo		Ming Dynasty, 1368-1644
+B3L11-I-36	中南美洲	Zhōngnán Měizhōu		Central and South America
+B3L11-I-37	清朝	Qīng cháo		Qing Dynasty, 1644-1911
+B3L11-I-38	大清帝國	Dàqīng dìguó		the Qing Empire
+B3L11-I-39	輪到	lúndào		one's turn, it's up to
+B3L11-I-40	十七世紀初	shíqī shìjì chū		early 17th century
+B3L11-I-41	打敗	dǎ bài		to defeat
+B3L11-I-42	十七世紀末	shíqī shìjì mò		late 17th century
+B3L11-II-01	餐桌	cānzhuō	N	dining table
+B3L11-II-02	中式	zhōngshì	N	Chinese-style
+B3L11-II-03	套	tào	M	set of (books, clothes, equipment etc...)
+B3L11-II-04	燒餅	shāobǐng	N	clay oven sesame seed biscuits, like Indian nan
+B3L11-II-05	油條	yóutiáo	N	deep-fried dough sticks
+B3L11-II-06	飯糰	fàntuán	N	rice rolls with various filling
+B3L11-II-07	豆漿	dòujiāng	N	soy milk
+B3L11-II-08	內戰	nèizhàn	N	civil war
+B3L11-II-09	人民	rénmín	N	the people
+B3L11-II-10	攤子	tānzi	N	roadside stand, vendor's stall
+B3L11-II-11	菜單	càidān	N	menu
+B3L11-II-12	蘿蔔	luóbo	N	daikon radish
+B3L11-II-13	接著	jiēzhe	Adv	to continue, to pick up where something left off
+B3L11-II-14	戰爭	zhànzhēng	N	war
+B3L11-II-15	不斷	bùduàn	Vs	continual, incessant
+B3L11-II-16	遷移	qiānyí	Vi	to migrate
+B3L11-II-17	多半	duōbàn	Adv	mostly, in the majority of cases
+B3L11-II-18	困難	kùnnán	Vs	difficult
+B3L11-II-19	節儉	jiéjiǎn	Vs	frugal
+B3L11-II-20	主婦	zhǔfù	N	housewife
+B3L11-II-21	煎	jiān	V	to pan fry
+B3L11-II-22	彩色	càisè	N	variety of dishes
+B3L11-II-23	以及	yǐjí	Conj	and, as well as
+B3L11-II-24	美味	měiwèi	Vs	delicious
+B3L11-II-25	點心	diǎnxīn	N	desserts
+B3L11-II-26	日式	Rìshì	N	Japanese-style
+B3L11-II-27	飲食	yǐnshí	N	food, diet
+B3L11-II-28	深	shēn	Vs	deep
+B3L11-II-29	蔣介石	Jiǎng Jièshí		Chiang Kai-shek, 1887-1975
+B3L11-II-30	國共內戰	Guó Gòng Nèizhàn		the Chinese Civil War (i.e., between the Kuomintang and the Communists), 1927-37, 1945-50
+B3L11-II-31	客家人	Kèjiā rén		the Hakka people, a branch of Han
+B3L11-II-32	閩南人	Mǐnnán rén		the Southern Min people, also called Hokkien
+B3L11-II-33	蛋餅	dàn bǐng		an egg wrap
+B3L11-II-34	打輸	dǎ shū		to be defeated
+B3L11-II-35	擺攤子	bǎi tānzi		to set up a vendor's stall
+B3L11-II-36	蘿蔔糕	luóbo gāo		daikon cakes
+B3L11-II-37	烹飪課	pēngrèn kè		cooking class
+B3L11-II-38	曬乾	shài gān		to sun dry
+B3L11-II-39	各種各樣	gèzhǒng gèyàng		various types
+B3L11-II-40	殖民統治	zhímín tǒngzhì		to colonize and rule
+B3L11-II-41	味噌湯	wèizēngtāng		miso soup (Japanese food)
+B3L11-II-42	蘿蔔乾	luóbo gān		dried daikon
+B3L11-II-43	進一步	jìn yí bù		further
+B3L12-I-01	投票	tóupiào	V-sep	to vote
+B3L12-I-02	抱歉	bàoqiàn	Vs	sorry, apologetic
+B3L12-I-03	表妹	biǎomèi	N	younger female cousin
+B3L12-I-04	反核	fǎn hé	Vs-attr	anti-nuclear
+B3L12-I-05	遊行	yóuxíng	N	demonstration, rally
+B3L12-I-06	政治	zhèngzhì	N	politics
+B3L12-I-07	熱衷	rèzhōng	Vst	enthusiastic about, passionate about
+B3L12-I-08	前途	qiántú	N	future, prospects
+B3L12-I-09	勸	quàn	V	to persuade, to urge
+B3L12-I-10	而已	éryǐ	Ptc	only, merely
+B3L12-I-11	民主	mínzhǔ	Vs	democratic
+B3L12-I-12	表達	biǎodá	V	to express
+B3L12-I-13	公共	gōnggòng	Vs-attr	public
+B3L12-I-14	議題	yìtí	N	issue
+B3L12-I-15	核能	hénéng	N	nuclear power
+B3L12-I-16	電廠	diànchǎng	N	power plant
+B3L12-I-17	由	yóu		up to, by (a doer)
+B3L12-I-18	專家	zhuānjiā	N	expert, specialist
+B3L12-I-19	全面	quánmiàn	Adv	comprehensively
+B3L12-I-20	民意	mínyì	N	public will, popular opinion
+B3L12-I-21	代表	dàibiǎo	N	representative
+B3L12-I-22	處理	chǔlǐ	V	to deal with, handle, tackle
+B3L12-I-23	政黨	zhèngdǎng	N	political party
+B3L12-I-24	難道	nándào	Adv	Could it be that...?, Is it that...?
+B3L12-I-25	滿	mǎn	Vpt	to become
+B3L12-I-26	憲法	xiànfǎ	N	constitution
+B3L12-I-27	投票權	tóupiàoquán	N	right to vote, suffrage
+B3L12-I-28	選舉	xuǎnjǔ	N	election
+B3L12-I-29	權利	quánlì	N	right (a political right)
+B3L12-I-30	表示	biǎoshì	V	to mean, indicate
+B3L12-I-31	反映	fǎnyìng	Vpt	to reflect
+B3L12-I-32	為	wèi	Prep	for
+B3L12-I-33	服務	fúwù	V	to serve
+B3L12-I-34	職位	zhíwèi	N	position, job
+B3L12-I-35	任期	rènqí	N	term of office
+B3L12-I-36	選民	xuǎnmín	N	voters, electorate
+B3L12-I-37	完美	wánměi	Vs	perfect
+B3L12-I-38	積極	jījí	Vs	actively, to take it upon oneself to, take the initiative to
+B3L12-I-39	最佳	zuìjiā	Vs-attr	the very best, the best possible
+B3L12-I-40	推銷員	tuīxiāoyuán	N	salesperson
+B3L12-I-41	有道理	yǒu dàolǐ		there's some truth (to what you are saying)
+B3L12-I-42	候選人	hòuxuǎn rén		candidate
+B3L12-II-01	學術界	xuéshùjiè	N	academia, the academic fields or circles
+B3L12-II-02	從政	cóngzhèng	Vi	to engage in politics
+B3L12-II-03	政策	zhèngcè	N	policy
+B3L12-II-04	安定	āndìng	Vs	stable
+B3L12-II-05	辭	cí	Vp	to quit, resign
+B3L12-II-06	頭腦	tóunǎo	N	brain, mind
+B3L12-II-07	改革	gǎigé	N	reforms
+B3L12-II-08	看法	kànfǎ	N	view, opinion
+B3L12-II-09	教育	jiàoyù	N	education
+B3L12-II-10	方面	fāngmiàn	N	in the areas of (an issue)
+B3L12-II-11	得到	dédào	V	to obtain
+B3L12-II-12	連任	liánrèn	V	to serve a successive term
+B3L12-II-13	屆	jiè	M	term, tenure of elected office
+B3L12-II-14	支持度	zhīchídù	N	approval rating
+B3L12-II-15	落選	luòxuǎn	Vp	to lose an election
+B3L12-II-16	得票率	dépiàolǜ	N	percentage of votes received
+B3L12-II-17	預期	yùqí	N	expectation
+B3L12-II-18	暫時	zhànshí	Adv	temporarily, for the time being
+B3L12-II-19	老家	lǎojiā	N	hometown
+B3L12-II-20	形象	xíngxiàng	N	image
+B3L12-II-21	商量	shāngliáng	V	to confer, consult with
+B3L12-II-22	人脈	rénmài	N	network of people, contacts
+B3L12-II-23	弱勢	ruòshì	N	disadvantaged (lit.weak power)
+B3L12-II-24	退休	tuìxiū	Vp	to retire
+B3L12-II-25	事業	shìyè	N	business, career
+B3L12-II-26	捐	juān	V	to donate
+B3L12-II-27	義務	yìwù	Adv	to volunteer, on a voluntary basis, to do something gratis
+B3L12-II-28	經費	jīngfèi	N	funds
+B3L12-II-29	競選	jìngxuǎn	V	run for (an office)
+B3L12-II-30	也許	yěxǔ	Adv	perhaps
+B3L12-II-31	政治界	zhèngzhìjiè	N	the world of politics
+B3L12-II-32	權力	quánlì	N	power
+B3L12-II-33	辭掉	cìdiào		to quit, resign
+B3L12-II-34	提出	tíchū		to propose
+B3L12-II-35	國民年金	guómín niánjīn		national pension (scheme)
+B3L12-II-36	中間選民	zhōngjiān xuǎnmín		swing voters
+B3L12-II-37	一陣子	yí zhèn zi		a while, a short duration of time
+B3L12-II-38	下一步	xià yí bù		the next step (in doing things)
+B3L12-II-39	盡可能	jìn kěnéng		as far as possible, do one's best
+B3L12-II-40	出版社	chūbǎn shè		publishing company
+B3L12-II-41	捐出	juānchū		to donate
+B3L12-II-42	二手書	èrshǒu shū		secondhand book
+B3L01-I-01	安德思	Ān Désī		a man from Honduras
+B3L01-I-02	羅珊蒂	Luó Shāndì		a woman from Indonesia
+B3L01-I-03	和雅婷	Hé Yǎtíng		a woman from Taiwan
+B3L01-I-04	開學	kāixué	Vp	(school) to start
+B3L01-I-05	班	bān	N	class, i.e., the students (not the classroom or the course)
+B3L01-I-06	新生	xīnshēng	N	new student
+B3L01-I-07	嚴	yán	Vs	strict, stern
+B3L01-I-08	口試	kǒushì	N	oral test
+B3L01-I-09	筆試	bǐshì	N	written test
+B3L01-I-10	以外	yǐwài	N	except, other than
+B3L01-I-11	口頭	kǒutóu	Vs-attr	verbal, oral
+B3L01-I-12	報告	bàogào	N	report
+B3L01-I-13	壓力	yālì	N	pressure, stress
+B3L01-I-14	說明	shuōmíng	N	instructions explanation
+B3L01-I-15	清楚	qīngchǔ	Vs	clear(ly)
+B3L01-I-16	位子	wèizi	N	seat, plate
+B3L01-I-17	旁聽	pángtīng		to audit, to sit in (on a class)
+B3L01-I-18	分	fēn	N	points
+B3L01-I-19	羨慕	xiànmù	Vst	to envy
+B3L01-I-20	休學	xiūxué	Vp-sep	to take a break from school
+B3L01-I-21	用功	yònggōng	Vs	diligent, conscientious (as a student)
+B3L01-I-22	行	xíng	Vs	to be all right
+B3L01-I-23	轉	zhuǎn	V	to transfer to a different major
+B3L01-I-24	原來	yuánlái	Adv	originally
+B3L01-I-25	會計	kuàijì	N	accounting, an accountant
+B3L01-I-26	熱門	rèmén	Vs	highly popular
+B3L01-I-27	熬夜	áoyè	V-sep	to stay up all night, to burn the midnight oil
+B3L01-I-28	當	dàng	V	to fail a course
+B3L01-I-29	恐怕	kǒngpà	Adv	(I am) afraid that, probably
+B3L01-I-30	口才	kǒucái	N	speaking skills
+B3L01-I-31	事	shì	N	issue, matter, event thing
+B3L01-I-32	遲到	chídào	Vp	to be late (in arrival)
+B3L01-I-33	差一點	chà yì diǎn		barely, nearly, almost
+B3L01-I-34	這樣下去	zhèyàng xiàqù		if it goes on like this
+B3L01-I-35	沒辦法	méi bànfǎ		there's no way, there's nothing that can be done
+B3L01-II-01	獨生女	dúshēngnǚ	N	only child (girl)
+B3L01-II-02	私立	sīlì	Vs-attr	private
+B3L01-II-03	理想	lǐxiǎng	Vs	ideal, aspired
+B3L01-II-04	合	hé	Vst	to tally with, to match
+B3L01-II-05	痛苦	tòngkǔ	Vs	painful
+B3L01-II-06	科系	kēxì	N	(academic) department
+B3L01-II-07	放棄	fàngqì	V	to give up
+B3L01-II-08	不管	bùguǎn	Conj	no matter, regardless of
+B3L01-II-09	反對	fǎnduì	Vst	to oppose, to be against
+B3L01-II-10	個性	gèxìng	N	personality
+B3L01-II-11	活潑	huópō	Vs	lively, bubbly, vivacious
+B3L01-II-12	外語	wàiyǔ	N	foreign languge
+B3L01-II-13	擔心	dānxīn	Vst	to worry about, to fret over with
+B3L01-II-14	填	tián	V	to fill out (a form)
+B3L01-II-15	表	biǎo	N	a form
+B3L01-II-16	辦	bàn	V	to deal with
+B3L01-II-17	手續	shǒuxù		procedures
+B3L01-II-18	申請	shēnqǐng	V	to apply for
+B3L01-II-19	成績單	chéngjī dān	N	report card, transcripts
+B3L01-II-20	考上	kǎoshàng		test into
+B3L01-II-21	推薦信	tuījiànxìn		a letter of recommendation
+B3L02-I-01	起	qǐ	Vp	starting from...
+B3L02-I-02	外套	wàitào	N	coat, jacket
+B3L02-I-03	一般	yìbān	Adv	generally, in general
+B3L02-I-04	商品	shāngpǐn	N	goods, commodities
+B3L02-I-05	折扣	zhékòu	N	discount
+B3L02-I-06	省	shěng	V	to save, to put away
+B3L02-I-07	牌子	páizi	N	brand
+B3L02-I-08	品質（質量）	pǐnzhí（zhíliàng)	N	quality
+B3L02-I-09	選擇	xuǎnzé	N	choices
+B3L02-I-10	樣子	yàngzi	N	appearance, looks
+B3L02-I-11	摸	mō	V	to feel, to touch
+B3L02-I-12	店員	diànyuán	N	salesperson, store employee, clerk
+B3L02-I-13	短	duǎn	Vs	short
+B3L02-I-14	羊毛	yángmáo	N	lamb's wool
+B3L02-I-15	暖和	nuǎnhuo	Vs	warm
+B3L02-I-16	打折	dǎzhé	V-sep	to offer a discount
+B3L02-I-17	原價	yuánjià	N	original price
+B3L02-I-18	刷卡	shuākǎ	V-sep	to swipe (credit card)
+B3L02-I-19	現金	xiànjīn	N	cash
+B3L02-I-20	麻煩	máfán	V	please (lit. allow me to trouble you)
+B3L02-I-21	簽名	qiānmíng	V-sep	to sign
+B3L02-I-22	破洞	pòdòng	Vp-sep	to have a hole
+B3L02-I-23	發票	fāpiào	N	receiipt
+B3L02-I-24	弄	nòng	V	(pro-verb) to cause, to do
+B3L02-I-25	退	tuì	V	to return (purchases)
+B3L02-I-26	換	huàn	V	to exchange
+B3L02-I-27	店長	diànzhǎng	N	store manager
+B3L02-I-28	周年慶	zhōunián qìng		anniversary
+B3L02-I-29	一般來說	yìbān láishuō		generally speaking
+B3L02-I-30	試穿	shì chuān		to try on (garment)
+B3L02-I-31	打完折	dǎ wán zhé		after discount
+B3L02-I-32	弄丟	nòng diū		to lose
+B3L02-II-01	購物	gòuwù	Vi	to go shopping
+B3L02-II-02	糾紛	jiūfēn	N	dispute
+B3L02-II-03	電信	diànxìn	N	telecommunications
+B3L02-II-04	門市	ménshì	N	retails outlet
+B3L02-II-05	居留證	jūliúzhèng	N	Alien Resident Certificate (ARC in Taiwan)
+B3L02-II-06	月租型	yuèzūxíng	N	a monthly plan
+B3L02-II-07	帳單	zhàngdān	N	bill
+B3L02-II-08	並	bìng	Adv	contrary to assumption (followed by a negative statement)
+B3L02-II-09	包括	bāokuò	V	to include
+B3L02-II-10	解釋	jiěshì	N	explanation
+B3L02-II-11	顧客	gùkè	N	customer
+B3L02-II-12	尤其	yóuqí	Adv	especially, in particular
+B3L02-II-13	騙	piàn	V	to cheat, to swindle
+B3L02-II-14	頓	dùn	M	verbal measure word for a duration of action
+B3L02-II-15	辦法	bànfǎ	N	solution
+B3L02-II-16	自動	zìdòng	Adv	by itself, on its own, automatically
+B3L02-II-17	關機	guānjī	Vp-sep	to turn off, to shut down
+B3L02-II-18	修理	xiūlǐ	V	to repair
+B3L02-II-19	繳費	jiǎofèi	V-sep	to pay a fee
+B3L02-II-20	預付卡	yùfù kǎ		prepaid SIM card
+B3L02-II-21	換成	huàn chéng		to change to
+B3L02-II-22	吃到飽	chī dào bǎo		unlimited data (lit. all you can eat)
+B3L02-II-23	嚇一跳	xià yí tiào		shocked, startled, taken aback
+B3L02-II-24	客服中心	kèfú zhōngxīn		customer service center
+B3L03-I-01	陳敏萱	Chén Mǐnxuān		a woman from the Netherlands
+B3L03-I-02	高橋健太	Gāoqiáo Jiàntài		a man from Japan
+B3L03-I-03	空氣	kōngqì	N	air
+B3L03-I-04	影響	yǐngxiǎng	N	influence
+B3L03-I-05	穩定	wěndìng	Vs	stable
+B3L03-I-06	幸虧	xìngkuī	Adv	fortunately
+B3L03-I-07	躲	duǒ	Vi	to hide, to go into hiding
+B3L03-I-08	度	dù	M	degree
+B3L03-I-09	溫度	wēndù	N	temperature
+B3L03-I-10	零下	língxià	Vs-attr	below zero
+B3L03-I-11	感覺	gǎnjué	Vst	to feel
+B3L03-I-12	實際	shíjì	Vs	actual
+B3L03-I-13	難怪	nánguài	Adv	it's no wonder, no wonder
+B3L03-I-14	季節	jìjié	N	season
+B3L03-I-15	火鍋	huǒguō	N	hotpot
+B3L03-I-16	海鮮	hǎixiān	N	seafood
+B3L03-I-17	新鮮	xīnxiān	Vs	fresh
+B3L03-I-18	櫻花	yīnghuā	N	cherry blossom
+B3L03-I-19	變化	biànhuà	N	change
+B3L03-I-20	氣溫	qìwēn	N	temperature (weather)
+B3L03-I-21	差	chā	Vst	to differ
+B3L03-I-22	幾乎	jīhū	Adv	almost
+B3L03-I-23	乾	gān	Vs	dry
+B3L03-I-24	發霉	fāméi	Vp-sep	to mildew, to become moldy
+B3L03-I-25	除濕機	chúshījī	N	dehumidifier
+B3L03-I-26	雨季	yǔjì	N	rainy season
+B3L03-I-27	涼快	liángkuài	Vs	cool
+B3L03-I-28	潮濕	cháoshī	Vs	humid
+B3L03-I-29	悶	mēn	Vs	stuffy
+B3L03-I-30	冷氣	lěngqì	N	air conditioning
+B3L03-I-31	荷蘭	Hélán		the Netherlands (lit. Holland)
+B3L03-I-32	出大太陽	chū dà tàiyáng		to be blazing hot
+B3L03-I-33	颳風	guā fēng		to be windy (lit. blow wind)
+B3L03-I-34	受到	shòu dào		to receive, to be, to get
+B3L03-I-35	受不了	shòu bù liǎo		can't stand it
+B3L03-I-36	餓死了	è sǐle		to starve to death (an exaggeration)
+B3L03-I-37	後母臉	hòumǔliǎn		stepmother's face, i.e., stern and cruel look
+B3L03-II-01	祖先	zǔxiān	N	ancestor
+B3L03-II-02	移民	yímín	Vi	to immigrate, to emigrate
+B3L03-II-03	當中	dāngzhōng	N	of, amongst
+B3L03-II-04	根據	gēnjù	Prep	based on, in accordance with, according to
+B3L03-II-05	農曆	nónglì	N	the lunar calendar (lit. the agricultural calendar)
+B3L03-II-06	農業	nóngyè	N	agriculture
+B3L03-II-07	農人	nóngrén	N	farmer
+B3L03-II-08	難得	nándé	Vs	hard-to-come-by, rare
+B3L03-II-09	祭祖	jìzǔ	Vi	to venerate ancestors
+B3L03-II-10	拜	bài	V	to honor, to pay homage to
+B3L03-II-11	神	shén	N	gods, divinities
+B3L03-II-12	拜拜	bàibài	Vi	to present offerings to gods or ancestors
+B3L03-II-13	蚊蟲	wénchóng	N	mosquitoes and other insects
+B3L03-II-14	戴	dài	V	to wear (items other than those that cover the torso, legs, or feet, mostly ornamental items)
+B3L03-II-15	香包	xiāngbāo	N	fragrant sachet
+B3L03-II-16	掛	guà	V	to hang
+B3L03-II-17	瘟疫	wēnyì	N	pestilence, plague
+B3L03-II-18	做法	zuòfǎ	N	method, way of doing something
+B3L03-II-19	多少	duōshǎo	Adv	somewhat
+B3L03-II-20	作用	zuòyòng	N	effect
+B3L03-II-21	迷信	míxìn	N	superstition
+B3L03-II-22	守成	shōuchéng	N	harvest
+B3L03-II-23	民族	mínzú	N	ethnic group
+B3L03-II-24	月亮	yuèliàng	N	moon
+B3L03-II-25	圓	yuán	Vs	round
+B3L03-II-26	社會	shèhuì	N	society
+B3L03-II-27	團聚	tuánjù	Vi	to get-together, to reunite; reunion of family members (in this lesson)
+B3L03-II-28	月餅	yuèbǐng		moon cake (shaped like the moon)
+B3L03-II-29	柚子	yòuzi	N	pomelo
+B3L03-II-30	故事	gùshì	N	story
+B3L03-II-31	溫馨	wēnxīn	Vs	warm, heart-warming
+B3L03-II-32	端午節	Duānwǔ jié		the Dragon Boat Festival (the 5th day of the 5th month)
+B3L03-II-33	中秋節	Zhōngqiū jié		the Mid-Autumn Moon Festival (the 15th day of the 8th month)
+B3L03-II-34	雄黃酒	xiónghuáng jiǔ		realgar liquor, a wine seasoned with realgar, a type of arsenic, and is traditionally considered to be an antidote to other poisons
+B3L03-II-35	古時候	gǔ shíhòu		historically, in ancient times
+B3L03-II-36	趕走	gǎnzǒu		to drive away
+B3L03-II-37	過節	guò jié		to spend the holiday in some manner
+B3L04-I-01	愛	ài	Vst	to love
+B3L04-I-02	人情味	rénqíngwèi	N	to be hospitable, kind, friendly
+B3L04-I-03	放	fàng	V	to release
+B3L04-I-04	天燈	tiāndēng	N	sky lantern
+B3L04-I-05	願望	yuànwàng	N	wish
+B3L04-I-06	訊號	xùnhào	N	signal (data connection)
+B3L04-I-07	元宵	yuánxiāo	N	sweet sticky rice dumplings
+B3L04-I-08	牆	qiáng	N	wall
+B3L04-I-09	耐心	nàixīn	N	patience
+B3L04-I-10	感動	gǎndòng	Vs	to be touched, moved
+B3L04-I-11	擔仔麵	dànzǎimiàn	N	danzai noodles (special dish from Tainan)
+B3L04-I-12	招牌	zhāopái	N	store sign
+B3L04-I-13	當地	dāngdì	Vs-attr	local
+B3L04-I-14	賺	zhuàn	V	to earn
+B3L04-I-15	而	ér	Adv	on the other hand, rather
+B3L04-I-16	交	jiāo	V	to make (friends)
+B3L04-I-17	理想	lǐxiǎng	N	ideals, aspirations
+B3L04-I-18	剛剛	gānggāng	Adv	just now
+B3L04-I-19	改天	gǎitiān	Adv	some other day
+B3L04-I-20	無聊	wúliáo	Vs	boring, dull
+B3L04-I-21	東區	dōngqū	N	the East District (of Taipei)
+B3L04-I-22	煙火	yānhuǒ	N	fireworks
+B3L04-I-23	跨年	kuànián	Vi	welcome in the (solar) New Year (lit. span the years)
+B3L04-I-24	種類	zhǒnglèi	N	type, category
+B3L04-I-25	價錢	jiàqián	N	price
+B3L04-I-26	感覺	gǎnjué	N	feeling; a feeling of
+B3L04-I-27	雞排	jīpái	N	chicken fillet
+B3L04-I-28	口	kǒu	M	mouthful
+B3L04-I-29	紅茶	hóngchá	N	black tea (lit. red tea)
+B3L04-I-30	平溪	Píngxī		Pingxi, a town in northern Taiwan
+B3L04-I-31	元宵節	Yuánxiāo jié		the Lantern Festival (15th day of the 1st month)
+B3L04-I-32	孔廟	Kǒngmiào		Confucian Temple
+B3L04-I-33	校外教學	xiàowài jiāoxué		field trip, class excursion
+B3L04-I-34	碰到	pèngdào		to run into
+B3L04-I-35	水煎包	shuǐjiān bāo		pan-fried pork bun
+B3L04-II-01	同事	tóngshì	N	colleague, coworker
+B3L04-II-02	美食	měishí	N	delicacies, delicious foods
+B3L04-II-03	上	shàng	V	to go up to
+B3L04-II-04	泡	pào	V	to steep (tea), to soak oneself in, i.e., to bath in
+B3L04-II-05	錯過	cuòguò	Vpt	to miss an opportunity
+B3L04-II-06	營業	yíngyè	Vi	to open for business, in operation (business)
+B3L04-II-07	夜景	yèjǐng	N	night view
+B3L04-II-08	古老	gǔlǎo	Vs	ancient, antiquated
+B3L04-II-09	古蹟	gǔjī	N	historical site
+B3L04-II-10	重視	zhòngshì	Vst	to place emphasis on, to lay stress on, to value
+B3L04-II-11	歷史	lìshǐ	N	history
+B3L04-II-12	風俗	fēngsú	N	customs (social custom)
+B3L04-II-13	習慣	xíguàn	N	habit
+B3L04-II-14	道地	dàodì	Vs	authentic
+B3L04-II-15	粥	zhōu	N	congee, watery rice
+B3L04-II-16	講究	jiǎngjiù	Vst	to be discriminating in, to be discerning, meticulous
+B3L04-II-17	頓	dùn	M	measure word for the duration of a meal
+B3L04-II-18	速度	sùdù	N	speed
+B3L04-II-19	窄	zhǎi	Vs	narrow
+B3L04-II-20	街道	jiēdào	N	street
+B3L04-II-21	蓋	gài	V	to build, to erect
+B3L04-II-22	待	dāi	Vi	to stay, to remain
+B3L04-II-23	欣賞	xīnshǎng	V	to appreciate, to enjoy
+B3L04-II-24	美麗	měilì	Vs	beautiful
+B3L04-II-25	鈴木	Língmù		Japanese last name: Lingmu (Japanese: Suzuki)
+B3L04-II-26	赤崁樓	Chìkǎn Lóu		Chihkan Tower, a.k.a. Fort Provintia (stronghold built by the Dutch, in Tainan, in the 17th century)
+B3L04-II-27	留下來	liú xià lái		to leave behind
+B3L04-II-28	木造	mù zào		wooden; made from wood
+B3L04-II-29	非去不可	fēiqù bùkě		Visiting (it) is a must!!
+B3L05-I-01	流行	liúxíng	Vst	popular
+B3L05-I-02	唉	āi	Ptc	Oh no! Oh boy!
+B3L05-I-03	演唱會	yǎnchànghuì	N	concert
+B3L05-I-04	塞車	sāichē	Vs	net congestion, jam
+B3L05-I-05	上線（綫）	shàngxiàn	V-sep	to log in, go online
+B3L05-I-06	成功	chénggōng	Vp	to succeed
+B3L05-I-07	倒楣（黴）	dǎoméi	Vs	out of luck, down on one's luck
+B3L05-I-08	樂團	yuètuán	N	music (band)
+B3L05-I-09	唱	chàng	V	to sing
+B3L05-I-10	興奮	xīngfèn	Vs	excited
+B3L05-I-11	迷	mí	Vst	to be enamored with, be into, be enchanted by, be obsessed with
+B3L05-I-12	歌詞	gēcí	N	lyrics
+B3L05-I-13	難過	nánguò	Vs	sad
+B3L05-I-14	不如	bùrú	Vst	inferior
+B3L05-I-15	現場	xiànchǎng	N	live (lit. on-site)
+B3L05-I-16	跳	tiào	Vi	to jump
+B3L05-I-17	整	zhěng	Det	entire, whole
+B3L05-I-18	震動	zhèndòng	Vi	to vibrate, to shake
+B3L05-I-19	漫畫	mànhuà	N	comics
+B3L05-I-20	內容	nèiróng	N	content
+B3L05-I-21	色情	sèqíng	Vs	pornographic, obscene
+B3L05-I-22	放鬆	fàngsōng	Vst	to relax
+B3L05-I-23	心情	xīnqíng	N	mood
+B3L05-I-24	五月天	Wǔyuètiān		Mayday (name of a Taiwanese rock band)
+B3L05-I-25	算了	suàn le		forget it, let it be!
+B3L05-I-26	受歡迎	shòu huānyíng		well-received, well-liked, popular
+B3L05-I-27	擠滿	jǐmǎn		crowded with, packed with
+B3L05-I-28	租書店	zūshū diàn		book rental store
+B3L05-I-29	平板電腦	píngbǎn diànnǎo		tablet computer
+B3L05-I-30	智慧型手機	zhìhuìxíng shǒujī		smartphone
+B3L05-I-31	殺時間	shā shíjiān		to kill time
+B3L05-I-32	漫畫展	mànhuà zhǎn		comic (book) exhibition
+B3L05-I-33	來不及	lái bù jí		not be in time for, not make it on time
+B3L05-II-01	撞衫	zhuàngshān	Vs	"""wardrobe clash,"" more than one person unintentionally wearing duplicate garments"
+B3L05-II-02	它	tā	N	it
+B3L05-II-03	塞	sāi	V	to stuff, cram, squeeze (into)
+B3L05-II-04	當季	dāngjì	N	in season
+B3L05-II-05	款式	kuǎnshì	N	style (of clothes)
+B3L05-II-06	連續劇	liánxùjù	N	TV series
+B3L05-II-07	主角	zhǔjiǎo(jué)	N	leading role, leading actor
+B3L05-II-08	甜美	tiánměi	Vs	sweet and cute, lovely
+B3L05-II-09	寄	jì	V	to mail
+B3L05-II-10	居然	jūrán	Adv	unexpectedly, counter to assumption
+B3L05-II-11	害	hài	V	adversely impacting somebody so that they...
+B3L05-II-12	既然	jìrán	Conj	since, given that...
+B3L05-II-13	服裝	fúzhuāng	N	clothing, garments
+B3L05-II-14	媒體	méitǐ	N	the media
+B3L05-II-15	方式	fāngshì	N	method, ways
+B3L05-II-16	吸引	xīyǐn	Vst	to attract, to draw
+B3L05-II-17	避免	bìmiǎn	V	to avoid
+B3L05-II-18	包包	bāobāo	N	bag, purse
+B3L05-II-19	商人	shāngrén	N	businessperson
+B3L05-II-20	產品	chǎnpǐn	N	product
+B3L05-II-21	電子	diànzǐ	N	electronics
+B3L05-II-22	市場	shìchǎng	N	market
+B3L05-II-23	新型	xīnxíng	Vs-attr	new style
+B3L05-II-24	落伍	luòwǔ	Vs	behind the times, passe, old-fashioned
+B3L05-II-25	知音	zhīyīn	N	bosom buddy, confidant
+B3L05-II-26	想像	xiǎngxiàng	V	to imagine
+B3L05-II-27	喇叭褲	lǎbākù	N	bell-bottom pants
+B3L05-II-28	印象	yìnxiàng	N	impression
+B3L05-II-29	遊戲	yóuxì	N	game
+B3L05-II-30	化妝	huàzhuāng	V-sep	to apply cosmetics, to make up
+B3L05-II-31	一模一樣	yìmó yíyàng		identical
+B3L05-II-32	淺藍色	qiǎn lánsè		light blue
+B3L05-II-33	脫掉	tuōdiào		to take off (clothing)
+B3L05-II-34	小題大做	xiǎotí dàzuò		to make a mountain out of a molehill, to make a big deal of nothing
+B3L05-II-35	推出	tuīchū		to introduce, to roll out (products)
+B3L06-I-01	李文彥	Lǐ Wényàn		an American-born Chinese
+B3L06-I-02	表哥	biǎogē	N	cousin (older male cousin, from a female lineage)
+B3L06-I-03	隨便	suíbiàn	Adv	as one pleases oneself, to act freely
+B3L06-I-04	種	zhòng	V	to grow (plants)
+B3L06-I-05	蔬菜	shūcài	N	vegetable
+B3L06-I-06	農夫	nóngfū	N	farmer
+B3L06-I-07	減少	jiǎnshǎo	V	to reduce, to decrease
+B3L06-I-08	農藥	nóngyào	N	pesticide
+B3L06-I-09	天然	tiānrán	Vs-attr	natural
+B3L06-I-10	堆肥	duīféi	N	compost
+B3L06-I-11	辛苦	xīnkǔ	Vs	tough, hard, bitter (life, work, etc...)
+B3L06-I-12	地位	dìwèi	N	position, status
+B3L06-I-13	收入	shōurù	N	income
+B3L06-I-14	利潤	lìrùn	N	profit
+B3L06-I-15	屋子	wūzi	N	house
+B3L06-I-16	番茄	fānqié	N	tomato
+B3L06-I-17	品種	pǐnzhǒng	N	variety, species
+B3L06-I-18	氣候	qìhòu	N	climate
+B3L06-I-19	長	zhǎng	Vi	to grow
+B3L06-I-20	熟	shóu	Vp	to be ripe, to ripen
+B3L06-I-21	片	piàn	M	measure word for a stratch, swath (of land)
+B3L06-I-22	田	tián	N	field, plot of land, paddy
+B3L06-I-23	照顧	zhàogù	V	to take care of
+B3L06-I-24	敢	gǎn	Vaux	to dare
+B3L06-I-25	條件	tiáojiàn	N	terms, conditions, (here) good qualities (in a prospective spouse)
+B3L06-I-26	黑	hēi	Vp	dark, black
+B3L06-I-27	摘下來	zhāi xiàlái		to pluck, to pick (e.g., fruit from a tree)
+B3L06-I-28	做不動	zuò bú dòng		to be unable to physically function due to old age
+B3L06-I-29	基因改造	jīyīn gǎizào		genetically modified
+B3L06-I-30	忙得過來	máng de guòlái		to be able to manage everything
+B3L06-I-31	開玩笑	kāi wánxiào		to joke, to kid
+B3L06-I-32	看天吃飯	kàntiān chīfàn		livelihood depends on the whims of nature
+B3L06-II-01	小農	xiǎonóng	N	small farmer
+B3L06-II-02	市集	shìjí	N	bazaar, market
+B3L06-II-03	食材	shícái	N	food materialis, ingredients
+B3L06-II-04	產地	chǎndì	N	place of origin
+B3L06-II-05	盡量	jìnliàng	Adv	to do one's best to
+B3L06-II-06	友善	yǒushàn	Vs	friendly
+B3L06-II-07	對待	duìdài	V	to treat
+B3L06-II-08	土地	tǔdì	N	land
+B3L06-II-09	信任	xìnrèn	Vst	to trust
+B3L06-II-10	寧可	níngkě	Vst	would rather
+B3L06-II-11	跑	pǎo	Vi	to run
+B3L06-II-12	支持	zhīchí	V	to support
+B3L06-II-13	文章	wénzhāng	N	article
+B3L06-II-14	推銷	tuīxiāo	V	to promote, to market
+B3L06-II-15	其中	qízhōng	N	of these, of which, amongst with
+B3L06-II-16	師傅	shīfù	N	master (of a trade)
+B3L06-II-17	農村	nóngcūn	N	farming village
+B3L06-II-18	長大	zhǎngdà	Vi	to grow up
+B3L06-II-19	幫助	bāngzhù	V	to help
+B3L06-II-20	拜訪	bàifáng	V	to pay someone a visit
+B3L06-II-21	出產	chūchǎn	V	to produce
+B3L06-II-22	由於	yóuyú	Conj	due to, because of
+B3L06-II-23	許多	xǔduō	Det	many
+B3L06-II-24	接近	jiējìn	Vst	to come close to, to approach
+B3L06-II-25	自然	zìrán	N	nature
+B3L06-II-26	變成	biànchéng	Vpt	to become
+B3L06-II-27	休閑	xiūxián	Vs	leisure
+B3L06-II-28	隨著	suízhe	Prep	along with, with the happening of
+B3L06-II-29	觀光	guānguāng	Vi	to tour, to sightsee
+B3L06-II-30	消費	xiāofèi	Vi	to be a consumer, to purchase things
+B3L06-II-31	安靜	ānjìng	Vs	quiet
+B3L06-II-32	消失	xiāoshī	Vp	to disappear
+B3L06-II-33	出問題	chū wèntí		to go wrong, to have problems
+B3L06-II-34	一方面	yì fāngmiàn		on the one hand
+B3L07-I-01	親	qīn	Vs	close (as of familial relationship)
+B3L07-I-02	爺爺	yéye	N	grandpa (father's side)
+B3L07-I-03	鄰居	línjū	N	neighbor
+B3L07-I-04	狗	gǒu	N	dog
+B3L07-I-05	叫	jiào	Vi	to bark
+B3L07-I-06	嗯	en	Ptc	an interjection indication the speaker's agreement
+B3L07-I-07	奶奶	nǎinai	N	grandma (father's side)
+B3L07-I-08	過世	guòshì	Vp	to die, pass away (honorific)
+B3L07-I-09	領養	lǐngyǎng	V	to adopt
+B3L07-I-10	隻	zhī	M	measure word for animals
+B3L07-I-11	可愛	kě'ài	Vs	cute
+B3L07-I-12	孤帆	gūdān	Vs	lonely
+B3L07-I-13	牠	tā	N	it (animals)
+B3L07-I-14	髒	zāng	Vs	dirty
+B3L07-I-15	洗澡	xǐzǎo	V-sep	to take a bath
+B3L07-I-16	養	yǎng	V	to raise, to keep
+B3L07-I-17	亂	luàn	Adv	arbitrarily, without rhyme or reason
+B3L07-I-18	咬	yǎo	V	to bite
+B3L07-I-19	打	dǎ	V	to hit, beat, sack, slap
+B3L07-I-20	分手	fēnshǒu	Vp	to break up (said of romantic relationship)
+B3L07-I-21	緊張	jǐnzhāng	Vs	tense
+B3L07-I-22	減輕	jiǎnqīng	V	to reduce
+B3L07-I-23	送	sòng	V	to take to
+B3L07-I-24	美容院	měiróngyuàn	N	beauty salon
+B3L07-I-25	推車	tuīchē	N	stroller
+B3L07-I-26	主人	zhǔrén	N	master, owner
+B3L07-I-27	相處	xiāngchǔ	Vi	to get along (with), to spend time together
+B3L07-I-28	生	shēng	V	to give birth, to bear
+B3L07-I-29	寵物	chǒngwù	N	pet
+B3L07-I-30	單身	dānshēn	Vs	to be single
+B3L07-I-31	醫院	yīyuàn	N	hospital
+B3L07-I-32	意見	yìjiàn	N	suggestion, opinion
+B3L07-I-33	建立	jiànlì	V	to establish
+B3L07-I-34	散步	sànbù	V-sep	to take a walk
+B3L07-I-35	家庭	jiātíng	N	family
+B3L07-I-36	真正	zhēnzhèng	Vs-attr	real, true, genuine
+B3L07-I-37	幸福	xìngfú	N	happiness, blessing
+B3L07-I-38	跌倒	dié dǎo		to fall down
+B3L07-I-39	當成	dāng chéng		to consider, view as, regard
+B3L07-I-40	忍不住	rěn bú zhù		to be beyond the limits of endurance
+B3L07-II-01	多元	duōyuán	Vs-attr	diverse, diversified
+B3L07-II-02	阿姨	āyí	N	aunt (mother's sisters)
+B3L07-II-03	先生	xiānshēng	N	husband
+B3L07-II-04	下班	xiàbān	V-sep	to get off work
+B3L07-II-05	改	gǎi	V	correct, check (homework)
+B3L07-II-06	公公	gōnggōng		father-in-law (of a female)
+B3L07-II-07	全	quán	Adv	completely, entirely
+B3L07-II-08	靠	kào	V	to depend on, rely on
+B3L07-II-09	單親	dānqīn	Vs-attr	single parent
+B3L07-II-10	貴族	guìzú	N	nobility, aristocrat
+B3L07-II-11	時代	shídài	N	period, time of
+B3L07-II-12	強	qiáng	Vs	strong
+B3L07-II-13	追	zhuī	V	to go after someone trying to establish a relationship of love, to chase
+B3L07-II-14	自由	zìyóu	Vs	free
+B3L07-II-15	獨立	dúlì	Vs	independent
+B3L07-II-16	安排	ānpái	V	to handle, to arrange
+B3L07-II-17	享受	xiǎngshòu	Vst	to enjoy
+B3L07-II-18	身邊	shēnbiān	N	by one's side
+B3L07-II-19	伴	bàn	N	companion
+B3L07-II-20	同居	tóngjū	Vi	to lie together (as a couple), to cohabit
+B3L07-II-21	成家	chéngjiā	Vp	to set up a family, to marry (from the male's perspective)
+B3L07-II-22	負擔	fùdān	V	to bear (a burden, responsibility)
+B3L07-II-23	養家	yǎngjiā	V-sep	to support one's family
+B3L07-II-24	責任	zérèn	N	responsibility
+B3L07-II-25	亂	luàn	Vs	to be in turmoil, be in chaos
+B3L07-II-26	教養	jiàoyǎng	V	to raise, bring up, train, educate (one's children)
+B3L07-II-27	接受	jiēshòu	V	to accept
+B3L07-II-28	組成	zǔchéng	V	to form
+B3L07-II-29	道德	dàodé	Vs	moral
+B3L07-II-30	因此	yīncǐ	Conj	therefore, so
+B3L07-II-31	完整	wánzhěng	Vs	complete, integral, whole
+B3L07-II-32	美真	Měizhēn		female person's name
+B3L07-II-33	家華	Jiāhuá		male person's name
+B3L07-II-34	風雲人物	fēngyún rénwù		mover and shaker, popular and influential person
+B3L07-II-35	下決心	xià juéxīn		to resolve oneself, make up one's mind (to do something)
+B3L08-I-01	整夜	zhěngyè	N	all night
+B3L08-I-02	開	kāi	V	to turn on, to power on
+B3L08-I-03	燈	dēng	N	light, lamp
+B3L08-I-04	電玩	diànwán	N	video game
+B3L08-I-05	球賽	qiúsài	N	ball game
+B3L08-I-06	激動	jīdòng	Vs	to be excited
+B3L08-I-07	喊	hǎn	Vi	to yell, shout
+B3L08-I-08	公職	gōngzhí	N	government posts
+B3L08-I-09	其實	qíshí	Adv	in fact, actually
+B3L08-I-10	公務員	gōngwùyuán	N	civil servant
+B3L08-I-11	煩	fán	Vs	"a ""drag,"" a pain in the neck"
+B3L08-I-12	聽話	tīnghuà	Vs-sep	to listen, to obey
+B3L08-I-13	失業率	shīyèlǜ	N	unemployment rate
+B3L08-I-14	門	mén	M	measure word for academic courses
+B3L08-I-15	讀書	dúshū	V-sep	to study
+B3L08-I-16	學分	xuéfēn	N	academic (credits)
+B3L08-I-17	修	xiū	V	to take (courses)
+B3L08-I-18	專心	zhuānxīn	Vs	to focus on, concentrate
+B3L08-I-19	修課	xiūkè	V-sep	to take a class
+B3L08-I-20	輔系	fǔxì	N	minor (in college)
+B3L08-I-21	瘋	fēng	Vp	to go crazy, to be insane
+B3L08-I-22	誇張	kuāzhāng	Vs	to be exaggerated
+B3L08-I-23	舉行	jǔxíng	V	to hold (a conference, exhibition)
+B3L08-I-24	遺憾	yíhàn	Vs	regretful
+B3L08-I-25	兒子	érzi	N	son
+B3L08-I-26	期望	qíwàng	N	expectations
+B3L08-I-27	狀元	zhuàngyuán	N	top-ranking in a public exam (originally the personal with the highest marks on the imperial test)
+B3L08-I-28	努力	nǔlì	Vs	diligent
+B3L08-I-29	怎麼回事	zěnme huíshì		What's wrong?
+B3L08-I-30	大喊大叫	dàhǎn dàjiào		to yell, yelling, shouting
+B3L08-I-31	期中考	qízhōng kǎo		mid-term exam
+B3L08-I-32	密集班	mìjí bān		intensive course
+B3L08-I-33	畢業展	bìyè zhǎn		graduation exhibition
+B3L08-I-34	服裝設計	fúzhuāng shèjì		fashion design
+B3L08-I-35	醫學系	yīxué xì		department of medicine
+B3L08-I-36	行行出狀元	hángháng chū zhuàngyuán		there is a leader in every industry (idiom, you can produce outstanding achievements in any task, provided you put enough love and diligence into it)
+B3L08-II-01	冠軍	guànjūn	N	champion, championship
+B3L08-II-02	大賽	dàsài	N	a major (usually international) competition
+B3L08-II-03	通過	tōngguò	Vpt	to pass
+B3L08-II-04	高級	gāojí	Vs-attr	high level, advanced
+B3L08-II-05	碩士	shuòshì	N	master's degree
+B3L08-II-06	面試	miànshì	N	interview
+B3L08-II-07	卻	què	Adv	but, yet
+B3L08-II-08	國中	guózhōng	N	junior middle school
+B3L08-II-09	學歷	xuélì	N	educational background
+B3L08-II-10	拒絕	jùjué	V	to reject
+B3L08-II-11	引起	yǐnqǐ	Vpt	to stir up, generate, cause
+B3L08-II-12	彈性	tánxìng	N	flexibility
+B3L08-II-13	改變	gǎibiàn	V	to undergo change
+B3L08-II-14	制度	zhìdù	N	system
+B3L08-II-15	基礎	jīchǔ	N	foundation, fundamentals
+B3L08-II-16	認真	rènzhēn	Vs	earnest, serious
+B3L08-II-17	公平	gōngpíng	Vs	fair
+B3L08-II-18	出生	chūshēng	Vp	to be born
+B3L08-II-19	窮	qióng	Vs	poor
+B3L08-II-20	父親	fùqīn	N	father
+B3L08-II-21	母親	mùqīn	N	father
+B3L08-II-22	學徒	xuétú	N	apprentice
+B3L08-II-23	吃苦	chīkǔ	Vs-sep	experience tough times
+B3L08-II-24	明白	míngbái	Vst	understand
+B3L08-II-25	當兵	dāngbīng	V-sep	to be a soldier, to do military service
+B3L08-II-26	認字	rènzì	Vi	to learn characters
+B3L08-II-27	烘焙	hōngbèi	V	to bake
+B3L08-II-28	學習	xuéxí	V	to study
+B3L08-II-29	技術	jìshù	N	skills
+B3L08-II-30	藝術	yìshù	N	art
+B3L08-II-31	經過	jīngguò	Prep	after
+B3L08-II-32	終於	zhōngyú	Adv	finally
+B3L08-II-33	億	yì	N	100 million
+B3L08-II-34	夢想	mèngxiǎng	N	dream, ideals (not during sleep)
+B3L08-II-35	成為	chéngwéi	Vpt	to become
+B3L08-II-36	企業家	qìyèjiā	N	entrepreneur
+B3L08-II-37	分店	fēndiàn	N	branch store, branch office
+B3L08-II-38	原因	yuányīn	N	reason
+B3L08-II-39	錄取	lùqǔ	V	to accept (application), to admit
+B3L08-II-40	成功	chénggōng	Vs	successful
+B3L08-II-41	鼓勵	gǔlì	V	to encourage
+B3L08-II-42	吳寳春	Wú Bǎochūn		a famous baker from Taiwan
+B3L08-II-43	新加坡	Xīnjiāpō		Singapore
+B3L08-II-44	日文	Rìwén		Japanese language or writing
+B3L08-II-45	世界麵包大賽	shìjiè miànbāo dàsài		The Bakery World Cup
+B3L08-II-46	高級管理人員工商管理碩士	gāojí guǎnlǐ rényuán gōngshāng guǎnlǐ shuòshì)		EMBA (Executive Master of Business Administration)
+B3L08-II-47	小時候	xiǎo shíhòu		in one's childhood
+B3L08-II-48	大開眼界	dàkāi yǎnjiè		to have one's eyes opened
+B3L08-II-49	Ｘ分之Y	X fēn zhī Y		pattern for indicating percentages or fractions
+B3L09-I-01	訂單	dìngdān	N	an order (trading)
+B3L09-I-02	客戶	kèhù	N	customer, client
+B3L09-I-03	方便	fāngbiàn	V	to offer convenience
+B3L09-I-04	訂購	dìnggòu	V	to order, place an order
+B3L09-I-05	成立	chénglì	V	to establish, set up
+B3L09-I-06	假日	jiàrì	N	holiday
+B3L09-I-07	販賣	fànmài	V	to sell
+B3L09-I-08	阿嬤	āmà	N	grandma, older woman (Taiwanese)
+B3L09-I-09	中間商	zhōngjiānshāng		middleman, reseller
+B3L09-I-10	經營	jīngyíng	V	to operate, run (a business)
+B3L09-I-11	宅配	zháipèi	Vi	express delivery
+B3L09-I-12	下	xià	V	to place (an order)
+B3L09-I-13	既	jì	Adv	not merely
+B3L09-I-14	隨時	suíshí	Adv	anytime
+B3L09-I-15	搜尋	sōuxún	V	to search
+B3L09-I-16	冰箱	bīngxiāng	N	refrigerator (lit. ice box)
+B3L09-I-17	吃虧	chīkuī	Vs-sep	to suffer a loss
+B3L09-I-18	比價	bǐjià	V-sep	to compare prices, price comparison
+B3L09-I-19	風險	fēngxiǎn	N	risk
+B3L09-I-20	賣家	màijiā	N	seller
+B3L09-I-21	必須	bìxū	Vaux	must, to have to
+B3L09-I-22	信用	xìnyòng	N	credibility
+B3L09-I-23	萬一	wànyī	Conj	in case
+B3L09-I-24	滿意	mǎnyì	Vst	satisfied
+B3L09-I-25	以內	yǐnèi	N	within
+B3L09-I-26	普遍	pǔbiàn	Vs	widespread, common
+B3L09-I-27	選擇	xuǎnzé	V	to choose
+B3L09-I-28	網購	wàng gòu		online shopping
+B3L09-I-29	貨比三家不吃虧	huò bǐ sān jiā bù chīkuī		shop around and you won't get ripped off (lit. compare products at three stores and you won't be cheated)
+B3L09-I-30	兩成	liǎngchéng		20% (lit. 2/10)
+B3L09-II-01	鳳梨	fènglí	N	pineapple
+B3L09-II-02	農產品	nóngchǎnpǐn	N	agricultural product
+B3L09-II-03	出口	chūkǒu	V	to export
+B3L09-II-04	曾經	cēngjīng	Adv	bee the case before, once
+B3L09-II-05	占	zhàn	Vst	to constitute, to account for
+B3L09-II-06	成本	chéngběn	N	cost (manufacturing, production, etc)
+B3L09-II-07	價格	jiàgé	N	price
+B3L09-II-08	競爭	jìngzhēng	Vi	to compete against
+B3L09-II-09	好運	hǎoyùn	N	good luck
+B3L09-II-10	內餡	nèixiàn	N	filing (of pastries, etc...)
+B3L09-II-11	當作	dāngzuò	V	to treat as, to serve as
+B3L09-II-12	喜餅	xǐbǐng	N	wedding-accountment pastries
+B3L09-II-13	喜愛	xǐ'ài	Vst	fond of
+B3L09-II-14	茶點	chádiǎn	N	snacks, dessert (served with tea)
+B3L09-II-15	商機	shāngjī	N	business opportunity
+B3L09-II-16	代表	dàibiǎo	V	to represent
+B3L09-II-17	政府	zhèngfǔ	N	government
+B3L09-II-18	舉辦	jǔbàn	V	to organize, hold
+B3L09-II-19	產值	chǎnzhí	N	production value, output
+B3L09-II-20	提高	tígāo	V	to increase, to elevate
+B3L09-II-21	知名	zhīmíng	Vs	well known, renowned
+B3L09-II-22	出現	chūxiàn	Vp	to appear
+B3L09-II-23	科技	kējì	N	technology
+B3L09-II-24	（台）斤	(Tái) jīn	M	catty. a unit of measurement in Taiwan, equivalent to 600 grams
+B3L09-II-25	叔叔	shúshu	N	uncle (father's younger brother)
+B3L09-II-26	口味	kǒuwèi	N	flavor
+B3L09-II-27	結果	jiéguǒ	Adv	as a result
+B3L09-II-28	購買	gòumǎi	V	to purchase
+B3L09-II-29	改善	gǎishàn	V	to improve
+B3L09-II-30	並且	bìngqiě	Conj	moreover
+B3L09-II-31	行銷	xíngxiāo	V	to market
+B3L09-II-32	團購	tuángòu	V	to group buy (for cheaper prices)
+B3L09-II-33	店面	diànmiàn	N	storefront
+B3L09-II-34	全	quán	Det	entire
+B3L09-II-35	閩南語	Mǐnnányǔ		Southern Min dialect, i.e., Taiwanese
+B3L09-II-36	旺來	wànglái		"Southern Min sound for pineapple (lit. ""abundance comes"")"
+B3L09-II-37	東京	Dōngjīng		Tokyo
+B3L09-II-38	鳳梨酥	fènglí sū		pineapple shortcake
+B3L09-II-39	第二位	dì èr wèi		second (place)
+B3L09-II-40	鳳梨農	fènglí nóng		pineapple farmer
+B4L10-II-01	出國	chūguó	V-sep	to go abroad
+B4L10-II-02	資金	zījīn	N	capital, funds
+B4L10-II-03	廠商	chǎngshāng	N	manufacturer
+B4L10-II-04	例外	lìwài	N	exception
+B4L10-II-05	關	guān	N	hurdle
+B4L10-II-06	接觸	jiēchù	V	to come in contact with, to contact
+B4L10-II-07	青年	qīngnián	N	young people
+B4L10-II-08	貸款	dàikuǎn	N	loan
+B4L10-II-09	開店	kāidiàn	V-sep	to open a store
+B4L10-II-10	料	liào	N	material, (here) a person not suited for...
+B4L10-II-11	損失	sǔnshī	Vpt	to lose
+B4L10-II-12	勇氣	yǒngqì	N	courage
+B4L10-II-13	員工	yuángōng	N	employee
+B4L10-II-14	求職	qiúzhí	Vi	to seek employment
+B4L10-II-15	目標	mùbiāo	N	target, (here) the most ideal job
+B4L10-II-16	初步	chūbù	Vs-attr	preliminary, initial
+B4L10-II-17	技巧	jìqiǎo	N	tips (advice)
+B4L10-II-18	概念	gàiniàn	N	concept, idea
+B4L10-II-19	挑	tiāo	V	to select, pick
+B4L10-II-20	基本	jīběn	Vs	basic
+B4L10-II-21	襯衫	chènshān	N	button-up shirt
+B4L10-II-22	過程	guòchéng	N	process
+B4L10-II-23	同班	tóngbān		same class
+B4L10-II-24	是...的料	shì de liào		to be gifted in...
+B4L10-II-25	接下來	jiēxiàlái		and then, next
+B4L10-II-26	提不起（勇氣）	tíbùqǐ (yǒngqì)		unable to raise... to a high level to pump up (enough courage)
+B4L10-II-27	養家活口	yǎngjiā huókǒu		support one's family
+B4L10-II-28	來自	láizì		"from 來 + literary preposition 自 ""from"" = 從...來"
+B4L10-II-29	熟讀	shóudú		to keep reading something until one remembers everything
+B4L10-II-30	考古題	kǎogǔtí		test items from previous years (題 -tí, for test items)
+B4L10-II-31	沙盤推演	shāpán tuīyǎn		to rehearse; a dry run, a practice run
+B4L10-II-32	深藍色	shēnlánsè		dark blue
+B4L11-I-01	種族	zhǒngzú	N	ethnic group, race
+B4L11-I-02	熔爐	rónglú		melting pot, smelting furnace, crucible
+B4L11-I-03	偏偏	piānpiān	Adv	deliberately, insist on
+B4L11-I-04	肯	kěn	Vaux	be willing to
+B4L11-I-05	母語	mǔyǔ	N	mother tongue
+B4L11-I-06	口音	kǒuyīn	N	accent
+B4L11-I-07	適應	shìyìng	V	to adapt to, get used to
+B4L11-I-08	了不起	liǎobùqǐ	Vs	terrific, amazing, really something
+B4L11-I-09	交流	jiāoliú	Vi	to exchange, associate
+B4L11-I-10	志工	zhìgōng	N	volunteer
+B4L11-I-11	縣	xiàn	N	country
+B4L11-I-12	市	shì	N	city
+B4L11-I-13	外籍	wàijí	Vs-attr	foreign national
+B4L11-I-14	配偶	pèi'ǒu	N	spouse
+B4L11-I-15	焦慮	jiāolǜ	Vs	to be anxious
+B4L11-I-16	溝通	gōutōng	N/V	communicate
+B4L11-I-17	障礙	zhàngài	N	obstacle, handicap
+B4L11-I-18	良好	liánghǎo	Vs	positive
+B4L11-I-19	以往	yǐwǎng	Adv	formerly, heretofore
+B4L11-I-20	面對	miànduì	V	to face, confront
+B4L11-I-21	衝擊	chōngjí	N	impact
+B4L11-I-22	大眾	dàzhòng	N	the public, the masses
+B4L11-I-23	難以	nányǐ	Adv	to find it difficult to
+B4L11-I-24	認同	rèntóng	V	to identify with, accept
+B4L11-I-25	跨國	kuàguó	Vs-attr	transnational
+B4L11-I-26	大量	dàliàng	Adv	in large quantities
+B4L11-I-27	移入	yíyù	V	to immigrate (入, to enter, into (formal))
+B4L11-I-28	憂慮	yōulǜ	Vst	to worry
+B4L11-I-29	降低	jiàngdī	V	to reduce, lower
+B4L11-I-30	素質	sùzhí	N	quality
+B4L11-I-31	歧視	qíshì	Vst	to discriminate
+B4L11-I-32	子女	zǐnǚ	N	childen (from 兒子 + 女兒)
+B4L11-I-33	資產	zīchǎn	N	asset, resource
+B4L11-I-34	應	yīng	Vaux	should, ought to (formal)
+B4L11-I-35	平等	píngděng	N	equality
+B4L11-I-36	相互	xiānghù	Adv	mutually, each other
+B4L11-I-37	外人	wàirén	N	outsider
+B4L11-I-38	聯絡	liánluò	V	to contact, to connect with
+B4L11-I-39	小明	Xiǎomíng		Xiaoming, a nickname
+B4L11-I-40	家長日	jiāzhǎngrì		parents' day
+B4L11-I-41	氣人	qìrén	Vs	exasperating, annoying
+B4L11-I-42	照說	zhào shuō		to keep on saying
+B4L11-I-43	在...之餘	zài...zhīyú		to do something at a time when not doing...
+B4L11-I-44	本地人	běndì rén		local people
+B4L11-I-45	自己人	zìjìrén		one of us, one of our own, compatriots
+B4L11-I-46	哪裏哪裏	nǎlǐ nǎlǐ		not at all, not a problem, you're welcome
+B4L11-II-01	漸漸	jiànjiàn	Adv	gradually
+B4L11-II-02	曾	céng	Adv	have been before, was once (formal)
+B4L11-II-03	嘗試	chángshì	V/N	to try (something new), attempt; an attempt
+B4L11-II-04	結構	jiégòu	N	structure
+B4L11-II-05	產生	chǎnshēng	Vp	to take place, produce
+B4L11-II-06	轉變	zhuǎnbiàn	N	change transformation
+B4L11-II-07	嬰兒	yīng'ér	N	baby
+B4L11-II-08	雙親	shuāngqīn	N	both parents
+B4L11-II-09	本國	běnguó	N	our country
+B4L11-II-10	國籍	guójí	N	nationality
+B4L11-II-11	大陸籍	dàlùjí	N	from Mainland China, (lit. Mainland nationality) (籍 -jí, nationality)
+B4L11-II-12	其	qí	Det	his, her, its their (formal)
+B4L11-II-13	比例	bǐlì	N	ratio (percentage)
+B4L11-II-14	根本	gēnběn	Vs	fundamental
+B4L11-II-15	可見	kějiàn	Conj	it is obvious that, it is clearly seen that
+B4L11-II-16	現有	xiànyǒu	Vs-attr	current, existing
+B4L11-II-17	分配	fēnpèi	N/V	distribution; to distribute, allocate
+B4L11-II-18	顧慮	gùlǜ	Vst	to be concerned about
+B4L11-II-19	學童	xuétóng	N	school children
+B4L11-II-20	身心	shēnxīn	N	physical and mental, mind and body
+B4L11-II-21	缺乏	quēfá	Vst	to lack
+B4L11-II-22	課業	kèyè	N	school work
+B4L11-II-23	指導	zhǐdǎo	N/V	guidance; to give guidance to
+B4L11-II-24	輔導	fǔdǎo	V	to counsel
+B4L11-II-25	輸	shū	Vp	to lose out (opposite of win)
+B4L11-II-26	失去	shīqù	Vp	to lose (an item), lack
+B4L11-II-27	然而	rán'ér	Conj	but, on the other hand, however
+B4L11-II-28	觀點	guāndiǎn	N	perspective
+B4L11-II-29	加速	jiāsù	V	to accelerate
+B4L11-II-30	創下	chuàngxià	Vpt	to set (a record)
+B4L11-II-31	記錄	jìlù	N	record
+B4L11-II-32	明顯	míngxiǎn	Vs	significant, obvious
+B4L11-II-33	下降	xiàjiàng	Vp	to decrease
+B4L11-II-34	趨勢	qūshì	N	trend
+B4L11-II-35	高齡化	gāolínghuà	Vp	for a population to be become aged/geriatric
+B4L11-II-36	世代	shìdài	N	generation
+B4L11-II-37	不足	bùzú	Vs	insufficient, not adequate
+B4L11-II-38	持續	chíxù	Vaux	to continue, to keep on
+B4L11-II-39	正視	zhèngshì	V	to face squarely, pay due attention to
+B4L11-II-40	國語	Guóyǔ		Mandarin
+B4L11-II-41	客語	Kèyǔ		Hakka, a Chinese (Han) dialect
+B4L11-II-42	最多數	zuìduōshù		the greatest majority
+B4L11-II-43	總人數	zǒngrénshù		total population
+B4L11-II-44	起跑點	qǐpǎodiǎn		starting line
+B4L11-II-45	新生兒	xīnshēng'ér		a newborn baby
+B4L11-II-46	生產力	shēngchǎnlì		productivity
+B4L11-II-47	一較長短	yìjiào chángduǎn		to compete, to compare against
+B4L12-I-01	王安康	Wáng Ānkāng		Wang Ankang, male
+B4L12-I-02	張定能	Zhāng Dìngnéng		Zhang Dingneng, male
+B4L12-I-03	美好	měihǎo	Vs	wonderful, beautiful
+B4L12-I-04	當選	dāngxuǎn	Vpt	to be elected to an office
+B4L12-I-05	無所謂	wúsuǒwèi	Vs	I don't care, does not bother me
+B4L12-I-06	敏感	mǐngǎn	Vs	sensitive
+B4L12-I-07	化學	huàxué	N	chemical, chemistry
+B4L12-I-08	添加物	tiānjiāwù	N	additives
+B4L12-I-09	殘留	cánliú	N/V	residue
+B4L12-I-10	修改	xiūgǎi	V	to amend
+B4L12-I-11	法規	fǎguī	N	laws ad regulations, statutes
+B4L12-I-12	安養	ānyǎng	N	to care for, to provide nursing care to all people
+B4L12-I-13	河川	héchuān	N	river and stream
+B4L12-I-14	脫離	tuōlí	Vpt	to be seperate oneself from, break away from
+B4L12-I-15	背景	bèijǐng	N	background
+B4L12-I-16	領域	lǐngyù	N	area (of study, etc.), (here) walk of life
+B4L12-I-17	竟然	jìngrán	Adv	unexpectedly, surprisingly
+B4L12-I-18	總統	zǒngtǒng	N	president
+B4L12-I-19	保障	bǎozhàng	N/V	security (e.g., job security), to guarantee
+B4L12-I-20	特權	tèquán	N	special privileges
+B4L12-I-21	把持	bǎchí	V	to control
+B4L12-I-22	監督	jiāndū	V	to oversee, monitor, supervise
+B4L12-I-23	罷免	bàmiǎn	V	to recall, remove from office
+B4L12-I-24	權	quán	N	power, authority
+B4L12-I-25	廉能	liánnéng	Vs	clean and capable
+B4L12-I-26	富足	fùzú	Vs	affluent, abundant
+B4L12-I-27	在乎	zàihū	Vst	to care about
+B4L12-I-28	生命	shēngmìng	V	life
+B4L12-I-29	財產	cáichǎn	N	property, assets
+B4L12-I-30	義工	yìgōng	N	volunteer
+B4L12-I-31	選戰	xuǎnzhàn	N	(election) campaign
+B4L12-I-32	承諾	chéngnuò	N/V	promise; to promise
+B4L12-I-33	帶領	dàilǐng	V	to lead
+B4L12-I-34	力量	lìliàng	N	power
+B4L12-I-35	擺脫	bǎituō	V	to rid of
+B4L12-I-36	困境	kùnjìng	N	dire situation
+B4L12-I-37	房地產	fángdìchǎn		real estate
+B4L12-I-38	小自... 大致...	xiǎo zì... dà zhì...		from such trivialities to such major concerns (自, from (formal); 至, to (formal))
+B4L12-I-39	是否	shìfǒu		whether or not
+B4L12-I-40	照理說	zhào lǐ shuō		normally
+B4L12-I-41	政治人物	zhèngzhì rénwù		politicians
+B4L12-I-42	受苦	shòu kǔ		suffering
+B4L12-II-01	富裕	fùyù	Vs	rich, affluent
+B4L12-II-02	貪污	tānwū	Vp	to graft, to demand
+B4L12-II-03	腐敗	fǔbài	Vs	corruption
+B4L12-II-04	政爭	zhèngzhēng	N	political infighting
+B4L12-II-05	停滯	tíngzhì	Vp	to stagnate, stall
+B4L12-II-06	上升	shàngshēng	Vp	to rise
+B4L12-II-07	信心	xìnxīn	N	confidence
+B4L12-II-08	遊民	yóumín	N	street people, the homeless
+B4L12-II-09	外界	wàijiè	N	the outside world
+B4L12-II-10	悲慘	bēicǎn	Vs	miserable, tragic
+B4L12-II-11	日子	rìzi	N	days, life
+B4L12-II-12	如此	rúcǐ	Adv	such, so
+B4L12-II-13	巨大	jùdà	Vs	enormous
+B4L12-II-14	無能	wúnéng	Vs	incompenent
+B4L12-II-15	冷漠	lěngmò	Vs	apathetic
+B4L12-II-16	學者	xuézhě	N	scholars
+B4L12-II-17	階層	jiēcéng	N	class hierarchy (in society)
+B4L12-II-18	自然	zìrán	Adv	naturally
+B4L12-II-19	阻止	zǔzhǐ	V	to prevent, block
+B4L12-II-20	遙遠	yáoyuǎn	Vs	remote
+B4L12-II-21	無論	wúlùn	Conj	no matter, regardless
+B4L12-II-22	明明	míngmíng	Adv	clearly, obviously
+B4L12-II-23	骯髒	āngzāng	Vs	dirty
+B4L12-II-24	顧	gù	V	to care about
+B4L12-II-25	自身	zìshēn	N	one's own
+B4L12-II-26	政客	zhèngkè	N	politico
+B4L12-II-27	縱容	zòngróng	V	to condone, tolerate
+B4L12-II-28	使得	shǐde	Vst	to make, to cause
+B4L12-II-29	工廠	gōngchǎng	N	factory
+B4L12-II-30	密集	mìjí	Vs	crowded with high density of
+B4L12-II-31	遭受	zāoshòu	Vst	to suffer from, be subjected to
+B4L12-II-32	困苦	kùnkǔ	Vs	distressed
+B4L12-II-33	老人年金	lǎorén niánjīn		annuity payment for senior citizens (provided by The National Pension Program in Taiwan)
+B4L12-II-34	無家可歸	wújiā kěguī		homeless, no home to go back to
+B4L12-II-36	漠不關心	mòbù guānxīn		indifferent
+B4L12-II-37	發言權	fāyán quán		right to speak, (here) a voice (in politics, etc...)
+B4L12-II-38	影響力	yǐngxiǎng lì		influence
+B4L12-II-39	官商勾結	guānshāng gōujié		collusion between politicians and business people
+B4L12-II-40	貧富懸殊	pínfù xuánshū		a huge gap between the rich and the poor
+B4L12-II-41	息息相關	xíxí xiāngguān		inextricably related to
+B4L01-I-01	小玲	Xiǎolíng		Xiaoling, female
+B4L01-I-03	聊天室	liáotiānshì	N	chatroom
+B4L01-I-04	上班族	shàngbānzú	N	(office) workers (族, -zú, group)
+B4L01-I-05	與其	yǔqí	Conj	rather than
+B4L01-I-06	冷清	lěngqīng	Vs	deserted, empty
+B4L01-I-07	高就	gāojiù	Vi	to work (honorific)
+B4L01-I-08	部門	bùmén	N	department
+B4L01-I-09	厲害	lìhài	Vs	impressive, good, awesome
+B4L01-I-10	加班	jiābān	V-sep	to work overtime
+B4L01-I-11	類	lèi	M	kind, type
+B4L01-I-12	恐怖片	kǒngbùpiàn	N	horro movie (恐怖, kǒngbù, scary; 片, -piàn, film)
+B4L01-I-13	愛情片	àiqíngpiàn	N	love story or romance movie (愛情, àiqíng, love)
+B4L01-I-14	嚇	xià	Vp	to be scared
+B4L01-I-15	哭	kū	V	to cry
+B4L01-I-16	上癮	shàngyǐn	Vp	to get hooked on, addicted
+B4L01-I-17	刺激	cìjī	Vs	stimulating
+B4L01-I-18	簡直	jiǎnzhí	Adv	simply, really
+B4L01-I-19	膽子	dǎnzi	N	guts, courage
+B4L01-I-20	部	bù	M	measure word for movies
+B4L01-I-21	限制級	xiànzhìjí	N	restricted (viewing for movies, 限制, xiànzhì, restricted; 級, jí, level)
+B4L01-I-22	電影院	diànyǐngyuàn	N	cinema, movie theater
+B4L01-I-23	呃	è	Ptc	uh, interjection indicating embarrassment
+B4L01-I-24	建設公司	jiànshè gōngsī		construction company
+B4L01-I-25	業務經理	yèwù jīnglǐ		business manager
+B4L01-I-26	室內設計	shìnèi shèjì		interior design
+B4L01-II-01	溫暖	wēnuǎn	Vs	warm
+B4L01-II-02	目前	mùqián	Adv	currently
+B4L01-II-03	所	suǒ	M	measure word for schools
+B4L01-II-04	就讀	jiùdú	Vi	to be enrolled as a student
+B4L01-II-05	不至於	búzhìyú	Adv	not so, not to that degree, not so much that
+B4L01-II-06	但	dàn	Conj	but, however (formal)
+B4L01-II-07	放學	fàngxué	Vp	after school, when school lets out
+B4L01-II-08	後	hòu		afterwards; formal
+B4L01-II-09	解決	jiějué	V	to take care
+B4L01-II-10	寂寞	jímò	Vs	lonely
+B4L01-II-11	網友	wǎngyǒu	N	online friends
+B4L01-II-12	陪伴	péibàn	V	to keep somebody company
+B4L01-II-13	電腦	diànnǎo	N	computer
+B4L01-II-14	進入	jìnrù	V	to enter
+B4L01-II-15	線上	xiànshàng	N	online
+B4L01-II-16	感情	gǎnqíng	N	emotions, feelings, love
+B4L01-II-17	小氣	xiǎoqì	Vs	to be stingy
+B4L01-II-18	時	shí	N	when (formal)
+B4L01-II-19	往往	wǎngwǎng	Adv	oftentimes
+B4L01-II-20	打氣	dǎqì	Vi	to cheer on/up
+B4L01-II-21	安慰	ānwèi	V	to comfort
+B4L01-II-28	心理	xīnlǐ	N	in (one's) mind
+B4L01-II-23	大膽	dàdǎn	Vs	to be bold, courageous
+B4L01-II-24	紓解	shūjiě	V	to relieve
+B4L01-II-25	轉換	zhuǎnhuàn	V	to change, transform
+B4L01-II-26	虛擬	xūnnǐ	Vs-attr	virtual
+B4L01-II-27	現實	xiànshí	Vs	actual, real
+B4L01-II-29	即使	jíshǐ	Conj	even if, even though
+B4L01-II-30	責備	zébèi	V	to reproach, get on somebody's case
+B4L01-II-31	期待	qídài	N	expectations
+B4L01-II-32	喘氣	chuǎnqì	V-sep	to gasp, pant
+B4L01-II-33	自在	zìzài	Vs	to be at ease, relaxed
+B4L01-II-34	交友	jiāoyǒu	Vi	to make friends (with)
+B4L01-II-35	暴力	bàolì	N	violence
+B4L01-II-36	點	diǎn	V	to click (on)
+B4L01-II-37	懂得	dǒngde	Vst	to know how to
+B4L01-II-38	陷阱	xiànjǐng	N	trap, snare
+B4L01-II-39	明星高中	míngxīnggāozhōng		distinguished, exclusive high school
+B4L01-II-40	造出晚歸	zǎochūwǎnguī		to leave home early, and get home late
+B4L01-II-41	打開	dǎkāi		to turn on, to power on
+B4L01-II-42	喘不過氣	chuǎnbúguò qì		to be under great pressure (lit., unable to breath)
+B4L01-II-43	躲進	duǒjìn		to hide oneself in
+B4L01-II-44	掉進	diàojìn		to fall into
+B4L02-I-01	李雲真	Lǐ Yúnzhēn		Li Yunzhen, female
+B4L02-I-02	眼睛	yǎnjīng	N	eye
+B4L02-I-03	耳朵	ěrduo	N	ear
+B4L02-I-04	饗宴	xiǎngyàn	N	feast
+B4L02-I-05	打扮	dǎbàn	V	to put on makeup
+B4L02-I-06	音樂廳	yīnyuètīng	N	music hall, concert hall (廳 -tīng, hall)
+B4L02-I-07	表演	biǎoyǎn	N/V	performance; to perform
+B4L02-I-08	整齊	zhěngqí	Vs	neat
+B4L02-I-09	穿著	chuānzhuó	N	attire
+B4L02-I-10	丟臉	diūliǎn	Vs-sep	to lose face, to be embarrased
+B4L02-I-11	短褲	duǎnkù	N	shorts
+B4L02-I-12	涼鞋	liángxié	N	sandals
+B4L02-I-13	擋	dǎng	V	to block
+B4L02-I-14	演出者	yǎnchūzhě	N	performer (演出 yǎnchū, to perform; 者 zhě, person)
+B4L02-I-15	尊重	zūnzhòng	Vst	to respect
+B4L02-I-16	社交	shèjiāo	N	socialization
+B4L02-I-17	免得	miǎnde	Conj	lest, so as not to, to avoid
+B4L02-I-18	中場	zhōngchǎng	N	intermission
+B4L02-I-19	準時	zhǔnshí	Vs	to be punctual, on time
+B4L02-I-20	禮貌	lǐmào	N	courtesy
+B4L02-I-21	或	huò	Conj	or (formal)
+B4L02-I-22	熟	shóu	Vs	to be familiar with, to be close to somebody
+B4L02-I-23	提	tí	V	to bring up, mention
+B4L02-I-24	咳嗽	kèsòu	Vi	to cough
+B4L02-I-25	關	guān	V	to close, shut off
+B4L02-I-26	哇	wa	Ptc	yikes, oh no
+B4L02-I-27	水準	shuǐzhǔn	N	class, cultural standard
+B4L02-I-28	手冊	shǒucè	N	program, manual
+B4L02-I-29	洗手間	xǐshǒujiān	N	restroom (間 -jiān, part of fángjiān, room)
+B4L02-I-30	提醒	tíxǐng	V	to remind
+B4L02-I-31	響	xiǎng	Vp	to sound
+B4L02-I-32	糟	zāo	Vs	awful
+B4L02-I-33	噓	xū	Ptc	Shh, to hush
+B4L02-I-34	看不成	kànbùchéng		to miss out
+B4L02-I-35	聯絡感情	liánluò gǎnqíng		to get to know each other better to strengthen ties with each other
+B4L02-I-36	擤鼻涕	xǐng bítì		to blow one's nose
+B4L02-II-01	場	chǎng	M	measure word for performances
+B4L02-II-02	強調	qiángdiào	V	to stress
+B4L02-II-03	團體	tuántǐ	N	group
+B4L02-II-04	千萬	qiānwàn	Adv	by all means
+B4L02-II-05	鋼琴	gāngqín	N	piano
+B4L02-II-06	小提琴	xiǎotíqín	N	violin
+B4L02-II-07	古典	gǔdiǎn	Vs	classical
+B4L02-II-08	畫家	huàjiā	N	painter
+B4L02-II-09	畫	huà	V/N	to paint, painting
+B4L02-II-10	舞蹈	wǔdào	N	dance
+B4L02-II-11	文學	wénxué	N	literature
+B4L02-II-12	繪畫	huìhuà	N	(act of) painting, drawing
+B4L02-II-13	等	děng	Ptc	etc., and so forth
+B4L02-II-14	寺廟	sìmiào	N	temple
+B4L02-II-15	表現	biǎoxiàn	V/N	to manifest, express; manifestation, expression
+B4L02-II-16	之	zhī	Ptc	of (from Classical Chinese, roughly equivalent to the modern Chinese 的)
+B4L02-II-17	劇情	jùqíng	N	story, plot, storyline
+B4L02-II-18	導演	dǎoyǎn	N	director (movies)
+B4L02-II-19	所	suǒ	Ptc	a verbal marker marking what comes after a verb)
+B4L02-II-20	紅	hóng	Vs	popular (of an actress or singer)
+B4L02-II-21	明星	míngxīng	N	movie stars
+B4L02-II-22	演技	yǎnjì	N	acting skills
+B4L02-II-23	得	dé	Vpt	to get, obtain, receive
+B4L02-II-24	獎	jiǎng	N	award
+B4L02-II-25	廣場	guǎngchǎng	N	plaza
+B4L02-II-26	或	huò	Conj	or
+B4L02-II-27	仔細	zǐxì	Adv	carefully, attentively
+B4L02-II-28	留意	liúyì	Vst	to pay attention, take note of
+B4L02-II-29	處處	chùchù	Adv	everywhere
+B4L02-II-30	滿足	mǎnzú	Vst	to satisfy
+B4L02-II-31	豐盛	fēngshèng	Vs	sumptuous, abundant
+B4L02-II-32	國家戲劇院	Guójiā Xìjùyuàn		National Theater
+B4L02-II-33	雲門舞集	Yúnmén Wǔjí		Cloud Gate Dance Theatre
+B4L02-II-34	國家音樂廳	Guójiā Yīnyuètīng		National Concert Hall
+B4L02-II-35	金馬影展	Jīnmǎ Yǐngzhǎn		Golden Horse Film Festival
+B4L02-II-36	現代舞	xiàndài wǔ		modern dance
+B4L02-II-37	無人不知，無人不曉	wúrén bùzhī, wúrénbùxiǎo		known to all
+B4L02-II-38	百聞不如一見	bǎiwén bùrú yíjiàn		seeing it once
+B4L02-II-39	老街	lǎojiē		old street
+B4L02-II-40	街頭藝術	jiētóu yìshù		street art
+B4L02-II-41	裝置藝術	zhuāngzhì yìshù		installation art
+B4L02-II-42	填飽	tiánbǎo		to fill one's belly
+B4L02-II-43	口服之慾	kǒufù zhīyù		the desire of one's palace
+B4L03-I-01	李文麗	Lǐ Wénlì		Li Wenlli, female
+B4L03-I-02	外婆	wàipó	N	grandma
+B4L03-I-03	女裝	nǚzhuāng	N	women's apparel
+B4L03-I-04	何必	hébì	Adv	Why bother..., Why must?
+B4L03-I-05	指	zhǐ	Vst	to mean, to indicate
+B4L03-I-06	划算	huásuàn	Vs	cost effective, a good deal
+B4L03-I-07	身材	shēncái	N	figure, build, body (shape)
+B4L03-I-08	模特兒	mótèr	N	model
+B4L03-I-09	不見得	bújiàndé	Adv	not necessarily
+B4L03-I-10	仿冒品	fǎngmàopǐn	N	knock-off, counterfeit product (仿冒 fǎngmào, counterfeit; 品 -pǐn, product)
+B4L03-I-11	瑕疵	xiácī	N	defect
+B4L03-I-12	圖片	túpiàn	N	picture
+B4L03-I-13	落差	luòchā	N	difference
+B4L03-I-14	提供	tígōng	V	to offer
+B4L03-I-15	資訊	zīxùn	N	information
+B4L03-I-16	疑問	yíwèn	N	question, doubt
+B4L03-I-17	嘛	ma	Ptc	"sentence particle, ""it is obvious that"""
+B4L03-I-18	慣	guàn	Ptc	to get used to, accustomed to etc...
+B4L03-I-19	瀏覽	liúlǎn	V	to browse, surf (the Internet)
+B4L03-I-20	後悔	hòuhuǐ	Vs	to regret, feel sorrowful about
+B4L03-I-21	深夜	shēnyè	N	late at night, in the wee hours
+B4L03-I-22	任何	rènhé	Det	any
+B4L03-I-23	駭客	hàikè	N	hacker
+B4L03-I-24	盜用	dàoyòng	V	to hack, to illegitimately use
+B4L03-I-25	認證	rènzhèng	V/N	to certify, certification
+B4L03-I-26	銀髮族	yínfázú	N	senior citizens, seniors (銀 yín, silver; 髮 -fǎ, hair)
+B4L03-I-27	從前	cóngqián	N	in the past, formerly
+B4L03-I-28	通常	tōngcháng	Adv	generally, as a rule
+B4L03-I-29	取貨	qǔhuò	V-sep	to pick up goods
+B4L03-I-30	付款	fùkuǎn	V-sep	to make payments
+B4L03-I-31	雲端科技	yúnduān kējì		cloud/Internet technology
+B4L03-I-32	宅經濟	zháijīngjì		online economy
+B4L03-I-33	用不慣	yòngbúguàn		not used/accustomed to using, not comfortable with
+B4L03-I-34	退還	tuì huàn		to return, to exchange for something else
+B4L03-I-35	信用卡	xìnyòng kǎ		credit card
+B4L03-II-01	縮短	suōduǎn	Vpt	to shorten
+B4L03-II-02	人們	rénmen	N	people in general
+B4L03-II-03	距離	jùlí	N	distance
+B4L03-II-04	取代	qǔdài	V	to replace
+B4L03-II-05	信	xìn	N	letter, mail
+B4L03-II-06	影集	yǐngjí	N	(TV) series
+B4L03-II-07	取得	qǔdé	V	to obtain, access
+B4L03-II-08	例如	lìrú	Vst	for example
+B4L03-II-09	民眾	mínzhòng	N	the public, people in general
+B4L03-II-10	高速公路	gāosù gōnglù	N	highway, freeway
+B4L03-II-11	前	qián	N	before (formal)
+B4L03-II-12	查詢	cháxún	V	to look up, check
+B4L03-II-13	路況	lùkuàng	N	road situation, traffic situation
+B4L03-II-14	避開	bìkāi	V	to avoid
+B4L03-II-15	路段	lùduàn	N	section of road
+B4L03-II-16	若	ruò	Conj	if, supposing
+B4L03-II-17	運用	yùnyòng	V	to use, employ
+B4L03-II-18	病歷	bìnglì	N	medical records
+B4L03-II-19	例子	lìzi	N	example
+B4L03-II-20	更加	gèngjiā	Adv	even more
+B4L03-II-21	原本	yuánběn	Adv	orginally
+B4L03-II-22	忙碌	mánglù	Vs	busy
+B4L03-II-23	確實	quèshí	Adv	indeed
+B4L03-II-24	控制	kòngzhì	V	to control
+B4L03-II-25	表弟	biǎodì	N	cousin (younger male cousin from one's mother's side as well as from one's father's sisters)
+B4L03-II-26	退步	tuìbù	Vp	to regress, get worse, fall behind
+B4L03-II-27	過度	guòdù	Adv	overly, excessively
+B4L03-II-28	與	yǔ	Conj	and (formal)
+B4L03-II-29	生理	shēnglǐ	N	physical health
+B4L03-II-30	盯	dīng	V	to stare
+B4L03-II-31	螢幕	yíngmù	N	screen, monitor
+B4L03-II-32	疲倦	píjuàn	Vs	tired, fatigued
+B4L03-II-33	視力	shìllì	N	vision, eyesight
+B4L03-II-34	家長	jiāzhǎng	N	parent
+B4L03-II-35	此外	cǐwài	Conj	in addition
+B4L03-II-36	戶外	hùwài	N	outdoor
+B4L03-II-37	人類	rénlèi	N	mankind, humans
+B4L03-II-38	正面	zhèngmiàn	Vs	positive
+B4L03-II-39	同時	tóngshí	Adv	at the same time
+B4L03-II-40	負面	fùmiàn	Vs	negative
+B4L03-II-41	沉迷	chénmí	Vs	to be obsessed with, wallow in
+B4L03-II-42	無形中	wúxíng zhōng		imperceptibly
+B4L03-II-43	遠距教學	yuǎnjù jiāoxué		distance learning
+B4L03-II-44	大吵大鬧	dàchǎo dànào		to kick up a row, make a scene, scream bloody murder
+B4L03-II-45	焦慮不安	jiāolǜ bù'ān		to be anxious
+B4L03-II-46	總而言之	zǒng'ér yǎnzhī		in conclusion, to sum up, in short
+B4L04-I-01	該	gāi	Vaux	should, ought to
+B4L04-I-02	擺	bǎi	V	to place, display
+B4L04-I-03	總算	zǒngsuàn	Adv	finally
+B4L04-I-04	欸	èi	Ptc	hey, calling attention
+B4L04-I-05	呀	yā	Ptc	particle indicating uncertainty
+B4L04-I-06	衣櫥	yīchú	N	closet
+B4L04-I-07	梳妝台	shūzhuāngtái	N	dressing table
+B4L04-I-08	位置	wèizhì	N	position, location
+B4L04-I-09	空間	kōngjiān	N	space
+B4L04-I-10	科學	kēxué	N	science
+B4L04-I-11	風水師	fēngshuǐshī	N	Feng Shui master, geomancer (風水 fēngshuǐ, Feng Shui; 師 -shī, master)
+B4L04-I-12	在意	zàiyì	Vs	to care about
+B4L04-I-13	所謂	suǒwèi	V	so-called, what is known as
+B4L04-I-14	角度	jiǎodù	N	angle, perspective
+B4L04-I-15	改造	gǎizào	V	to transform, restructure
+B4L04-I-16	學問	xuéwèn	N	a branch of learning
+B4L04-I-17	居住	jūzhù	Vi	to live, reside
+B4L04-I-18	日常	rìcháng	Vs-attr	daily
+B4L04-I-19	布置	bùzhì	N/V	decor, layout, arrangement; to decorate, to arrange furniture
+B4L04-I-20	凶猛	xiōngměng	Vs	fierce, ferocious
+B4L04-I-21	動物	dòngwù	N	animal
+B4L04-I-22	刀	dāo	N	knife
+B4L04-I-23	劍	jiàn	N	sword
+B4L04-I-24	脾氣	píqì	N	temper
+B4L04-I-25	暴躁	bàozào	Vs	cranky, irritable
+B4L04-I-26	衝動	chōngdòng	Vs	impulsive, rash
+B4L04-I-27	鏡子	jìngzi	N	mirror
+B4L04-I-28	床脚	chuángjiǎo	N	foot of the bed
+B4L04-I-29	光	guāng	Adv	alone, merely
+B4L04-I-30	擺飾	bǎishì	N	decor, ornaments
+B4L04-I-31	老婆	lǎopó	N	wife
+B4L04-I-32	把	bǎ	M	measure for objects that can be grasped or objects with a handle, e.g., umbrella, knife
+B4L04-I-33	欺負	qīfù	V	to pick on, bully, take advantage of
+B4L04-I-34	風水學	Fēngshuǐxué		the study of Feng Shui, geomancy (學 -xué, study, -ology)
+B4L04-I-35	正對門	zhèng duì mén		directly facing the door
+B4L04-I-36	譬如說	pìrú shuō		for example
+B4L04-I-37	一口氣	yì kǒu qì		in one breath
+B4L04-I-38	死定了	sǐdìngle		(You're) a dead man; You're toast
+B4L04-II-01	地理	dìlǐ	N	geography
+B4L04-II-02	便利性	biànlìxìng	N	convenience (性 -xìng, property, suffix indicating that a term is a noun)
+B4L04-II-03	周邊	zhōubiān	N	surrounding, periphery
+B4L04-II-04	住宅	zhùzhái	N	residence
+B4L04-II-05	詞	cí	N	term, word
+B4L04-II-06	西元	Xīyuán		A.D.
+B4L04-II-07	推翻	tuīfān	V	to repudiate, overturn
+B4L04-II-08	心中	xīnzhōng	N	in somebody's heart
+B4L04-II-09	名言	míngyán	N	well-known saying
+B4L04-II-10	建造	jiànzào	V	to build
+B4L04-II-11	塑造	sùzào	V	to shape
+B4L04-II-12	命運	mìngyùn	N	fate, destiny
+B4L04-II-13	本身	běnshēn	N	itself, oneself
+B4L04-II-14	地標	dìbiāo	N	landmark
+B4L04-II-15	參考	cānkǎo	V/N	to make reference to; reference
+B4L04-II-16	外觀	wàiguān	N	exterior, appearance
+B4L04-II-17	疊	dié	V	to stack
+B4L04-II-18	盆子	pénzi	N	basin
+B4L04-II-19	斜	xié	Vs	slanted, tilted
+B4L04-II-20	牆面	qiángmiàn	N	wall face
+B4L04-II-21	聚寶盆	jùbǎopén	N	treasure basin, similar to a cornucopia but filled with treasure (聚 -jù, to gather; 寶 -bǎo, treasure; 盆 -pén, basin)
+B4L04-II-22	角	jiǎo	N	corner
+B4L04-II-23	龍	lóng	N	dragon
+B4L04-II-24	古	gǔ	Vs-attr	ancient (formal)
+B4L04-II-25	錢幣	qiánbì	N	coins, currency
+B4L04-II-26	屋頂	wūdǐng	N	roof
+B4L04-II-27	龜	guī	N	turtle, tortoise
+B4L04-II-28	招財	zhāocái	Vi	to attract treasure
+B4L04-II-29	側門	cèmén	N	side door, side gate
+B4L04-II-30	遮雨棚	zhēyǔpéng	N	canopy, awning
+B4L04-II-31	如意	rúyì		ruyi, scepter, s-shaped ornamental object that brings good luck
+B4L04-II-32	設計	shèjì	N/V	design; to design
+B4L04-II-33	偶然	ǒurán	Vs	random, accidental, chancy
+B4L04-II-34	晉代	Jìn Dài		Jin Dynasty
+B4L04-II-35	郭璞	Guō Pú		Guo Pu
+B4L04-II-36	英國	Yīngguó		the UK
+B4L04-II-37	邱吉爾	Qiūjí'ěr		Churchill
+B4L04-II-38	信義路	Xìnyì Lù		Xinyi Road
+B4L04-II-39	松智路	Sōngzhì Lu		Songzhi Road
+B4L04-II-40	一命二運三風水	yímìng èryùn sānfēngshuǐ		Fate is most important. Luck is second. Feng Shui is third.
+B4L04-II-41	加起來	jiāqǐlái		to add up, totalize
+B4L04-II-42	要錢龜	yǎoqián guī		money-biting turtle
+B4L04-II-43	十全十美	shíquán shíměi		perfect, pinnacle of perfection
+B4L05-I-01	夢	mèng	N	dream
+B4L05-I-02	排隊	páiduì	V-sep	to line up, stand in queue
+B4L05-I-03	校刊	xiàokān	N	school newspaper, school publications of all sorts
+B4L05-I-04	採訪	cǎifǎng	V	to interview
+B4L05-I-05	校友	xiàoyǒu	N	alumnus
+B4L05-I-06	博士	bóshì	N	doctorate, PhD
+B4L05-I-07	學位	xuéwèi	N	academic degree
+B4L05-I-08	考	kǎo	V	to take a test
+B4L05-I-09	司機	sījī	N	driver, chauffeur
+B4L05-I-10	學士	xuéshì	N	bachelor's, college degree
+B4L05-I-11	地攤	dìtān	N	street stall
+B4L05-I-12	現象	xiànxiàng	N	phenomenon
+B4L05-I-13	稀奇	xīqí	Vs	rare (and unique), singular
+B4L05-I-14	搶	qiǎng	V	to rob, mug
+B4L05-I-15	批評	pīpíng	V	to criticize
+B4L05-I-16	浪費	làngfèi	Vst	to waste
+B4L05-I-17	畢竟	bìjìng	Adv	after all
+B4L05-I-18	貢獻	gòngxiàn	V	to make contributions
+B4L05-I-19	的確	díquè	Adv	indeed
+B4L05-I-20	盲目	mángmù	Adv	blindly
+B4L05-I-21	升學	shēngxué	Vi	to pursue further education
+B4L05-I-22	逃避	táobì	V	to evade, escape
+B4L05-I-23	就業	jiùyè	N/Vi	employment; to get a job
+B4L05-I-24	延後	yánhòu	V	to postpone
+B4L05-I-25	啃老族	kěnlǎozú	N	"a ""sponge"", a ""parasite"", somebody who feeds off the old (啃老 kěnlǎo, live off of one's parents, lit. gnaw on the old)"
+B4L05-I-26	收攤	shōutān	V-sep	to close up shop (said of streets stalls)
+B4L05-I-27	清潔隊員	qīngjié duìyuán		cleaning squad, street cleaners (清潔 qīngjié, to clean; 隊員 -duìyuán, team member)
+B4L05-I-28	擺地攤	bǎi dìtān		to have a street stall
+B4L05-I-29	大多數	dàduōshù		most, the majority of
+B4L05-I-30	話說回來	huàshuō huílái		on the other hand, however
+B4L05-I-31	自食其力	zìshí qílì		to rely on yourself, to stand on your own two feet
+B4L05-I-32	下一期	xiàyìqí		next issue (of a periodical)
+B4L05-II-01	段	duàn	M	a period of (time)
+B4L05-II-02	物價	wùjià	N	prices, commodity prices
+B4L05-II-03	上漲	shàngzhǎng	Vp	to rise (of prices)
+B4L05-II-04	所得	suǒdé	N	income
+B4L05-II-05	漲	zhǎng	Vp	to rise (as of prices and water level)
+B4L05-II-06	勉強	miǎnqiǎng	Adv	barely, with great reluctance
+B4L05-II-07	根本	gēnběn	Adv	at all, in the slightest
+B4L05-II-08	組織	zǔzhī	N	organization
+B4L05-II-09	抗議	kàngyì	V	to protest again
+B4L05-II-10	地價	dìjià	N	land prices
+B4L05-II-11	房價	fángjià	N	house prices
+B4L05-II-12	高漲	gāozhǎng	Vs	to (upward) surge
+B4L05-II-13	造成	zàochéng	Vpt	to cause, produce, make
+B4L05-II-14	統計	tǒngjì	N	statistics
+B4L05-II-15	窮忙	qióngmáng	Vs	busy doing things without achieving anything
+B4L05-II-16	全球	quánqiú	N	global, worldwide
+B4L05-II-17	景氣	jǐngqì	Vs	prosperous, booming, economic conditions
+B4L05-II-18	施行	shīxíng	V	to implement, put into effect
+B4L05-II-19	薪資	xīnzī	N	pay, salary, wages
+B4L05-II-20	多年	duōnián	N	for many years, for so long
+B4L05-II-21	未	wèi	Adv	not yet (formal)
+B4L05-II-22	調高	tiáogāo	V	to adjust upward
+B4L05-II-23	裁員	cáiyuán	Vi	to lay off
+B4L05-II-24	觀察	guānchá	V	to observe, note
+B4L05-II-25	彩券	cǎiquàn	N	lottery
+B4L05-II-26	中獎	zhòngjiǎng	Vp-sep	to win (a prize or lottery), to hit a jackpot
+B4L05-II-27	做夢	zuòmèng	V-sep	to dream
+B4L05-II-28	發財	fācái	Vp-sep	to strike it rich
+B4L05-II-29	臉色	liǎnsè	N	countenance (mood shown on face)
+B4L05-II-30	報導	bàodǎo	N	report, article, story (news)
+B4L05-II-31	指出	zhǐchū	V	to indicate, point out
+B4L05-II-32	創業	chuàngyè	Vi	to set up a business
+B4L05-II-33	餐飲業	cānyǐnyè	N	food and beverages industry
+B4L05-II-34	人生	rénshēng	N	life
+B4L05-II-35	及	jí	Conj	and (formal)
+B4L05-II-36	挑戰	tiǎozhàn	N	challenge
+B4L05-II-37	培養	péiyǎng	V	to cultivate, train, foster
+B4L05-II-38	實力	shílì	N	strength (not physical strength)
+B4L05-II-39	等待	děngdài	V	to wait for, await
+B4L05-II-40	擁有	yǒngyǒu	Vst	to have as one's own, possess
+B4L05-II-41	中國大陸	Zhōngguó Dàlù		Mainland China
+B4L05-II-42	存不了	cúnbùliǎo		can't save (money)
+B4L05-II-43	無殼蝸牛	wúké guāniú		"""snails without shells"" (people who cannot afford to buy their own home)"
+B4L05-II-44	貧富不均	pínfù bùjūn		gap between the rich and the poor, unequal distribution of wealth
+B4L05-II-45	苦哈哈	kǔ hāhā		bitter life, very poorly
+B4L05-II-46	另謀發展	lìngmóu fāzhǎn		to seek opportunities elsewhere
+B4L05-II-47	恨不得	hènbùdé		to be dying to, desperately
+B4L05-II-48	一夜致富	yíyè zhìfù		to become rich overnight
+B4L05-II-49	一片天	yípiàntiān		"""place in the sun,"" a job that makes you happy and provides you with all the money and things that you want, paradise"
+B4L06-I-02	地震	dìzhèn	N	earthquake
+B4L06-I-03	搖	yáo	Vp	to rock, to shake
+B4L06-I-04	厲害	lìhài	Vs	fierce, formidable
+B4L06-I-05	經常	jīngcháng	Adv	frequently
+B4L06-I-06	倒	dǎo	Vp	to collapse
+B4L06-I-07	橋	qiáo	N	bridge
+B4L06-I-08	斷	duàn	Vp	to break, to snap
+B4L06-I-09	多	duó	Adv	so
+B4L06-I-10	地區	dìqū	N	region
+B4L06-I-11	強烈	qiángliè	Vs	strong
+B4L06-I-12	頻率	pínlǜ	N	frequency
+B4L06-I-13	預測	yùcè	V	to predict, forecast
+B4L06-I-14	徵兆	zhēngzhào	N	sign, omen
+B4L06-I-15	鳥類	niǎolèi	N	birds
+B4L06-I-16	鷄	jī	N	chicken
+B4L06-I-17	預先	yùxiān	Adv	in advance
+B4L06-I-18	老鼠	lǎoshǔ	N	mouse, rat
+B4L06-I-19	貓	māo	N	cat
+B4L06-I-20	馬	mǎ	N	horse
+B4L06-I-21	證實	zhèngshí	V	to verify
+B4L06-I-22	應變	yìngbiàn	Vi	to meet an emergency
+B4L06-I-23	隨手	suíshǒu	Adv	within easy reach
+B4L06-I-24	白	bái	Adv	in vain
+B4L06-I-25	嫌	xián	Vst	to grumble
+B4L06-I-26	事前	shìqián	Adv	in advance
+B4L06-I-27	總是	zǒngshì	Adv	always
+B4L06-I-28	西歐	Xī Ōu		Western Europe
+B4L06-I-29	北歐	Běi Ōu		Northern Europe
+B4L06-I-30	中歐	Zhōng Ōu		Central Europe
+B4L06-I-31	澳洲	Àozhōu		Australia
+B4L06-I-32	南美洲	Nán Měizhōu		South America
+B4L06-I-33	地球科學	dìqiú kēxué		earth science studies
+B4L06-I-34	菲律賓	Fēilǜbīn		the Philippines
+B4L06-I-35	天搖地動	tiānyáo dìdòng		swaying heavens and trembling earth, earth-shaking
+B4L06-I-36	壓死	yāsǐ		crushed to death
+B4L06-I-37	災情慘重	zāiqíng cǎnzhòng		in serious danger
+B4L06-I-38	東半部	dōngbànbù		the eastern half
+B4L06-I-39	地震帶	dìzhēndài		seismic zone, earthquake belt
+B4L06-I-40	救生包	jiùshēng bāo		survival kit, survival pack
+B4L06-I-41	有備無患	yǒubèi wúhàn		be prepared, be on the safe side
+B4L06-II-01	如何	rúhé	Adv	how
+B4L06-II-02	逃生	táoshēng	Vi	to evacuate
+B4L06-II-03	發達	fādá	Vs	advanced, developed
+B4L06-II-04	天災	tiānzāi	N	natural disaster
+B4L06-II-05	災害	zāihài	N	disaster, damage (from a disaster)
+B4L06-II-06	程度	chéngdù	N	degree, level
+B4L06-II-07	首先	shǒuxiān	Adv	first of all
+B4L06-II-08	其次	qícì	Adv	second, next, then
+B4L06-II-09	災難	zāinàn	N	disaster
+B4L06-II-10	緊急	jǐnjí	Vs	in emergency
+B4L06-II-11	必需品	bìxūpǐn	N	necessity (必需 bìxū, essential, indispensable)
+B4L06-II-12	譬如	pìrú	Vst	for example, like
+B4L06-II-13	手電筒	shǒudiàntǒng	N	flashlight, torch
+B4L06-II-14	餅乾	bǐnggān	N	crackers, cookies
+B4L06-II-15	平時	píngshí	N	in ordinary times
+B4L06-II-16	狀況	zhuàngkuàng	N	situation, circumstance
+B4L06-II-17	慌張	huāngzhāng	Vs	to panic, be flustered
+B4L06-II-18	停電	tíngdiàn	Vp-sep	to have a power charge
+B4L06-II-19	黑暗	hēiàn	N	the darkness
+B4L06-II-20	方向	fāngxiàng	N	direction
+B4L06-II-21	集合	jíhé	Vi	to meet, assemble
+B4L06-II-22	裂縫	lièfèng	N	crack
+B4L06-II-23	瓦斯	wǎsī	N	natural gas
+B4L06-II-24	開關	kāiguān	N	switch
+B4L06-II-25	火災	huǒzāi	N	fire (disaster), conflagration
+B4L06-II-26	門框	ménkuāng	N	door frame
+B4L06-II-27	歪	wāi	Vp	askew, slanted, crooked
+B4L06-II-28	頭部	tóubù	N	head
+B4L06-II-29	冷靜	lěngjìng	Vs	cool-headed, calm
+B4L06-II-30	穩	wěn	Vs	steady
+B4L06-II-31	櫃子	guìzi	N	closet, cabinet
+B4L06-II-32	牆壁	qiángbì	N	wall
+B4L06-II-33	倒塌	dǎotā	Vp	to collapse
+B4L06-II-34	電梯	diàntī	N	elevator
+B4L06-II-35	反而	fǎn'ér	Conj	on the contrary, rather
+B4L06-II-36	堅固	jiānggù	Vs	strong, firm, solid
+B4L06-II-37	柱子	zhùzi	N	pillar, column
+B4L06-II-38	碰	pèng	V	to hit, bump into
+B4L06-II-39	形成	xíngchéng	V	to form
+B4L06-II-40	三角形	sānjiǎoxíng	N	triangle
+B4L06-II-41	保持	bǎochí	V	to remain, stay
+B4L06-II-42	平靜	píngjìng	Vs	calm
+B4L06-II-43	指示	zhǐshì	N	instruction, commands
+B4L06-II-44	救援	jiùyuán	Vi	to rescue
+B4L06-II-45	行動	xíngdòng	N	activity, action, operations
+B4L06-II-46	掉下來	diàoxiàlái		to fall down, to drop
+B4L06-II-47	倒下來	dǎoxiàlái		to fall over, to collapse
+B4L06-II-48	救災人員	jiùzāi rényuán		rescue personnel
+B4L07-I-01	博文	Bówén		a senior in college
+B4L07-I-02	玉珍	Yùzhēn		a sophomore in college
+B4L07-I-03	學妹	xuémèi	N	female lower classmate (see culture notes)
+B4L07-I-04	學弟	xuédì	N	male lower classmates
+B4L07-I-05	彈	tán	V	to play (piano, guitar)
+B4L07-I-06	吉他	jítā	N	guitar
+B4L07-I-07	交	jiāo	V	to submit, hand in
+B4L07-I-08	家教	jiājiào	N	coach, tutor
+B4L07-I-09	學長	xuézhǎng	N	male upper classmates
+B4L07-I-10	還	hái	Adv	to one's surprise
+B4L07-I-11	進度	jìndù	N	progress
+B4L07-I-12	落後	luòhòu	Vp	to fall behind, lag
+B4L07-I-13	完成	wánchéng	Vpt	to complete
+B4L07-I-14	一連	yìlián	Adv	in a row, in succession
+B4L07-I-15	約會	yuēhuì	V-sep	to make a date/appointment
+B4L07-I-16	一生	yìshēng	N	(for) one's life
+B4L07-I-17	時光	shíguāng	N	time
+B4L07-I-18	倒流	dàoliú	Vp	to flow backward
+B4L07-I-19	加強	jiāqiáng	V	to strengthen
+B4L07-I-20	至少	zhìshǎo	Adv	at least
+B4L07-I-21	訓練	xùnliàn	N/V	training, to train
+B4L07-I-22	外國	wàiguó	N	other countries, abroad, foreign
+B4L07-I-23	爭取	zhēngqǔ	V	to vie for, compete for
+B4L07-I-24	實習	shíxí	Vi	to intern
+B4L07-I-25	二分之一	èrfēn zhīyī		1/2
+B4L07-I-27	到時候	dàoshíhòu		at that time, when the time comes
+B4L07-I-28	談戀愛	tán liànnài		to be in love, go steady (said of dating couples)
+B4L07-I-29	低空飛過	dīkōng fēiguò		barely managed to pass (a test, course)
+B4L07-I-30	有助於	yǒuzhùyú		to help in something, be beneficial to something
+B4L07-I-31	寒暑假	hánshǔ jià		winter and summer vacations
+B4L07-II-01	暗戀	ànliàn	V	to have a crush on someone
+B4L07-II-02	目光	mùguāng	N	eyes, gaze
+B4L07-II-03	移動	yídòng	Vi	to move
+B4L07-II-04	於是	yúshì	Conj	so, whereupon
+B4L07-II-05	原來	yuánlái	Adv	the truth is
+B4L07-II-06	煩惱	fánnǎo	Vs	to be troubled, vexed
+B4L07-II-07	擔任	dānrèn	V	to hold the post of
+B4L07-II-08	學生會	xuéshēnghuì	N	student union (會 -huì, organization)
+B4L07-II-09	會長	huìzhǎng	N	president of an association, club, etc... (長 -zhǎng, head)
+B4L07-II-10	校隊	xiàoduì	N	school team
+B4L07-II-11	隊員	duìyuán	N	team member (員 -yuán, person)
+B4L07-II-12	高大	gāodà	Vs	tall and big, bulky
+B4L07-II-13	帥氣	shuàiqì	Vs	dashing, handsome
+B4L07-II-14	雙	shuāng	M	a pair of
+B4L07-II-15	開朗	kāilǎng	Vs	cheerful
+B4L07-II-16	微笑	wéixiào	Vi	to smile
+B4L07-II-17	情人節	qíngrénjié	N	Valentine's Day (節 -jié, holiday, day)
+B4L07-II-18	親手	qīnshǒu	Adv	personally, with one's one hands
+B4L07-II-19	巧克力	qiǎokèlì	N	chocolate
+B4L07-II-20	當天	dāngtiān	N	that day
+B4L07-II-21	堆	duī	M	a pile of
+B4L07-II-22	向	xiàng	Prep	to
+B4L07-II-23	告白	gàobái	Vi	to confess
+B4L07-II-24	萬人迷	wànrénmí	N	heartthrob (迷 -mí, charmer)
+B4L07-II-25	交往	jiāowǎng	Vi	to go steady, to date
+B4L07-II-26	系花	xìhuā	N	department beauty, the most beautiful girl in a department
+B4L07-II-27	追	zhuī	V	to chase, woo
+B4L07-II-28	情書	qíngshū	N	love letter
+B4L07-II-29	態度	tàidù	N	attitude
+B4L07-II-30	曖昧	àimèi	Vs	ambiguous (about one's relationship)
+B4L07-II-31	甜蜜	tiánmì	Vs	sweet
+B4L07-II-32	溫柔	wēnróu	Vs	tender
+B4L07-II-33	訊息	xùnxí	N	message
+B4L07-II-34	忌妒	jìdù	Vst	to be jealous
+B4L07-II-35	安全感	ānquángǎn	N	the feeling of security (感 -gǎn, sense/feeling of)
+B4L07-II-36	吃醋	chīcù	Vp-sep	to be jealous
+B4L07-II-37	吵架	chǎojià	V-sep	to quarrel, fight, argue
+B4L07-II-38	牽	qiān	V	to hold
+B4L07-II-39	吻	wěn	V	to kiss
+B4L07-II-40	劈腿	pītuǐ	Vp-sep	to two-time
+B4L07-II-41	糟糕	zāogāo	Ptc	oh no, how terrible, what bad luck!
+B4L07-II-42	荷清源	Hé Qīngyuán		a male college student
+B4L07-II-43	林榮華	Lín Rónghuá		a male college student
+B4L07-II-44	一見鍾情	yíjiàn zhōngqíng		love at first sight
+B4L07-II-45	一舉一動	yìjǔ yídòng		every move
+B4L07-II-46	前一天	qián yì tiān		the day before
+B4L07-II-47	已讀不回	yǐdú bùhuí		read without reply
+B4L08-I-01	王麗華	Wáng Lìhuá		a woman from Taiwan
+B4L08-I-02	魯亞	Lǔ Yǎ		a man from Turkey
+B4L08-I-03	論文	lùnwén	N	thesis, dissertation, scholarly article
+B4L08-I-04	反正	fǎnzhèng	Adv	in any case
+B4L08-I-05	不只	bùzhǐ	Adv	not only
+B4L08-I-06	哈	hā	Ptc	ha
+B4L08-I-07	代替	dàitì	V	to substitute, to be in place of
+B4L08-I-08	獨自	dúzì	Adv	alone, by oneself
+B4L08-I-09	難免	nánmiǎn	Adv	inevitably, hard to avoid
+B4L08-I-10	費用	fèiyòng	N	costs, expense
+B4L08-I-11	觀念	guānniàn	N	concept, notion
+B4L08-I-12	代	dài	N	generation
+B4L08-I-13	婚姻	hūnyūn	N	marriage
+B4L08-I-14	束縛	shùfú	V	to be fettered by, bound by, shackled by
+B4L08-I-15	追求	zhuīqiú	V	to pursue
+B4L08-I-16	倒是	dàoshì	Adv	on the other hand
+B4L08-I-17	推行	tuīxíng	V	to promote
+B4L08-I-18	生育	shēngyù	V/N	to have babies; reproduction; childbirth
+B4L08-I-19	補助	bǔzhù	V/N	to subsidize; subsidy, allowance
+B4L08-I-20	老人	lǎorén	N	old people, seniors
+B4L08-I-21	夫婦	fūfù	N	husband and wife, couple (夫 -fū, man; 婦 -fù, woman)
+B4L08-I-22	獨生子	dúshēngzǐ	N	only child (male)
+B4L08-I-23	寵	chǒng	Vst	to spoil (somebody)
+B4L08-I-24	職業	zhíyè	N	occupation, profession
+B4L08-I-25	婦產科	fùchǎnkē	N	obstetrics and gynecology, OB/GYN ( 婦 -fù; 產 -chǎn, produce; 科 -kē, department)
+B4L08-I-26	失業	shīyè	Vp	to lose one's job, to become unemployed
+B4L08-I-27	補習班	bǔxíbān		cram school (補習 bǔxī, supplement studies; 班 -bān, class)
+B4L08-I-28	不可思議	bùkě sīyì		hard to comprehend, beyond logic, unbelieveable
+B4L08-I-29	有話直說	yǒuhuà zhíshuō		to be frank, don't hold anything back, spit it out
+B4L08-I-30	娃娃推車	wáwa tuīchē		baby carriage
+B4L08-I-31	不足為奇	bùzú wéiqí		nothing strange, not surprising at all
+B4L08-I-32	遠遠	yuǎnyuǎn		by far
+B4L08-I-33	傳宗接代	chuánzōng jiēdài		carry on the family line
+B4L08-I-34	無拘無束	wújū wúshù		carefree, free, do as one pleases
+B4L08-I-35	老一輩	lǎoyíbèi		the older generation
+B4L08-I-36	一胎化政策	yìtāihuà zhèngcè		One Child Policy
+B4L08-I-37	這下子	zhèxiàzi		as a consequence
+B4L08-II-01	已	yǐ	Adv	already (formal)
+B4L08-II-02	生育率	shēngyùlǜ	N	birthday rate (率 -lǜ, rate)
+B4L08-II-03	離婚	líhūn	Vp-sep	to get divorced
+B4L08-II-04	年齡	niánlíng	N	age
+B4L08-II-05	較	jiào	Adv	comparatively more (formal)
+B4L08-II-06	使	shǐ	Vst	to cause
+B4L08-II-07	行業	hángyè	N	business, walks of life
+B4L08-II-08	重大	zhòngdà	Vs	enormous, heavy
+B4L08-II-09	幼稚園	yòuzhìyuán	N	kindergarten
+B4L08-II-10	招生	zhāoshēng	Vi	to recruit students, find students
+B4L08-II-11	減班	jiǎnbān	Vp-sep	to reduce enrollments
+B4L08-II-12	將	jiāng	Adv	will soon
+B4L08-II-13	少子化	shǎozǐhuà	Vp	low birth rate (少 -shǎo 子zǐ 化huà
+B4L08-II-14	連鎖	liánsuǒ	Vs-attr	chain, franchise
+B4L08-II-15	兒童	értóng	N	child(ren)
+B4L08-II-16	美語	Měiyǔ	N	(American) English
+B4L08-II-17	倒閉	dǎobì	Vp	to go out of business
+B4L08-II-18	何況	hékuàng	Adv	much less, let alone
+B4L08-II-19	無法	wúfǎ	Adv	to be unable to
+B4L08-II-20	未來	wèilái	N	future
+B4L08-II-21	遠景	yuǎnjǐng	N	future prospects
+B4L08-II-22	足夠	zúgòu	Vs	enough
+B4L08-II-23	加入	jiārù	V	to enter, join
+B4L08-II-24	老化	lǎohuà	Vp	aging
+B4L08-II-25	針對	zhēnduì	Prep	aimed at, directed at
+B4L08-II-26	項	xiàng	M	item
+B4L08-II-27	措施	cuòshī	N	measure
+B4L08-II-28	減稅	jiǎnshuì	V-sep	to reduce taxes, tax break
+B4L08-II-29	延長	yáncháng	V	to extended, make longer
+B4L08-II-30	產假	chǎnjià	N	maternity leave
+B4L08-II-31	托育	tuōyù	N	childcare
+B4L08-II-32	胎	tāi	N	embryo, birth, child
+B4L08-II-33	領	lǐng	V	to receive, withdraw (money)
+B4L08-II-34	元	yuán	N	dollar (or other currency)
+B4L08-II-35	成年	chéngnián	Vp	to come to age, enter adulthood
+B4L08-II-36	除非	chúfēi	Conj	unless
+B4L08-II-37	整體	zhěngtǐ	N	overall
+B4L08-II-38	否則	fǒuzé	Conj	otherwise
+B4L08-II-39	婦女	fùnǚ	N	woman
+B4L08-II-40	意願	yìyuàn	N	intention
+B4L08-II-41	祖父母	zǔfùmǔ	N	paternal grandparents
+B4L08-II-42	孫女	sūnnǚ	N	granddaughter
+B4L08-II-43	重	zhòng	Vs	heavy
+B4L08-II-44	預算	yùsuàn	N	budget
+B4L08-II-45	財政	cáizhèng	N	budget
+B4L08-II-46	沉重	chénzhòng	Vs	heavy
+B4L08-II-47	有效	yǒuxiào	Vs	effective
+B4L08-II-48	正	zhèng	Adv	during the process
+B4L08-II-49	考驗	kǎoyàn	V	to test out
+B4L08-II-50	智慧	zhìhuì	N	wisdom
+B4L08-II-51	之一	zhīyī		one of
+B4L08-II-52	寧缺勿濫	níngquē wùlàn		not settle for less than perfect
+B4L08-II-53	合不來	hébùlái		not get along
+B4L08-II-54	生兒育女	shēng'ér yùnǚ		to have and raise children
+B4L08-II-55	獨善其身	dúshàn qíshēn		to look out only for oneself, be self-centered
+B4L08-II-56	停滯不前	tíngzhì bùqián		in stagnation
+B4L09-I-01	逐漸	zhújiàn	Adv	gradually
+B4L09-I-02	據點	jùdiǎn	N	base, stronghold
+B4L09-I-03	統治	tǒngzhì	V	to rule, govern
+B4L09-I-04	景點	jǐngdiǎn	N	scenic site
+B4L09-I-05	繁榮	fánróng	Vs	prosperous
+B4L09-I-06	港口	gǎngkǒu	N	harbor, port
+B4L09-I-07	據說	jùshuō	V	it is said
+B4L09-I-08	鹿	lù	N	deer
+B4L09-I-09	鹿群	lùqún	N	herd of deer (群 -qún, group, crowd)
+B4L09-I-10	形狀	xíngzhuàng	N	shape
+B4L09-I-11	鹿角	lùjiǎo	N	deer antlers
+B4L09-I-12	便	biàn	Adv	accordingly
+B4L09-I-13	稱	chēng	V	to call
+B4L09-I-14	動物園	dòngwùyuán	N	zoo
+B4L09-I-15	皮	pí	N	skin, hides
+B4L09-I-16	殺	shā	V	to kill
+B4L09-I-17	數量	shùliàng	N	number, quantity
+B4L09-I-18	風光	fēngguāng	N/Vs	glory
+B4L09-I-19	民宅	mínzhái	N	home, people's residence
+B4L09-I-20	蚵仔煎	ézǐjiān	N	oyster omelet
+B4L09-I-21	哦	ó	Ptc	an interjection indicating concurrence accepting what has been presented
+B4L09-I-22	該	gāi	Vaux	should, ought to (formal)
+B4L09-I-23	興盛	xīngshèng	Vs	flourishing
+B4L09-I-24	時期	shíqí	N	period, age
+B4L09-I-25	獨木舟	dúmùzhōu	N	canoe
+B4L09-I-26	為	wéi	Vst	as
+B4L09-I-27	載運	zàiyùn	V	to transport
+B4L09-I-28	改名	gǎimíng	V-sep	to legally change one's names
+B4L09-I-29	相似	xiāngsì	Vs	similar
+B4L09-I-30	沒落	mòluò	Vp	to decline, wane
+B4L09-I-31	依然	yīrán	Adv	still
+B4L09-I-32	保留	bǎoliú	V	to remain intact, preserve
+B4L09-I-33	鹿港	Lùgǎng		Lugang
+B4L09-I-34	艋舺	Měngjiǎ		Mengjia (Mangka)
+B4L09-I-35	淡水河	Dànshuǐ Hé		Tamsui River (河 -hé, river)
+B4L09-I-36	萬華	Wànhuá		Wanhua
+B4L09-I-37	台語	Táiyǔ		Taiwanese (a Southern Min dialect)
+B4L09-I-38	日語	Rìyǔ		Japanese (language)
+B4L09-I-39	家喻戶曉	jiāyù hùxiǎo		widely known
+B4L09-I-40	滿山遍野	mǎnshān biànyě		all over the mountains and plains
+B4L09-I-41	古色古香	gǔsè gǔxiāng		to have an antique air, quaint, classical in style
+B4L09-I-42	綠豆糕	lǜdòu gāo		mung-bean cake
+B4L09-I-43	牛舌餅	niúshé bǐng		ox-tongue biscuit
+B4L09-I-44	垂涎三尺	chuíxián sānchǐ		to salivate over, make one's mouth water
+B4L09-II-01	數目	shùmù	N	amount, quantity
+B4L09-II-02	大約	dàyuē	Adv	about, approximately
+B4L09-II-03	佔	zhàn	Vst	"to constitute (same as ""占"")"
+B4L09-II-04	自從	zìcóng	Prep	ever since
+B4L09-II-05	將近	jiāngjìn	Adv	nearly, almost
+B4L09-II-06	往來	wǎnglái	N	dealings, contract
+B4L09-II-07	思念	sīniàn	Vst	to miss, think about, long for
+B4L09-II-08	通信	tōngxìn	V-sep	to communicate, correspond by mail
+B4L09-II-09	毫無	háowú	Vst	none whatsoever
+B4L09-II-10	音訊	yīnxùn	N	news, information, message
+B4L09-II-11	遠離	yuǎnlí	Vst	to have left far away from
+B4L09-II-12	妻子	qīzi	N	wife (literary)
+B4L09-II-13	永遠	yǒngyuǎn	N	always, forever
+B4L09-II-14	開放	kāifàng	Vp	to open to the public
+B4L09-II-15	探親	tànqīn	Vi	to visit relatives
+B4L09-II-16	親人	qīnrén	N	relatives, loved ones
+B4L09-II-17	打聽	dǎtīng	V	to ask about, inquire
+B4L09-II-18	不禁	bùjīn	Adv	can't help but
+B4L09-II-19	淚	lèi	N	tears
+B4L09-II-20	尚未	shàngwèi	Adv	not yet
+B4L09-II-21	出世	chūshì	Vp	to be born
+B4L09-II-22	童年	tóngnián	N	childhood
+B4L09-II-23	傷心	shāngxīn	Vs	sad
+B4L09-II-24	筆	bǐ	M	sum of money
+B4L09-II-25	仍然	rángrán	Adv	still
+B4L09-II-26	原諒	yuánliàng	Vst	to forgive
+B4L09-II-27	盡	jìn	V	to exhaust, do one's utmost
+B4L09-II-28	究竟	jiùjìng	Adv	after all, in the end, actually
+B4L09-II-29	內心	nèixīn	N	in one's heart, heart of hearts, innermost being
+B4L09-II-30	創傷	chuāngshāng	N	trauma, scars
+B4L09-II-31	珍惜	zhēnxí	Vst	to cherish, treasure
+B4L09-II-32	精華	jīnghuá	Vs-attr	prime
+B4L09-II-33	逃難	táonàn	Vi	to flee from war, natural disaster etc...
+B4L09-II-34	實在	shízài	Adv	truly, really
+B4L09-II-35	歲月	suìyuè	N	years, time
+B4L09-II-36	遭遇	zāoyù	N/V	(unhappy) experiences, happening; to encounter, to have met with
+B4L09-II-37	老兵	lǎobīng	N	old soldier, veteran
+B4L09-II-38	老張	Lǎo Zhāng		Lao Zhang, a nickname for someone whose surname is Zhang
+B4L09-II-39	文化大革命	Wénhuà Dà Gémìng		Cultural Revolution (1966-1976)
+B4L09-II-40	落地生根	luòdì shēnggēn		to set one's roots down
+B4L09-II-41	身強體壯	shēnqiáng tǐzhuàng		strong and healthy
+B4L09-II-42	離鄉背井	líxiāng bèijǐng		to leave one's hometown to become a stranger elsewhere
+B4L09-II-43	飄洋過海	piāoyáng guòhǎi		to sail across the sea
+B4L09-II-44	朝思暮想	zhāosī mùxiǎng		to be a miss day and night
+B4L09-II-45	一輩子	yíbèizi		one lifetime
+B4L09-II-46	恐懼不安	kǒngjù bù'ān		scared and anxious, suffering from constant fear
+B4L09-II-47	刻骨銘心	kègǔ míngxīn		unforgettable, to be imprinted hard in one's mind
+B5L10-I-01	同性	tóngxìng	Vs-attr	to be of the same gender
+B5L10-I-02	主播	zhǔbò	N	newscaster, anchor
+B5L10-I-03	記者	jìzhě	N	reporter, journalist, correspondent
+B5L10-I-04	連線	liánxiàn	Vi	to be online with, be connected with
+B5L10-I-05	傳達	chuándá	V	to convey
+B5L10-I-06	陣線	zhènxiàn	N	ranks, front
+B5L10-I-07	發起	fāqǐ	V	to initiate, launch, start
+B5L10-I-08	儘快	jìnkuài	Adv	as soon/quickly as possible
+B5L10-I-09	同性戀	tóngxìngliàn	N	homosexual, gay
+B5L10-I-10	異性戀	yìxìngliàn	N	heterosexual, straight
+B5L10-I-11	相同	xiāngtóng	Vs	identical
+B5L10-I-12	相愛	xiāng'ài	Vs	in love, to love each other
+B5L10-I-13	核心	héxīn	N	core
+B5L10-I-14	伴侶	bànlǚ	N	companion, mate, partner
+B5L10-I-15	無關	wúguān	Vs	to have nothing to do with, be unrelated
+B5L10-I-16	打破	dǎpò	V	to break, shatter
+B5L10-I-17	平權	píngquán	N	equal rights
+B5L10-I-18	藉由	jièyóu	Prep	through, by
+B5L10-I-19	節稅	jiéshuì	Vi	to reduce, save on taxes
+B5L10-I-20	病危	bìngwéi	Vs	critically ill
+B5L10-I-21	簽署	qiānshù	V	to sign
+B5L10-I-22	文件	wénjiàn	N	document
+B5L10-I-23	彼此	bǐcǐ	N	each other, one another
+B5L10-I-24	親密	qīnmì	Vs	intimate
+B5L10-I-25	伙伴	huǒbàn	N	partner
+B5L10-I-26	陌生	mòshēng	Vs	unacquainted, not mutually known
+B5L10-I-27	性病	xìngbìng	N	sexually transmitted disease, STD
+B5L10-I-28	偏見	piānjiàn	N	prejudice, bias
+B5L10-I-29	身上	shēnshàng	N	himself, themselves
+B5L10-I-30	異性	yìxìng	Vs-attr	opposite sex
+B5L10-I-31	有情人終成眷屬	yǒuqíngrén zhōngchéng juànshǔ	Id	the lovers finally got married, every Jack has his Jill
+B5L10-I-32	末日	mòrì	N	the end of the world
+B5L10-I-33	擴大	kuòdà	V	to expand
+B5L10-I-34	範圍	fànwéi	N	scope, range, extent
+B5L10-I-35	心聲	xīnshēng	N	heartfelt wishes, aspirations
+B5L10-I-36	法案	fǎ'àn	N	bill, act
+B5L10-II-01	鏡頭	jìngtóu	N	lens, shot, scene
+B5L10-II-02	聯邦	liánbāng	N	federal, federation, union
+B5L10-II-03	彩虹	cǎihóng	N	rainbow
+B5L10-II-04	旗	qí	N	flag, banner, standard
+B5L10-II-05	時刻	shíkè	N	moment (in time)
+B5L10-II-06	駐外	zhǔwài	Vi	to be stationed abroad
+B5L10-II-07	歡慶	huānqìng	V	to celebrate
+B5L10-II-08	擠進	jǐjìn	Vpt	to crowd in, squeeze in
+B5L10-II-09	生物	shēngwù	N	biology
+B5L10-II-10	本能	běnnéng	N	instinct
+B5L10-II-11	繁衍	fányǎn	V	to reproduce, propagate
+B5L10-II-12	尋找	xúnzhǎo	V	to search for, seek
+B5L10-II-13	交配	jiāopèi	Vi	to make, copulate
+B5L10-II-14	法則	fǎzé	N	law (natural, not legal laws)
+B5L10-II-15	定義	dìngyì	N/V	definition; to define
+B5L10-II-16	互補	hūbǔ	Vs	to complement each other
+B5L10-II-17	組合	zǔhé	N/V	combination; to combine
+B5L10-II-18	全體	quántǐ	N	as a whole, whole, entire, overall
+B5L10-II-19	詞彙	cíhuì	N	word, term, vocabulary
+B5L10-II-20	稱呼	chēnghū	V/N	to call; address, name
+B5L10-II-21	建構	jiàngòu	V	to build, construct
+B5L10-II-22	革命	gémìng	N/Vi	revolution; to have a revolution
+B5L10-II-23	做為	zuòwéi	Vst	to serve as
+B5L10-II-24	無視	wúshì	V	to disregard, defy
+B5L10-II-25	干涉	gānshè	V	to interface
+B5L10-II-26	邏輯	luójí	N	logic
+B5L10-II-27	納入	nàrù	V	to incorporate, include
+B5L10-II-28	第三者	dìsānzhě	Ph	"""third party"" (i.e., the ""other man/woman"")"
+B5L10-II-29	原則	yuánzé	N	principle
+B5L10-II-30	無異	wúyì	Vs	not different from, the same as, tantamount to
+B5L10-II-31	形式	xíngshì	N	form
+B5L10-II-32	亂倫	luànlún	N	incest
+B5L10-II-33	不倫	bùlún	N	immorality
+B5L10-II-34	白宮	Báigōng	N	White House
+B5L10-II-35	巴黎鐵塔	Bālí Tiětǎ	Ph	Eiffel Tower
+B5L10-II-36	打上	dǎshàng	V	to shine up on
+B5L10-II-37	燈光	dēngguāng	N	lights
+B5L10-II-38	不容忽視	bùróng hūshì	Id	cannot ignore, should not be ignored
+B5L10-II-39	有賴	yǒulài	Vst	to depend on, contingent on
+B5L10-II-40	各界	gèjiè	N	all walks of life, the public
+B5L10-II-41	對話	duìhuà	Vi	to engage in dialogues
+B5L10-II-42	激辯	jībiàn	Vi	to engage in robust debate, wrangle
+B5L10-II-43	交還	jiāohuán	V	to give back to, to return to
+B5L01-I-0-01	言論	yánlùn	N	speech, act of speaking
+B5L01-I-0-02	界線	jièxiàn	N	boundaries
+B5L01-I-0-03	臉書	Liǎnshū	N	Facebook
+B5L01-I-0-04	則	zé	M	measure word for short, usually formal writings
+B5L01-I-0-05	留言	liúyán	N	posted messages, comments
+B5L01-I-0-06	停止	tíngzhǐ	Vp	to call off, cease
+B5L01-I-0-07	決策	juécè	N	policy
+B5L01-I-01	無罪	wúzuì	Vs	not guilty
+B5L01-I-02	遭	zāo	Ptc	agent marker in an adversative passive sentence
+B5L01-I-03	慘	cǎn	Vs	devastated
+B5L01-I-04	反應	fǎnyìng	N/V	reaction; to respond
+B5L01-I-05	發表	fābiǎo	V	issue, publish (article,s news story), deliver (speeches)
+B5L01-I-06	司法	sīfǎ	N	judicial
+B5L01-I-07	判決	pànjué	N	judgement, sentencing (judicial)
+B5L01-I-08	無能	wúnéng	Vs	incompetent, inept, weak
+B5L01-I-09	幸運	xìngyùn	Vs	lucky, fortunate
+B5L01-I-10	顧名思義	gùmíng sīyì	Id	as the name suggests/implies
+B5L01-I-11	接受	jiēshōu	V	to receive
+B5L01-I-12	來源	láiyuán	N	source
+B5L01-I-13	處罰	chǔfá	V	to punish
+B5L01-I-14	包容	bāoróng	Vst	tolerant
+B5L01-I-15	不論	búlùn	Conj	regardless of whether
+B5L01-I-16	展現	zhǎnxiàn	V	to reveal, show
+B5L01-I-17	胡作非為	húzuòfēiwéi	Id	run amok, engage in lawless activities
+B5L01-I-18	一旦	yídàn	Conj	once, as soon as
+B5L01-I-19	工具	gōngjù	N	tool, instrument
+B5L01-I-20	洗腦	xǐnǎo	Vi	to brainwash
+B5L01-I-21	權益	quányì	N	rights and interests
+B5L01-I-22	盲點	mángdiǎn	N	blind spots
+B5L01-I-23	立場	lìchǎng	N	standpoint, perspective
+B5L01-I-24	平衡	pínghéng	N	balance
+B5L01-I-25	辯護	biànhù	Vi	to defend (legally)
+B5L01-I-26	無理取鬧	wúlǐqǔnào	Id	act up, tantrusm, talk nonsense and cause trouble
+B5L01-I-28	一來一往	yìlái yìwǎng	Id	amidst exchanges (of opinion)
+B5L01-I-27	指正	zhǐzhèng	V	to point out mistakes
+B5L01-I-29	真理	zhēnlǐ	N	the truth
+B5L01-I-30	越辯越明	yuèbiàn yuèmíng	Id	the more something is debated, the clearer it becomes
+B5L01-I-31	共識	gòngshì	N	consesus
+B5L01-I-32	亂象	luànxiàng	N	chaos, madness, disorder
+B5L01-I-33	攻擊	gōngjí	V	to attack
+B5L01-I-34	自殺	zìshā	Vp	to commit suicide
+B5L01-I-35	過於	guòyú	Adv	too, overly
+B5L01-I-36	事實上	shìshí shàng	Ph	actually, in actual fact
+B5L01-I-37	仇恨	chóuhèn	N	hatred, enmity, hostiltiy
+B5L01-I-38	不實	bùshí	Vs-attr	untrue, false
+B5L01-I-39	謠言	yáoyán	N	rumor
+B5L01-I-40	霸凌	bàlíng	N/V	bully, to bully
+B5L01-I-41	負責	fùzé	Vs	to be responsible for
+B5L01-I-42	誤解	wùjiě	V	to misunderstand, misconstrue
+B5L01-I-43	意義	yìyì	N	meaning, significance
+B5L01-I-44	因此	yīncǐ	Adv	because of this, for this reason
+B5L01-I-45	否定	fǒudìng	V	to negate
+B5L01-I-46	價值	jiàzhí	N	value
+B5L01-I-47	封住	fēngzhù	V	to seal, block
+B5L01-I-48	嘴	zuǐ	N	mouth, opinion
+B5L01-I-49	混亂	hùnluàn	Vs	tumultuous, chaotic
+B5L01-I-50	唯一	wéiyī	Vs-attr	one and only, sole
+B5L01-II-01	濫用	lànyòng	V	to abuse
+B5L01-II-02	並非	bìngfēi	Adv	it is not as expected
+B5L01-II-03	不用	búyòng	Vaux	(there is) no need to
+B5L01-II-04	抓	zhuā	V	to arrest
+B5L01-II-05	關	guān	V	to lock up, imprison
+B5L01-II-06	名嘴	míngzuǐ	N	TV presenters, talk show hosts or guests, talking heads
+B5L01-II-07	根據	gēnjù	N	basis, foundation
+B5L01-II-08	隨意	suíyì	Adv	arbitrarily
+B5L01-II-09	鄉民	xiāngmín	N	netizens, general public
+B5L01-II-10	匿名	nìmíng	Vi	to be anonymous, anonymously
+B5L01-II-11	正義	zhèngyì	N	justice
+B5L01-II-12	惡意	èyì	Adv/N	maliciously, viciously; ill intention
+B5L01-II-13	情緒	qíngxù	N	emotions, feelings
+B5L01-II-14	成	chéng	Vpt	to become
+B5L01-II-15	護身符	hùshēnfú		amulet, charm, protective talisman
+B5L01-II-16	傳播	chuánbò	V	to disseminate, spread
+B5L01-II-17	驚人	jīngrén	Vs	shocking, alarming, awing
+B5L01-II-18	股	gǔ	M	measure for wind, trending or power
+B5L01-II-19	有心	yǒuxīn	Vs	intentional
+B5L01-II-20	無意	wúyì	Vs	unintentional, inadvertent
+B5L01-II-21	威脅	wēixié	N/V	threat, to threaten
+B5L01-II-22	諷刺	fèngcì	V	to mock, to be sarcastic
+B5L01-II-23	得	dé	Vpt	to come down with, be stricken with, get
+B5L01-II-24	憂鬱症	yōuyùzhèng	N	depression
+B5L01-II-25	則	zé	Adv	to express contrast previous sentence
+B5L01-II-26	閉嘴	bìzuǐ	V-sep	to shut one's mouth, keep one's mouth shut
+B5L01-II-27	回應	huíyìng	V/N	to respond, response
+B5L01-II-28	傷害	shānghài	V/N	to harm, damage; damage
+B5L01-II-29	破壞	pòhuài	V	to damage, cause damage to
+B5L01-II-30	管	guǎn	V	to mind, watch (one's behavior, etc...)
+B5L01-II-31	聰明	cōngmíng	Vs	smart, intelligent
+B5L01-II-32	標題	biāotí	N	headline
+B5L01-II-33	懷疑	huáiyí	Vst	suspect
+B5L01-II-34	模糊	móhú	Vs	ambiguous
+B5L01-II-35	擅長	shàncháng	Vst	be good at, excel at
+B5L01-II-36	灰色	huīsè	N	gray
+B5L01-II-37	地帶	dìdài	N	zone, area
+B5L01-II-38	法院	fǎyuàn	N	court
+B5L01-II-39	確定	quèdìng	V	to determine, ascertain
+B5L01-II-40	個人	gèrén	N	the individual
+B5L01-II-41	承擔	chéngdān	V	to take up (responsibility)
+B5L01-II-42	和諧	héxié	Vs	harmonious
+B5L01-II-43	制定	zhìdìng	V	to formulate, devise (laws)
+B5L01-II-44	嚴格	yángé	Vs	strict, severe
+B5L01-II-45	約束	yuēshù	V	to restrict, constrain
+B5L02-I-01	基改	jīgǎi	N	基 = 基因, 改 = 改造 (see Book 3)
+B5L02-I-02	農糧	nóngliáng	N	農 = 農作物, crop; 糧 = 糧食, food
+B5L02-I-03	廣播節目	guǎngbò jiémù	Ph	broadcast program
+B5L02-I-04	主持人	zhǔchírén	N	host, MC
+B5L02-I-05	聽眾	tīngzhòng	N	listening audience, listeners
+B5L02-I-06	播	bò	V	to broadcast
+B5L02-I-07	蟲子	chóngzi	N	insect, bug
+B5L02-I-08	隔壁	gébì	N	next door
+B5L02-I-09	回答	huídá	V	to answer
+B5L02-I-10	死	sǐ	Vp	to die
+B5L02-I-11	話題	huàtí	N	topic
+B5L02-I-12	危害	wéihài	V	to harm, be detrimental to, endanger
+B5L02-I-13	贊成	zànchéng	Vst	to approve, in favor
+B5L02-I-14	各式各樣	gèshì gèyàng	Id	all types of, various kinds of
+B5L02-I-15	只不過	zhǐbúguò	Ph	only, no more than
+B5L02-I-16	種子	zhǒngzi	N	seed
+B5L02-I-17	比如說	bǐrú shuō	Ph	for example
+B5L02-I-18	維他命	wéitāmìng	N	vitamin
+B5L02-I-19	蔬果	shūguǒ	N	fruits and vegetables
+B5L02-I-20	抗癌	kàng'ái	Vs	anti-cancerous
+B5L02-I-21	過敏	guòmǐn	Vs	allergic
+B5L02-I-22	花生	huāshēng	N	peanut
+B5L02-I-23	科學家	kēxuéjiā	N	scientist
+B5L02-I-24	豐富	fēngfù	Vs	rich (abundant in something)
+B5L02-I-25	享用	xiǎngyòng	V	to enjoy the use of, enjoy (a meal)
+B5L02-I-26	達到	dádào	Vpt	to reach, obtain
+B5L02-I-27	預防	yùfáng	Vst	to prevent, guard against
+B5L02-I-28	疾病	jíbìng	N	illness, sickness
+B5L02-I-29	效果	xiàoguǒ	N	effect, results
+B5L02-I-30	好幾（種）	hǎojǐ (zhǒng)	Ph	a number of, quite a few kinds of
+B5L02-I-31	警告	jǐnggào	V/N	to warn, warning
+B5L02-I-32	突破	túpò	Vpt	to make a breakthrough, top, break, (a record, number)
+B5L02-I-33	糧食	liángshí	N	food, foodstuff
+B5L02-I-34	早晚	zǎowǎn	Adv	sooner or later
+B5L02-I-35	不僅	bùjǐn	Adv	not only
+B5L02-I-36	農作物	nóngzuòwù	N	crop, produce
+B5L02-I-37	抵抗力	dǐkǎng lì	N	resistance, immunity
+B5L02-I-38	蟲害	chónghài	N	damage by pests
+B5L02-I-39	產量	chǎnliàng	N	output, yield, production
+B5L02-I-40	饑荒	jīhuāng	N	famine
+B5L02-I-41	含有	hányǒu	Vst	to contain, have
+B5L02-I-42	大豆	dàdòu	N	soybean, soya
+B5L02-I-43	玉米	yùmǐ	N	corn
+B5L02-I-44	密不可分	mìbù kěfēn	Id	inseperable, integrated with
+B5L02-I-45	生產	shēngchǎn	V	to produce, manufacture
+B5L02-I-46	缺少	quēshǎo	Vst	to be in shortage of
+B5L02-I-47	依賴	yīlài	Vst	to rely on, depend on
+B5L02-I-48	進口	jìnkǒu	V	to import
+B5L02-I-49	危機	wéijī	N	crisis
+B5L02-I-50	生物科技	shēngwù kējì	Ph	bio-tech
+B5L02-I-51	機構	jīgòu	N	organization, departments of government
+B5L02-I-52	證據	zhèngjù	V/N	proof, evidence
+B5L02-I-53	證明	zhèngmíng	V/N	to prove; proof
+B5L02-I-54	人體	réntǐ	N	the human body
+B5L02-I-55	結論	jiélùn	N	conclusion
+B5L02-I-56	生長	shēngzhǎng	Vi	to grow
+B5L02-I-57	除草劑	chúcǎojì	N	weed killer, herbicide
+B5L02-I-58	物質	wùzhí	N	matter, substance
+B5L02-I-59	怪物	guàiwù	N	monster
+B5L02-I-60	原料	yuánliào	N	raw materials
+B5L02-I-61	包裝	bāozhuāng	N	packaging
+B5L02-I-62	標示	biāoshì	V/N	to label, mark
+B5L02-I-63	一切	yíqiè	Det	all
+B5L02-II-01	昆蟲	kūnchóng	N	insect
+B5L02-II-02	不孕	búyùn	Vs	infertile, barren
+B5L02-II-03	罹患	líhuàn	Vpt	to come down with, be stricken with, suffer from
+B5L02-II-04	癌症	áizhèng	N	cancer
+B5L02-II-05	蘋果	píngguǒ	N	apple
+B5L02-II-06	鮭魚	guīyú	N	salmon
+B5L02-II-07	不知不覺	bùzhī bùjué	Id	without even realizing it, before you even know it, without one even noticing
+B5L02-II-08	辨別	biànbié	V	to distinguish, tell apart
+B5L02-II-09	安心	ānxīn	Vs	to have peace of mind, set one's mind at rest
+B5L02-II-10	雜志	zázhì	N	magazine, journal
+B5L02-II-11	編輯	biānjí	V	to edit
+B5L02-II-12	後果	hòuguǒ	N	consequence, result
+B5L02-II-13	雜草	zácǎo	N	weed
+B5L02-II-14	某	mǒu	Det	certain, some
+B5L02-II-15	專利	zhuānlì	N	patent
+B5L02-II-16	農民	nóngmín	N	farmer
+B5L02-II-17	收購	shōugòu	V	to acquire, buy out
+B5L02-II-18	居高不下	jūgāo búxià	Id	remain high, won't come down
+B5L02-II-19	絕對	juéduì	Adv	absolutely, in no way
+B5L02-II-20	符合	fúhé	Vst	to meet with, conform with
+B5L02-II-21	非	fēi	Vst	not (Classical Chinese)
+B5L02-II-22	事實	shìshí	N	fact, truth
+B5L02-II-23	種植	zhòngzhí	V	to plant, cultivate
+B5L02-II-24	總用量	zǒng yòngliàng	Ph	total dosage
+B5L02-II-25	公斤	gōngjīn	N	kilogram
+B5L02-II-26	即便	jíbiàn	Conj	even if, despite
+B5L02-II-27	兼	jiān	Adv	concurrently, simultaneously
+B5L02-II-28	欺騙	qīpiàn	V	to deceive, scam, cheat
+B5L02-II-29	國人	guórén	N	(our) fellow countrymen
+B5L02-II-30	立法	lìfǎ	V-sep	to make a law
+B5L02-II-31	以	yǐ	Adv	so as to, such that
+B5L02-II-32	維護	wéihù	V	to safeguard, protect
+B5L02-II-33	神奇	shénqí	Vs	magical, miraculous
+B5L02-II-34	手段	shǒuduàn	N	means, measure
+B5L02-II-35	付出	fùchū	V	to pay (a heavy price for)
+B5L02-II-36	代價	dàijià	N	(to pay a heavy) price
+B5L02-II-37	掌握	zhǎngwò	V	to hold, grasp, control
+B5L03-I-0-01	風氣	fēngqì	N	ethos, mood (said of society, a nation, etc.)
+B5L03-I-0-02	開放	kāifàng	N	(nominalized from its verb form) to open up to the outside world; liberal, non-conservative
+B5L03-I-0-03	意外	yìwài	N	accident
+B5L03-I-0-04	存在	cúnzài	Vs	to exist
+B5L03-I-01	內在	nèizài	N	internal quality
+B5L03-I-02	特質	tèzhí	N	characteristic, quality
+B5L03-I-03	勝	shèng	Vst	to be superior to, to win (Classical Chinese)
+B5L03-I-04	醜	chǒu	Vs	ugly
+B5L03-I-07	不盡然	bújìnrán	Vs	not necessarily so
+B5L03-I-08	要求	yāoqiú	V	to request, demand
+B5L03-I-09	整出	zhěngchū	V	to produce (through plastic surgery)
+B5L03-I-10	鼻子	bìzi	N	nose
+B5L03-I-11	皮膚	pífū	N	skin
+B5L03-I-12	細	xì	Vs	thin, slender
+B5L03-I-13	腰	yāo	N	waist, small of the back
+B5L03-I-14	豐胸	fēngxiōng	N	large breasts (breast enlargement)
+B5L03-I-15	高挺	gāotǐng	Vs	to be high-bridged (said of noses)
+B5L03-I-16	水汪汪	shuǐwāngwāng		"to be ""doe-eyed"""
+B5L03-I-17	參賽	cānsài	Vi	to take part in a competition
+B5L03-I-18	眼光	yǎnguāng	N	judgement, how others look at you
+B5L03-I-19	矛盾	máodùn	Vs	contradictory
+B5L03-I-20	外貌	wàimào	N	looks, appearance, exterior
+B5L03-I-21	美滿	měimǎn	Vs	happy, fulfilled (said of families, lives, marriages, etc...)
+B5L03-I-22	職涯	zhíyá	N	career
+B5L03-I-23	以貌取人	yǐmào qǔrén	Id	judge a book by its cover; judge by appearance (said of people)
+B5L03-I-24	不計一切	bújì yíqiè	Id	do whatever it takes
+B5L03-I-25	英俊	yīngjùn	Vs	handsome
+B5L03-I-26	獲得	huòdé	Vpt	to obtain, attain
+B5L03-I-27	青睞	qīnglài	N	special attention and favor
+B5L03-I-28	對象	duìxiàng	N	significant other, boyfriend/girlfriend, object of love
+B5L03-I-29	智力	zhìlì	N	intelligence
+B5L03-I-30	同樣	tóngyàng	Vs	in the same way, similar
+B5L03-I-31	團隊	tuánduì	N	team
+B5L03-I-32	金錢	jīnqián	N	money
+B5L03-I-33	投資	tóuzī	V/N	to invest; investmennt
+B5L03-I-34	行為	xíngwéi	N	behavior
+B5L03-I-35	儘管	jǐnguǎn	Conj	even though, although
+B5L03-I-36	日漸	rìjiàn	Adv	with each day, with each passing day, gradually
+B5L03-I-37	失敗	shībài	Vp	to fail
+B5L03-I-38	胸部	xiōngbù	N	breast, chest
+B5L03-I-39	大小不一	dàxiǎobùyī	Id	in different sizes, of various sizes
+B5L03-I-40	變形	biànxíng	Vp	to be deformed
+B5L03-I-41	失血	shīxiě	Vp-sep	to lose blood
+B5L03-I-42	過	guò	Adv	excessively
+B5L03-I-43	飽受	bǎoshòu	Vpt	to suffer greatly from
+B5L03-I-44	後遺症	hòuyízhèng	N	after-effects, sequela
+B5L03-I-45	副作用	fùzuòyòng	N	side-effects
+B5L03-I-46	多麼	duōme	Adv	how
+B5L03-I-47	冒險	màoxiǎn	V-sep	to risk, take risk, adventure
+B5L03-I-48	如今	rújīn	Adv	nowadays, today
+B5L03-I-49	捷徑	jiéjìng	N	shortcut
+B5L03-I-50	進而	jìn'ér	Adv	furthermore
+B5L03-I-51	謹慎	jǐnshèn	Vs	careful, cautious
+B5L03-I-52	看待	kàndài	V	to regard
+B5L03-II-01	吹	chuī	V	"to blow (used in the text to mean a trend has been ""circulating"" or ""stirring"")"
+B5L03-II-02	旅遊	lǚyóu	N	tour, trip
+B5L03-II-03	極具	jíjù	Vst	to strongly possess (Classical Chinese)
+B5L03-II-04	潛力	qiánlì	N	potential
+B5L03-II-05	理由	lǐyóu	N	reason
+B5L03-II-06	天性	tiānxìng	N	nature, instinct
+B5L03-II-07	列入	lièrú	V	to include, take into
+B5L03-II-08	考量	kǎoliáng	N	consideration
+B5L03-II-09	公關	gōngguān	N	public relations
+B5L03-II-10	時尚	shíshàng	N	fashion, trends
+B5L03-II-11	產業	chǎnyè	N	industry
+B5L03-II-12	眼皮	yǎnpí	N	eyelid
+B5L03-II-13	精神奕奕	jīngshén yìyì	Id	full of vigor/life/vitality
+B5L03-II-14	違反	wéifǎn	V	to violate, go against
+B5L03-II-15	假	jiǎ	Vs	false, fake, bogus
+B5L03-II-16	造假	zàojiǎ	Vi	to cheat, deceive
+B5L03-II-17	標籤	biāoqiān	N	label
+B5L03-II-18	優勢	yōushì	N	advantage
+B5L03-II-19	理解	lǐjiě	Vst	to understand
+B5L03-II-20	生來	shēnglái	Ph	from birth (= 出生以來)
+B5L03-II-21	差異	chāyì	N	difference
+B5L03-II-22	天生	tiānshēng	Adv	inherently
+B5L03-II-23	後天	hòutiān	N	in later stages of development
+B5L03-II-24	長相	zhǎngxiàng	N	appearance, looks
+B5L03-II-25	平平	píngpíng	Vs	plain, average, mediocre
+B5L03-II-26	醫學	yīxué	N	medical science
+B5L03-II-27	縮小	suōxiǎo	V	to shrink, shorten
+B5L03-II-28	差距	chājù	N	gap, distance between
+B5L03-II-29	無疑	wúyí	Adv	undoubtedly
+B5L03-II-30	器材	qìcái	N	equipment
+B5L03-II-31	藥品	yàopǐn	N	drug, medicine
+B5L03-II-32	大幅	dàfú	Adv	substantially, sharply
+B5L03-II-33	事先	shìxiān	Adv	beforehand, in advance
+B5L03-II-34	評估	pínggū	V	to evaluate, assess
+B5L03-II-35	患者	huànzhě	N	patient
+B5L03-II-36	動機	dòngjī	N	motivation
+B5L03-II-37	狀態	zhuàngtài	N	state, situation
+B5L03-II-38	執行	zhíxíng	V	to carry out, execute
+B5L03-II-39	身體髮膚 受之父母	shēntǐ fǎfū, shòuzhī fùmǔ	Id	your body, from your hair to your skin, is a gift from your parents (suggests that you have a responsibility to cherish and care for it)
+B5L03-II-40	剪	jiǎn	V	to cut (with scissors)
+B5L03-II-41	理會	lǐhuì	V	to pay attention to
+B5L03-II-42	有何不可	yǒuhé bùkě		What's wrong with that? And why not? What's the harm in that?
+B5L04-I-0-01	刪減	shānjiǎn	V	to cut, cut back on (as in funds, personnel, etc...)
+B5L04-I-0-02	鬥牛	dòuniú	N	bullfighting
+B5L04-I-0-03	街頭	jiētóu	N	"the streets (used in phrases like ""take to the streets"")"
+B5L04-I-0-04	舉	jǔ	V	to raise, hold up
+B5L04-I-0-05	示威	shìwēi	Vi	to demonstrate, rally
+B5L04-I-0-06	主張	zhǔzhāng	V/N	to advocate a view or a standard
+B5L04-I-0-07	保存	bǎocún	V	to preserve
+B5L04-I-0-08	廢止	fèizhǐ	V	to abolish
+B5L04-I-0-09	引發	yǐnfā	Vst	to set off, trigger
+B5L04-I-0-10	正反	zhèngfǎn	N	protesters and supporters, pros and cons
+B5L04-I-0-11	兩方	liǎngfāng	N	both parties, two sides
+B5L04-I-0-12	激烈	jīliè	Vs	intense, fierce
+B5L04-I-01	具有	jùyǒu	Vst	to have, possess
+B5L04-I-02	祭品	jìpǐn	N	offering to god(s), sacrificial items
+B5L04-I-03	全民	quánmín	N	all the people
+B5L04-I-04	座	zuò	M	measure for large objects like mountains, castles, gigantic temples on hilltops
+B5L04-I-05	鬥牛場	dòuniú chǎng	N	bullfighting ring
+B5L04-I-06	馬德里	Mǎdélǐ	N	Madrid
+B5L04-I-07	至今	zhìjīn	Adv	to this day, heretofore
+B5L04-I-08	鬥牛士	dòuniú shì	N	bullfighter
+B5L04-I-09	華麗	huálì	Vs	magnificent, resplendent
+B5L04-I-10	服飾	fúshì	N	clothing and accessories, apparel, costume
+B5L04-I-11	一面	yímiàn	Adv	on the one hand, on the other; (do A), while (doing B)
+B5L04-I-12	披風	pīfēng	N	cape
+B5L04-I-13	激怒	jīnù	V	to infuriate, excite
+B5L04-I-14	公牛	gōngniú	N	bull
+B5L04-I-15	優雅	yōuyǎ	Vs	graceful, elegant
+B5L04-I-16	姿勢	zīshì	N	posture, position, poses
+B5L04-I-17	結合	jiéhé	N/V	union, blend; to combine, unite, blend
+B5L04-I-18	過人	guòrén	Vs	unsurpassable
+B5L04-I-19	熟練	shóuliàn (shúliàn)	Vs	adept, skillful, proficient
+B5L04-I-20	崇拜	chóngbài	Vst	to worship, adore
+B5L04-I-21	旺季	wàngjì	N	peak season
+B5L04-I-22	遊客	yóukè	N	visitor, tourist
+B5L04-I-23	前往	qiánwǎng	V	to go to, head to
+B5L04-I-24	觀賞	guānshǎng	V	to view, enjoy the view of
+B5L04-I-25	奔牛節	Bēnniújié	N	The Running of the Bulls (in Pamplona)
+B5L04-I-26	重頭戲	zhòngtóuxì	N	the main event
+B5L04-I-27	狂奔	kuángbēn	Vi	to run madly, run like crazy
+B5L04-I-28	歐元	Ōuyuán	N	Euro
+B5L04-I-29	必要	bìyào	N	need
+B5L04-I-30	獨特	dútè	Vs	unique
+B5L04-I-31	魅力	mèilì	N	charisma
+B5L04-I-32	戲劇	xìjù	N	drama, play
+B5L04-I-33	無數	wúshù	Vs-attr	countless
+B5L04-I-34	靈感	línggǎn	N	inspiration
+B5L04-I-35	諾貝爾	Nuòbèi'ěr	N	Nobel
+B5L04-I-36	得主	dézhǔ	N	winner
+B5L04-I-37	作家	zuòjiā	N	writer, author
+B5L04-I-38	海明威	Hǎimíngwēi	N	Ernest Hemingway
+B5L04-I-39	觀看	guānkàn	V	to watch
+B5L04-I-40	小說	xiǎoshuō	N	novel
+B5L04-I-41	舉世聞名	jǔshì wénmíng	Id	world-famous
+B5L04-I-42	推廣	tuīguǎng	V	to promote
+B5L04-I-43	遺產	yíchǎn	N	heritage
+B5L04-I-44	由來已久	yóuláiyǐjiǔ	Id	age-old
+B5L04-II-01	過時	guòshí	Vs	passe, obsolete
+B5L04-II-02	不利	búlì	Vs	disadvantageous to, detrimental to
+B5L04-II-03	刺	cì	V	to stab, gore
+B5L04-II-04	觀眾	guānzhòng	N	viewing audience
+B5L04-II-05	轉播	zhuǎnbò	V/N	to rebroadcast, transmission, relay
+B5L04-II-06	幕	mù	M	measure word for scenes
+B5L04-II-07	血淋淋	xiélínlín	Vs	bloody, gory
+B5L04-II-08	畫面	huàmiàn	N	scene, graphics
+B5L04-II-09	頭	tóu	M	measure word for cattle (i.e., a head of cattle)
+B5L04-II-10	死亡	sǐwáng	Vp	to die
+B5L04-II-11	折磨	zhémó	N/V	torment; to torture
+B5L04-II-12	賠上	péishàng	V	to pay as compensation
+B5L04-II-13	俗話	súhuà	N	saying; proverb
+B5L04-II-14	道理	dàolǐ	N	principle, truth, reason
+B5L04-II-15	自私	zìsī	Vs	selfish
+B5L04-II-16	虐待	nüèdài	V	to abuse, maltreat
+B5L04-II-17	開設	kāishè	V	to start, open up (a course)
+B5L04-II-18	課程	kèchéng	N	course
+B5L04-II-19	教導	jiàodǎo	V/N	to teach; instruction
+B5L04-II-20	享有	xiǎngyǒu	Vst	to enjoy (a privilege)
+B5L04-II-21	不人道	bùréndǎo	Vs	inhumane
+B5L04-II-22	無辜	wúgū	Vs	innocent
+B5L04-II-23	寶貴	bǎoguì	Vs	precious
+B5L04-II-24	提升	tíshēng	V	to elevate, raise (as in awareness)
+B5L04-II-25	社群	shèqún	N	social group, community (as in social network, social media)
+B5L04-II-26	殘忍	cánrěn	Vs	to be cruel
+B5L04-II-27	刊登	kāndēng	V	(for a media) to carry (a photo, article), publish
+B5L04-II-30	高達	gāodá	Vst	as high as
+B5L04-II-29	顯示	xiǎnshì	V	to show, reveal
+B5L04-II-28	高喊	gāohǎn	V	to shout, scream, cry out
+B5L04-II-31	僅	jǐn	Adv	only
+B5L04-II-32	無須	wúxū	Vaux	need not
+B5L04-II-33	巴塞隆納	Bāsàilóngnà	N	Barcelona
+B5L04-II-34	宣布	xuānbù	V	to announce
+B5L04-II-35	娛樂	yúlè	N	recreation, amusement, entertainment
+B5L04-II-36	入場	rùchǎng	Vi	to enter (a venue)
+B5L04-II-37	徹底	chèdǐ	Adv	completely
+B5L05-I-0-01	代理孕母	dàilǐ yùnmǔ	Ph	surrogate mother
+B5L05-I-0-02	案例	ànlì	N	case, instance
+B5L05-I-0-03	名	míng	M	measure word for people (formal)
+B5L05-I-0-04	同志	tóngzhì	N	homosexual, gay
+B5L05-I-0-05	心願	xīnyuàn	N	wish, heart's desire
+B5L05-I-0-06	自願	zìyuàn	Vaux	to volunteer, out of one's own wish
+B5L05-I-0-07	對	duì	M	measure word for things or people that come in matching pairs
+B5L05-I-0-08	委託	wěitōu	V/N	to commission, to charge with; commission
+B5L05-I-0-09	龍鳳胎	lóngfèng tāi	Ph	twins (one boy and one girl)
+B5L05-I-0-10	遺棄	yíqì	V	to abandon, desert
+B5L05-I-0-11	缺陷	quēxiàn	N	defect, imperfection
+B5L05-I-0-12	任	rèn	M	measure word for terms (e.g., first term as president)
+B5L05-I-0-13	丈夫	zhàngfū	N	husband
+B5L05-I-0-14	懷孕	huáiyùn	Vp-sep	to be pregnant
+B5L05-I-0-15	毛遂自薦	máosuì zìjiàn	Id	volunteer one's services, recommend oneself
+B5L05-I-0-16	日新月異	rìxīn yuèyì	Id	volunteer one's services, recommend oneself
+B5L05-I-0-17	倫理	lúnlǐ	N	ethics
+B5L05-I-0-18	整合	zhěnghé	V	to integrate
+B5L05-I-0-19	合法化	héfǎhuà	Vp	to legalize
+B5L05-I-0-20	需求	xūqiú	N	demand, need, requirements
+B5L05-I-0-21	一線希望	yíxiàn xīwàng	Id	a ray of hope, minimal possibility
+B5L05-I-0-22	惡夢	è'mèng	N	nightmare
+B5L05-I-01	看似	kànsì	Vst	seemingly, look like, seem
+B5L05-I-02	費盡	fèijìn	V	to take great pains to, exert great effort to
+B5L05-I-03	千辛萬苦	qiānxīn wànkǔ	Id	untold hardships, innumerable trails and tribulations
+B5L05-I-04	因素	yīnsù	N	factor, element
+B5L05-I-05	皆	jiē	Adv	all (same as 都 but formal)
+B5L05-I-06	承受	chéngshòu	V	to bear, withstand, put up with
+B5L05-I-07	不得已	bùdéyǐ	Vs	to have no choice but to, to be forced to, have to
+B5L05-I-08	代孕	dàiyùn	Vi	to surrogate, to perform surgery
+B5L05-I-09	婚外情	hūnwàiqíng	N	extramarital affair
+B5L05-I-10	破碎	pòsuì	Vs	to break, shelter
+B5L05-I-11	悲劇	bēijù	N	tragedy
+B5L05-I-12	雙方	shuāngfāng	N	both parties
+B5L05-I-13	渴望	kěwàng	N/Vst	longing, yearning; to long for, yearn for
+B5L05-I-14	供需	gōngxū	N	supply and demand
+B5L05-I-15	利人利己	lìrén lìjǐ	Id	benefit both oneself and others
+B5L05-I-16	雙贏	shuāngyíng	Vi	win-win
+B5L05-I-17	反觀	fǎnguān	V	looking back on, contrasting this with, when we reflect on
+B5L05-I-18	連續	liánxù	Adv	continuously, in a row, successively
+B5L05-I-19	排名	páimíng	Vst	to rank
+B5L05-I-20	倒數	dàoshǔ	Vs-attr	counting backward, from the end, from the bottom of the list (in English...
+B5L05-I-21	始終	shǐzhōng	Adv	all the while, all along, invariably
+B5L05-I-22	忽視	hūshì	V	to ignore, neglect, overlook
+B5L05-I-23	夫妻	fūqī	N	husband and wife, married couple
+B5L05-I-24	協助	xiézhù	V	to assist
+B5L05-I-25	長輩	zhǎngbèi	N	elder, one's superior
+B5L05-I-26	忍受	rěnshòu	Vst	to endure, suffer
+B5L05-I-27	如願	rúyuàn	Vs-sep	as one hopes, as one wishes
+B5L05-I-28	自主權	zìzhǔquán	N	right to make one's own decisions, autonomy
+B5L05-II-01	固然	gùrán	Adv	granted, certainly, while it is true that
+B5L05-II-02	交易	jiāoyì	Vi	to trade, carry out a transaction
+B5L05-II-03	屬	shǔ	Vst	to belong to, be part of (a category)
+B5L05-II-04	族群	zúqún	N	group of people (e.g., ethnic group, disadvantaged group)
+B5L05-II-05	等於	děngyú	Vst	tantamount to, equal to
+B5L05-II-06	階級	jiējí	N	class (society)
+B5L05-II-07	間接	jiānjiē	Adv	indirectly
+B5L05-II-08	錯誤	cuòwù	N	mistake
+B5L05-II-09	性別	xìngbié	N	sex, gender
+B5L05-II-10	抽菸	chōuyān	Ph	to smoke a cigarette
+B5L05-II-11	胎兒	tāi'ér	N	fetus
+B5L05-II-12	不良	bùliáng	Vs-attr	harmful, bad
+B5L05-II-13	分離	fēnlí	Vi	to be separated from
+B5L05-II-14	契約	qìyuē	N	contract, agreement
+B5L05-II-15	仲介	zhòngjiè	N	intermediary, agent, middleman
+B5L05-II-16	角色	jiǎosè	N	role
+B5L05-II-17	涉及	shèjí	Vst	to involve, relate to
+B5L05-II-18	規範	guīfàn	V/N	to regulate, standardize; standard
+B5L05-II-19	黑白不分	hēibái bùfēn	Id	cannot tell truth from non-truth
+B5L05-II-20	是非不明	shìfēi bùmíng	Id	cannot tell truth from non-truth
+B5L05-II-21	紛紛	fēnfēn	Adv	one after another, in succession
+B5L05-II-22	精子	jīngzǐ	N	sperm
+B5L05-II-23	搞定	gǎodìng	V	to have it resolved
+B5L05-II-24	獨一無二	dúyī wú'èr	Id	unique, one of a kind
+B5L05-II-25	總之	zǒngzhī	Adv	to sum it up, in short, in conclusion
+B5L06-I-0-01	死刑	sǐxíng	N	capital punishment, the death penalty
+B5L06-I-0-02	存廢	cúnfèi	N	preservation or abolition, to preserve or to abolish (contracted word from 保存 + 廢除)
+B5L06-I-0-03	爭議	zhēngyì	N	controversy
+B5L06-I-0-04	僵局	jiāngjú	N	stalemate, deadlock, impasse
+B5L06-I-0-05	各自	gèzì	Adv	each, respectively
+B5L06-I-01	嚇阻	hèzǔ	V	to deter (through intimidation)
+B5L06-I-02	隔離	gélí	V	to isolate, separate, quarantine
+B5L06-I-03	罪犯	zuìfàn	N	criminal
+B5L06-I-04	隨機	suíjī	Adv	randomly
+B5L06-I-05	殺害	shāhài	V	to murder, kill
+B5L06-I-06	黑心	hēixīn	Vs-attr	darkened heart; evil mind (黑心食品 = unsafe food, i.e., made by profit-orientated people/companies with no conscience)
+B5L06-I-07	案件	ànjiàn	N	(legal) case
+B5L06-I-08	法官	fǎguān	N	jugde
+B5L06-I-09	判	pàn	V	to judge, rule, give something
+B5L06-I-10	有期徒刑	yǒuqí túxíng	Ph	prison term (sentencing with a fixed prison term)
+B5L06-I-11	無期徒刑	wúqí túxíng	Ph	life sentence (i.e., no chance of parole)
+B5L06-I-12	死者	sǐzhě	N	the dead person, the murder victim
+B5L06-I-13	交代	jiāodài	N	a satisfactory answer, briefing, accountability
+B5L06-I-14	彌補	míbǔ	V	to make up for, compensate for
+B5L06-I-15	家屬	jiāshǔ	N	family, family members
+B5L06-I-16	或者	huòzhě	Conj	or
+B5L06-I-17	犯人	fànrén	N	criminal, prisoner
+B5L06-I-18	出獄	chūyù	Vi	to be released from prison (監獄 = jiānyù, prison)
+B5L06-I-19	把	bǎ	M	"measure for ""graspable"" objects like rulers, chairs, salt, etc..."
+B5L06-I-20	尺	chǐ	N	ruler
+B5L06-I-21	現行	xiànxíng	Vs-attr	existing, current
+B5L06-I-22	假釋	jiǎshì	Vi	parole
+B5L06-I-23	永久	yǒngjiǔ	Adv	forever, permanently
+B5L06-I-24	害怕	hàipà	Vs	to be afraid of, to fear
+B5L06-I-25	報復	bàofù	V/N	to retaliate, get revenge; vengeance
+B5L06-I-26	納稅	nàshuì	V-sep	to pay taxes
+B5L06-I-27	懲罰	chéngfá	N/V	punishment; to punish
+B5L06-I-28	犯罪	fànzuì	V-sep	to commit a crime
+B5L06-I-29	罰單	fádān	N	ticket (for a fine)
+B5L06-I-30	闖紅燈	chuǎng hóngdēng	Ph	run a red light (闖 = to rush, break through; 紅燈 = red light)
+B5L06-I-31	開	kāi	V	to write (a ticket)
+B5L06-I-32	同理	tónglǐ	Adv	by the same token, similarly
+B5L06-I-33	換句話說	huànjùhuà shuō	Ph	in other words, to put it another way
+B5L06-I-34	維持	wéichí	V	to keep, maintain
+B5L06-I-35	相較於	xiāngjiào yú	Ph	in comparison to, compared to (Classical Chinese)
+B5L06-I-36	人權	rénquán	N	human rights
+B5L06-I-37	廢除	fèichú	V	to abolish
+B5L06-I-38	被害人	bèihàirén	N	victim
+B5L06-I-39	孤兒	gū'ér	N	orphan
+B5L06-I-40	不然	bùrán	Conj	otherwise
+B5L06-I-41	毀	huǐ	V	to destroy
+B5L06-I-42	氣憤	qìfèn	Vs	indignant, angry
+B5L06-I-43	恨	hèn	Vst	to hate
+B5L06-I-44	報仇	bàochóu	V-sep	to get revenge, get vengeance
+B5L06-I-45	便宜	piányí	Vst	to let somebody off easy
+B5L06-I-46	置身事外	zhìshēn shìwài	Id	to remain aloof, sit on the sidelines, not be involved
+B5L06-I-47	放下	fàngxià	V	"let it go, let it be, ""forgive"""
+B5L06-I-48	兇手	xiōngshǒu	N	murderer, killer
+B5L06-I-49	感同身受	gǎntóng shēnshòu	Id	to empathize, feel like own experience
+B5L06-I-50	生前	shēngqián	N	during one's life, before one's death
+B5L06-I-51	恐懼	kǒngjù	N	fear
+B5L06-I-52	心痛	xīntòng	Ph	the pain in one's heart, heartbreak, heartache
+B5L06-I-53	天平	tiānpíng	N	balance, scales
+B5L06-I-54	衡量	héngliáng	V	to weigh, evaluate
+B5L06-I-55	坦白	tǎnbái	Vs	honesty, honest (坦白說 = to be honest/frank/candid)
+B5L06-I-56	撫慰	fǔwèi	V	to console, comfort
+B5L06-I-57	剛剛好	gānggāng hǎo		just right, just enough, just the right amount, time, color, etc... (meaning here: justice done)
+B5L06-II-01	無濟於事	wújì yúshì	Id	to not help the situation, does not do anybody good, of no use
+B5L06-II-02	致力	zhìlì	Adv	with all might and mind
+B5L06-II-03	推動	tuīdòng		to promote, to push
+B5L06-II-04	漫漫長路	mànmàn chánglù	Id	a load road, there is still a long way to go
+B5L06-II-05	刑罰	xíngfá	N	punishment, penalty
+B5L06-II-06	顯得	xiǎnde	Vaux	to appear, seem, come off as
+B5L06-II-07	費	fèi	V	to exert (lit. pay out)
+B5L06-II-08	心力	xīnlì	N	effort (physical and mental)
+B5L06-II-09	冤枉	yuānwǎng	V	to be wronged, treated unjustly
+B5L06-II-10	槍決	qiāngjué	N/V	execution by shooting; to execute by shooting
+B5L06-II-11	犯案	fàn'àn	Vp-sep	to be implemented in a crime
+B5L06-II-12	充足	chōngzú	Vs	ample, sufficient, adequate
+B5L06-II-13	保證	bǎozhèng	V/N	to guarantee; guarantee
+B5L06-II-14	誤判	wùpàn		to err in judicial judgement; erroneous judgement, miscarriage of justice
+B5L06-II-15	失誤	shīwù	N	mistake, error
+B5L06-II-16	無價	wújià	Vs	priceless
+B5L06-II-17	賠償	péicháng	N/V	compensation, reparation; to compensate, make reparations
+B5L06-II-18	善良	shànliáng	Vs	good and kind
+B5L06-II-19	一面	yímiàn	Ph	side (i.e., a good side)
+B5L06-II-20	可貴	kěguì	Vs	valuable, priceless
+B5L06-II-21	同情	tóngqíng	Vst/N	to sympathize; sympathy
+B5L06-II-22	換不回	huànbùhuí	Ph	cannot get it back
+B5L06-II-23	和解	héjiě	Vi	to reconcile, make up
+B5L06-II-24	認錯	rèncuò	V-sep	to admit one's error
+B5L06-II-25	重新	chóngxīn	Adv	anew, afresh
+B5L06-II-26	大愛	dà'ài	N	great love, love at the highest level
+B5L06-II-27	感受	gǎnshòu		feelings
+B5L06-II-28	只是	zhǐshì	Adv	but at the same time, we must realize that
+B5L06-II-29	一命還一命	yímìng huán yímìng		a life for a life, an eye for an eye
+B5L06-II-30	好受	hǎoshòu	Vs	to feel better
+B5L06-II-31	也就是說	yějiùshìshuō	Ph	that is to say, that is, i.e.
+B5L06-II-32	歐盟	Ōuméng	N	the EU, European Union
+B5L06-II-33	潮流	cháoliú	N	trend
+B5L06-II-34	意識到	yìshìdào	Vpt	to be conscious of, to be aware of
+B5L06-II-35	唯有	wéiyǒu	Adv	only by
+B5L06-II-36	身旁	shēnpáng	N	next to, around you
+B5L06-II-37	打造	dǎzào	V	to create, implement
+B5L06-II-38	根本	gēnběn	Adv	completely, fundamentally, thoroughly
+B5L07-I-0-01	傷腦筋	shāng nǎojīn	Id	to cause a headache, a pain in the neck, to be knotty/troublesome (said of issues or problems)
+B5L07-I-0-02	受益	shòuyì	Vp	to be benefited, to benefit (from)
+B5L07-I-0-03	財富	cáifù	N	wealth
+B5L07-I-0-04	思考	sīkǎo	V	to ponder
+B5L07-I-01	清晨	qīngchén	N	early morning
+B5L07-I-02	同齡	tónglíng	Vs	to be of the same age
+B5L07-I-03	遇上	yùshàng	Vpt	to encounter, come across
+B5L07-I-04	白工	báigōng	N	work done in vain, wasted work
+B5L07-I-05	沖走	chōngzǒu	V	to be washed away
+B5L07-I-06	（一）大半	(yí) dàbàn	Ph	a huge portion of, more than half
+B5L07-I-07	慘重	cǎnzhòng	Vs	heavy (said of losses)
+B5L07-I-08	值錢	zhíqián	Vs	valuable
+B5L07-I-09	村	cūn	N	village
+B5L07-I-10	可憐	kělián	Vs	pitiful, pitiable, poor
+B5L07-I-11	相依為命	xiāngyī wéimìng	Id	to depend on each other (for survival)
+B5L07-I-12	一身病痛	yìshēn bìngtòng	Id	illness and pain all over the body
+B5L07-I-13	懂事	dǒngshì	Vs	sensible, to have a good head on one's shoulders
+B5L07-I-14	主動	zhǔdòng	Adv	take the initiative, take it upon oneself to
+B5L07-I-15	援助	yuánzhù	V/N	to assist; assistance, aid
+B5L07-I-16	口袋	kǒudài	N	pocket
+B5L07-I-17	吃力	chīlì	Vs	to entail strenuous effort, be a strain
+B5L07-I-18	家產	jiāchǎn	N	family, property
+B5L07-I-19	一無所有	yìwú suǒyǒu	Id	have nothing at all, not own a thing in the world, penniless
+B5L07-I-20	對於	duìyú	Prep	as to, with regard to, to
+B5L07-I-21	累積	lěijī	V	to accumulate
+B5L07-I-22	貧戶	pínhù	N	households below poverty line
+B5L07-I-23	袖手旁觀	xiùshǒu pángguān	Id	stand by and watch, sit there twiddling one's thumbs, not life a finger
+B5L07-I-24	調整	tiáozhěng	V/N	to adjust; adjustment
+B5L07-I-25	創造	chuàngzào	V	to create
+B5L07-I-26	津貼	jīntiē	N	allowance (as in travel allowance)
+B5L07-I-27	等同	děngtóng	Vst	tantamount to, equivalent to
+B5L07-I-28	補貼	bǔtiē	V/N	to subsidize; subsidy
+B5L07-I-29	分子	fènzǐ	N	member (of an organization)
+B5L07-I-30	舉例	jǔlì	V-sep	to give an example
+B5L07-I-31	工資	gōngzī	N	pay, salary
+B5L07-I-32	完善	wánshàn	Vs	fully devised, perfect
+B5L07-I-33	出手	chūshǒu	Vi	to spend, hand out, pay out
+B5L07-I-34	大方	dàfāng	Vs	generous, magnanimous
+B5L07-I-35	在於	zàiyú	Vst	to lie in (the fact that), consist in
+B5L07-I-36	進行	jìnxíng	V	to carry out, conduct, undertake
+B5L07-I-37	共享	gòngxiǎng	V	to share, enjoy
+B5L07-I-38	倘若	tǎngruò	Conj	if, in the event that, supposing
+B5L07-I-39	不服	bùfú	Vs	to refuse to accept, unconvinced
+B5L07-I-40	稅收	shuìshōu	N	tax revenue
+B5L07-I-41	生存	shēngcún	Vi/N	to survive, exist; survival
+B5L07-I-42	提心吊膽	tíxīn diàodǎn	Id	on tenterhooks, nervous
+B5L07-I-43	警力	jǐnglì	N	police force
+B5L07-I-44	治安	zhì'ān	N	public security
+B5L07-II-01	哈佛大學	Hāfó Dàxué	N	Harvard Univesity
+B5L07-II-02	課堂	kétáng	N	classroom
+B5L07-II-03	心臟	xīnzàng	N	heart (organ)
+B5L07-II-04	肺臟	fèizàng	N	lung
+B5L07-II-05	腎臟	shènzàng	N	kidney
+B5L07-II-06	急迫	jípò	Vs	urgent, pressing
+B5L07-II-07	器官	qìguān	N	organ
+B5L07-II-08	移植	yízhí	V	to transplant
+B5L07-II-09	捐贈	juānzèng	V	to donate
+B5L07-II-10	突然	túrán	Adv	suddenly
+B5L07-II-11	全身	quánshēn	N	entire body
+B5L07-II-12	麻醉	mázuì	V	to anesthetize (全身麻醉 general anesthesia)
+B5L07-II-13	抽	chōu	V	to levy (a tax)
+B5L07-II-14	迫切	pòqiè	Vs	urgent
+B5L07-II-15	眾人	zhòngrén	N	people in general, the multitude
+B5L07-II-16	奪取	duóqǔ	V	to seize, take by force
+B5L07-II-17	堂	táng	M	measure for classes (in terms of minutes; not for courses, classrooms, or students that make up a class)
+B5L07-II-18	奮鬥	fèndòu	Vi	to struggle, strive
+B5L07-II-19	犧牲	xīshēng	V	to sacrifice
+B5L07-II-20	埋	mái	V	to bury
+B5L07-II-21	繳稅單	jiǎoshuìdān	N	tax form
+B5L07-II-22	無所事事	wúsuǒshìshì	Id	have nothing to do, to lay idle (here, unemployed)
+B5L07-II-23	短暫	duǎnzhàn	Vs	transient, short, brief
+B5L07-II-24	拼	pīn	Vs	to work hard
+B5L07-II-25	醒	xǐng	Vp	to wake up, awaken
+B5L07-II-26	苦笑	kǔxiào	Vi	to smile bitterly/wryly, to force a smile
+B5L07-II-27	歪理	wāilǐ	N	preposterous argument (i.e., that's dumb! What idiot thought that up?!)
+B5L07-II-28	米蟲	mǐchóng	N	sponge, parasite (lit. a rice bug)
+B5L07-II-29	仍舊	réngjiù	Adv	still
+B5L07-II-30	劫富濟貧	jiéfù jìpín	Id	steal from the rich and give to the poor (spirit of Robin Hood)
+B5L07-II-31	強制	qiángzhì	Adv	by force into, coerced
+B5L07-II-32	奪走	duózǒu	V	to take away, snatch
+B5L07-II-33	被迫	bèipò	Vs	to be forced, compelled
+B5L07-II-34	捐款	juānkuǎn	V-sep	to donate money
+B5L07-II-35	眼紅	yǎnhóng	Vs	to covet, envious
+B5L07-II-36	分享	fēnxiǎng	V	to share
+B5L07-II-37	成果	chéngguǒ	N	outcome, result
+B5L07-II-38	不勞而獲	bùláo érhuò	Id	to reap where one has not sown, get something for nothing
+B5L07-II-39	依靠	yīkào	V	to rely on, depend on
+B5L07-II-40	拉	lā	V	to pull
+B5L07-II-41	貧窮	pínqióng	N	poverty
+B5L07-II-42	強盜	qiángdào	N	robber
+B5L07-II-43	打擊	dǎjí	V	to strike a blow to
+B5L07-II-44	創富	chuàngfù	Vi	to create wealth
+B5L07-II-45	介入	jièrù	V	to intervene, get involved in
+B5L08-I-0-01	左右為難	zuǒyòu wéinán	Id	in a dilemma, be in a bind, in a predicament, in a fix
+B5L08-I-0-02	難民	nànmín	N	refugees
+B5L08-I-0-03	男童	nántóng	N	boy, child
+B5L08-I-0-04	溺死	nìsǐ	Vp	to drown (to death), die from drowning
+B5L08-I-0-05	震驚	zhènjīn	Vpt	to shock, stun, startle
+B5L08-I-0-06	接連	jiēlián	Adv	in succession, in a row
+B5L08-I-0-07	事件	shìjiàn	N	incident, episode
+B5L08-I-0-08	不滿	bùmǎn	Vs	discontent, unhappy with
+B5L08-I-01	分擔	fēndān	V	to share a burden, share responsibility
+B5L08-I-02	化	huà	V	to turn into, change into, convert into, transform into
+B5L08-I-03	轉機	zhuǎnjī	N	(life-saving) opportunity
+B5L08-I-04	海面	hǎimiàn	N	the surface of the ocean/sea
+B5L08-I-05	難以數計	nányǐ shùjì	Id	countless (lit. hard to calculate)
+B5L08-I-06	屍體	shītǐ	N	corpse, body
+B5L08-I-07	怵目驚心	chùmù jīngxīn	Id	shocked to witness
+B5L08-I-08	冒	mào	V	to risk
+B5L08-I-09	聯合國	Liánhéguó	V	United Nations, UN
+B5L08-I-10	止	zhǐ	Ptc	until (Classical Chinese)
+B5L08-I-11	庇護	bìhù	N	asylum
+B5L08-I-12	人數	rénshù	N	number of people
+B5L08-I-13	面臨	miànlín	V	to face, confront
+B5L08-I-14	團結	tuánjié	Vi	to unite, form solidarity with
+B5L08-I-15	召開	zhàokāi	V	to convene, hold (a meeting)
+B5L08-I-16	高峰會	gāofēng huì	N	summit (meeting)
+B5L08-I-17	領袖	lǐngxiù	N	leader, head of state
+B5L08-I-18	消除	xiāochú	V	to eliminate
+B5L08-I-19	仇外	chóuwài	Vs	anti-foreign
+B5L08-I-20	前-	qián	N	former-, ex-
+B5L08-I-21	歐巴馬	Ōubāmǎ	N	Barack Obama (former US president)
+B5L08-I-22	會議	huìyì	N	conference, meeting
+B5L08-I-23	主義	zhǔyì	N	"""-ism"" (as in terrorism, Communism)"
+B5L08-I-24	受害者	shòuhàizhě	N	victim
+B5L08-I-25	向來	xiànglái	Adv	always, all along
+B5L08-I-26	單一	dānyī	Vs-attr	one, single (any one country's responsibility)
+B5L08-I-27	共同	gòngtóng	Adv	together, jointly
+B5L08-I-28	排外	páiwài	Vi	anti-foreign, xenophobic
+B5L08-I-29	融入	róngrù	V	to integrate, blend in
+B5L08-I-30	收容	shōuróng	V	to integrate, blend in
+B5L08-I-31	或許	huòxǔ	Adv	perhaps, probably
+B5L08-I-32	勞動力	láodònglì	N	manpower
+B5L08-I-33	轉化	zhuǎnhuà	Vi	to change into, transform
+B5L08-I-34	里約	Lǐyuē	N	Rio, Brasil
+B5L08-I-35	奧運	Àoyùn	N	Olympics
+B5L08-I-36	首度	shǒudù	Adv	first time
+B5L08-I-37	代表隊	dàibiǎoduì	N	representative team, team representing
+B5L08-I-38	逃離	táolí	V	to escape from, flee from
+B5L08-I-39	戰火	zhànhuǒ	N	fires of war
+B5L08-I-40	殘障	cánzhàng	N	physical disability
+B5L08-I-41	忘掉	wàngdiào	Vpt	to forget
+B5L08-I-42	英雄	yīngxióng	N	hero
+B5L08-I-43	身分	shēnfèn	N	indentification
+B5L08-I-44	索馬利亞	Suǒmǎlìyǎ	N	Somalia
+B5L08-I-45	之後	zhīhòu	N	subsequent to that
+B5L08-I-46	參選	cānxuǎn	V	to run in an election
+B5L08-I-47	膚色	fūsè	V	skin color
+B5L08-I-48	早日	zǎorì	Adv	soon
+B5L08-I-49	扶持	fúchí	V	to support, help, aid, assist
+B5L08-II-01	優先	yōuxiān	Vs	to be given priority
+B5L08-II-02	無力	wúlì	Vst	incapable of, powerless to
+B5L08-II-03	安置	ānzhì	V	to make proper living arrangements for
+B5L08-II-04	支出	zhīchū	N/V	expenditure; to expend
+B5L08-II-05	導致	dǎozhì	V	to cause, result in, lead to
+B5L08-II-06	賦稅	fùshuì	N	taxes
+B5L08-II-07	居民	jūmín	N	resident
+B5L08-II-08	對立	duìlì	Vs	to oppose, be in opposition, be antagonistic
+B5L08-II-09	罷了	bànle	Ptc	merely, that's it, that is all
+B5L08-II-10	德國	Déguó	N	Germany
+B5L08-II-11	每況愈下	měikuàng yùxià	Id	to deteriorate, go downhill, go from bad to worse
+B5L08-II-12	拖垮	tuōkuǎ	V	to pull down with, drag down
+B5L08-II-13	忽略	hūlüè	V	to ignore, overlook
+B5L08-II-14	一一	yīyī	Adv	one by one, separately
+B5L08-II-15	過濾	guòlǜ	V	to filter
+B5L08-II-16	有機可乘	yǒujīkěchéng	Id	take advantage of a situation
+B5L08-II-17	接二連三	jiē'èr liánsān	Id	one after another, in rapid succession
+B5L08-II-18	衝突	chōngtú	Vs	to conflict
+B5L08-II-19	升高	shēnggāo	Vp	to increase, rise
+B5L08-II-20	在在	zàizài	Adv	in all aspects (Classical Chinese)
+B5L08-II-21	設置	shèzhì	V	to establish, set up
+B5L08-II-22	難民營	nànmínyíng	N	refugee camp
+B5L08-II-23	關閉	guānbì	V	to close down
+B5L08-II-24	邊界	biānjiè	N	border
+B5L08-II-25	通往	tōngwǎng	V	to go to, lead to
+B5L08-II-26	交託	jiāotuō	V	to entrust (one's safety, life, etc...) to
+B5L08-II-27	人口	rénkǒu	N	human
+B5L08-II-28	販子	fànzi	N	trafficker
+B5L08-II-29	助長	zhùzhǎng	V	to foster, encourage (negatively)
+B5L08-II-30	支付	zhīfù	V	to make a payment to
+B5L08-II-31	總理	zǒnglǐ	N	chancellor, prime minister, premier
+B5L08-II-32	梅克爾	Méikè'ěr	N	Merkel (German chancellor)
+B5L08-II-33	承認	chéngrèn	V	to admit, confess
+B5L08-II-34	低估	dīgū	V	to underestimate
+B5L08-II-35	和平	hépíng	Vs/N	peaceful; peace
+B5L08-II-36	對策	duìcè	N	countermeasure, strategy
+B5L08-II-37	販運	fànyùn	N	trafficking, smuggling, transporting
+B5L08-II-38	首要之務	shǒuyào zhīwù	Id	top/first, the most important issue
+B5L09-I-0-01	核電廠	hédiànchǎng	N	nuclear power plant
+B5L09-I-0-02	熱烈	rèliè	Vs	fervent, ardent
+B5L09-I-0-03	乃至	nǎizhì	Adv	and even
+B5L09-I-01	遠處	yuǎnchù	N	a distance location
+B5L09-I-02	輻射	fúshè	N	radiation
+B5L09-I-03	外洩（泄）	wàixiè	Vi	to leak
+B5L09-I-04	爆炸	bàozhà	Vp	to explode
+B5L09-I-05	危言聳聽	wéiyán sǒngtīng	Id	alarmist talk, inflammatory statement
+B5L09-I-06	致命	zhìmìng	Vs	lethal, fatal
+B5L09-I-07	退燒	tuìshāo	Vp	to reduce fever, wane
+B5L09-I-08	行之有年	xíngzhī yǒunián	Id	in use for years, long-established
+B5L09-I-09	三哩島	Sānlǐdǎo	N	Three Mile Island, PA, USA
+B5L09-I-10	烏克蘭	Wūkèlán	N	Ukraine
+B5L09-I-11	車諾比	Chēnuòbǐ	N	Chernobyl
+B5L09-I-12	福島	Fúdǎo	N	Fukushima
+B5L09-I-13	核災	hézāi	N	nuclear disaster
+B5L09-I-14	核電	hédiàn	N	nuclear power
+B5L09-I-15	列為	lièwéi	Vst	to be ranked as, listed as
+B5L09-I-16	等級	děngjí	N	level, grade
+B5L09-I-17	位於	wèiyú	Vst	to be located at
+B5L09-I-18	海嘯	hǎixiào	N	tsunami
+B5L09-I-19	洪水	hóngshuǐ	N	flood
+B5L09-I-20	數百萬	shùbǎiwàn	Ph	several millions, millions
+B5L09-I-21	及時	jíshí	Adv	in time, in a timely matter
+B5L09-I-22	顆	kē	M	measure for round objects (e.g., bombs)
+B5L09-I-23	炸彈	zhàdàn	N	bomb
+B5L09-I-24	立即	lìjí	Adv	immediately, at once
+B5L09-I-25	令	lìng	Vst	to cause, make, let
+B5L09-I-26	擔憂	dānyōu	Vst	worried, concerned
+B5L09-I-27	歐洲癌症護理雜志	Ōuzhōu Áizhèng Hùlǐ Zázhì	Ph	European Journal of Cancer Care
+B5L09-I-28	數字	shùzì	N	number, figures
+B5L09-I-29	周圍	zhōuwéi	N	around, surrounding, on the periphery
+B5L09-I-30	罹癌	lí'ái	Vp	to be stricken with cancer
+B5L09-I-31	偏	piān	Adv	slightly
+B5L09-I-32	青少年	qīngshàonián	N	adolescents
+B5L09-I-33	細胞	xìbāo	N	cell
+B5L09-I-34	製造	zhìzào	V	to manufacture, produce, make
+B5L09-I-35	廢料	fèiliào	N	waste, waste materials
+B5L09-I-36	可行	kěxíng	Vs	feasible
+B5L09-I-37	偏遠	piānyuǎn	Vs	rural, distant
+B5L09-I-38	任誰	rèn shéi	Ph	anybody
+B5L09-I-39	因應	yīnyìng	V	to deal with, handle
+B5L09-I-40	再生能源	zàishēng néngyuán	Ph	renewable energy
+B5L09-I-41	妥善	tuǒshàn	Adv	adequately, properly
+B5L09-I-42	頭痛	tóutòng	Vs	a headache, a pain
+B5L09-I-43	無解	wújiě	Vs	have no solution, be unsolvable
+B5L09-I-44	難題	nántí	N	difficult problem, tough problem
+B5L09-I-45	正確	zhèngquè	Vs	accurate
+B5L09-II-01	環保	huánbǎo	Vs	environmentally friendly
+B5L09-II-02	聯想	liánxiǎng	Vi	to associate with in the mind, think of
+B5L09-II-03	事故	shìgù	N	accident
+B5L09-II-04	運作	yùnzuò	N	operation
+B5L09-II-05	疏失	shūshī	N	negligence
+B5L09-II-06	視為	shìwéi	Vst	to regard as
+B5L09-II-07	一概而論	yígài érlùn	Id	to make sweeping generalizations
+B5L09-II-08	定時	dìngshí	Vs-attr	to be fixed in time （定時炸彈）
+B5L09-II-09	風力	fēnglì	N	wind power
+B5L09-II-10	水利	shuǐlì	N	water power, hydropower
+B5L09-II-11	火力	huǒlì	N	thermal power
+B5L09-II-12	太陽能	tàiyángnéng	N	solar power
+B5L09-II-13	相比	xiāng bǐ	Vi	to be compared to
+B5L09-II-14	機率	jīlǜ	N	chance (of something happening), likelihood
+B5L09-II-15	雷	léi	N	lightning
+B5L09-II-16	碳	tàn	N	carbon
+B5L09-II-17	排放量	páifàngliàng	N	emissions
+B5L09-II-18	有利	yǒulì	Vs	beneficial
+B5L09-II-19	二氧化碳	Èryǎnghuàtàn	N	carbon dioxide
+B5L09-II-20	溫室	wēnshì	N	greenhouse
+B5L09-II-21	效應	xiàoyìng	N	effect
+B5L09-II-22	河流	héliú	N	river
+B5L09-II-23	魚類	yúlèi	N	fish
+B5L09-II-24	噪音	zàoyīn	N	noise
+B5L09-II-25	地熱	dìrè	N	geothermal
+B5L09-II-26	成熟	chéngshóu	Vp	mature
+B5L09-II-27	解決之道	jiějué zhīdào	Id	solution
+B5L09-II-28	收取	shōuqǔ	V	to charge, collect
+B5L09-II-29	高額	gāo'é	Vs-attr	high (amount of money, tariff, profit, etc...)
+B5L09-II-30	惹	rě	V	to cause, provoke, incur, stir up
+B5L09-II-31	民怨	mínyuàn	N	popular discontent, public anger
+B5L09-II-32	工業	gōngyè	N	industry
+B5L09-II-33	停擺	tíngbǎi	Vp	to stop, to come to a halt
+B5L09-II-34	倒退	dàotuì	Vp	to reverse, regress
+B5L09-II-35	效率	xiàolǜ	N	efficiency
+B5L09-II-36	供	gōng	V	to supply
+B5L09-II-37	外商	wàishāng	N	foreign company/businessman
+B5L09-II-38	優良	yōuliáng	Vs	fine, excellent, good
+B5L09-II-39	民生	mínshēng	N	pepole's well-being/livelihood
+B5L09-II-40	效益	xiàoyì	N	benefit
+B5L09-II-41	設備	shèbèi	N	equipment
+B5L09-II-42	隱憂	yǐnyōu	N	hidden concerns, worries
+B5L09-II-43	綠色	lǜsè	N	green (color)
+B5L09-II-44	替代	tìdài	V	alternative
+B6L01-I-0-01	職校	zhíxiào	N	vocational school
+B6L01-I-0-02	技職	jìzhí	N	technical and vocational career
+B6L01-I-0-03	成功之處	chénggōng zhīchù	Ph	where it has been successful, achievement
+B6L01-I-0-04	高等	gāoděng	Vs-attr	advanced, higher (education)
+B6L01-I-0-05	緊密	jǐnmì	Vs	tight, close
+B6L01-I-0-06	連結	liánjié	N/V	linking; to link
+B6L01-I-0-07	爭相	zhēngxiāng	Adv	eagerly
+B6L01-I-0-08	典範	diǎnfàn	N	paragon, model, example
+B6L01-I-01	放眼	fàngyǎn	V	looking to, looking toward
+B6L01-I-02	出版	chūbǎn	V	to publish
+B6L01-I-03	總要	zǒngyào	Vaux	to have to (一定要)
+B6L01-I-04	嚴陣以待	yánzhèn yǐdài	Id	be ready for, be standing by, literally, wait in full battle array
+B6L01-I-05	直言	zhíyán	V	to speak bluntly, to state outright
+B6L01-I-06	分析	fēnxī	V/N	to analyze
+B6L01-I-07	身為	shēnwéi	Vst	
+B6L01-I-08	文憑	wénpíng	N	diploma
+B6L01-I-09	一技在身	yíjìzàishēn	Id	to have a skill
+B6L01-I-10	點出	diǎnchū	V	to point out
+B6L01-I-11	比比皆是	bìbì jiēshì	Id	be ubiquitous, everywhere, very common
+B6L01-I-12	理論	lǐlùn	N	theory
+B6L01-I-13	製造業	zhìzàoyè	N	manufacturing industry (製造, zhìzào, V; manufacturing, -業, yè, N, industry)
+B6L01-I-14	上工	shànggōng		
+B6L01-I-15	關鍵	guānjiàn	N	to key to, key
+B6L01-I-16	案	-àn	N	case
+B6L01-I-17	中，小型企業	zhōng, xiǎoxíng qìyè	Ph	small and medium-sized enterprises (SMEs)
+B6L01-I-18	投入	tóurù	V	to invest, to throw oneself into, carried away with
+B6L01-I-19	研發	yánfā	V	to research and develop, research and development, R&D
+B6L01-I-20	聘請	pìnqǐng	V	to hire, to employ
+B6L01-I-21	高階	gāojiē	Vs-attr	high level, advanced
+B6L01-I-22	人才	réncái	N	talent, people with specialized skills
+B6L01-I-23	升級	shēngjí	V	to upgrade, to advance, to promote
+B6L01-I-T-01	瑞士	Ruìshì		Switzerland
+B6L01-I-T-02	洛桑管理學院	Luòsāng guǎnlǐ xuéyuàn		
+B6L01-I-T-03	葛瑞里	Gěruìlǐ		Garelli
+B6L01-I-T-04	奧地利	Àodìlì		Austria
+B6L01-I-T-05	瑞典	Ruìdiǎn		Sweden
+B6L01-II-01	提到	tídào	V	to mention, to bring up
+B6L01-II-02	成效	chéngxiào	N	results
+B6L01-II-03	愈	yù	Adv	the more... (the more)
+B6L01-II-04	年度	niándù	N	year, annual
+B6L01-II-05	評比	píngbǐ	N	rating, ranking, assessment
+B6L01-II-06	品牌	pǐnpái	N	brand
+B6L01-II-07	新興	xīnxīng	Vs-attr	emerging
+B6L01-II-08	經濟體	jīngjìtǐ	N	economic entity, economy
+B6L01-II-09	進修	jìnxiū	Vi	to pursue further studies
+B6L01-II-10	逐年	zhúnián	Adv	on a yearly basis, yearly, by the year
+B6L01-II-11	公投	gōngtóu	Vi/N	to cast ballots on a referendum; referendum
+B6L01-II-12	轉向	zhuǎnxiàng	V	to shift, change directions
+B6L01-II-13	自限	zìxiàn	Vi	to limit oneself to, confine oneself to
+B6L01-II-14	當初	dāngchū	Adv	at first, initially
+B6L01-II-15	迫使	pòshǐ	V	to force into
+B6L01-II-16	外	wài	N	outward, external, foreign, to the outside (formal)
+B6L01-II-17	高度	gāodù	Adv	highly, to a great extent
+B6L01-II-18	仰賴	yǎnglài	Vst	to rely on, to depend on
+B6L01-II-19	衰敗	shuāibài	Vs	to decline, deteriorate
+B6L01-II-20	保有	bǎoyǒu	Vst	to retain, to maintain
+B6L01-II-21	創新	chuàngxīn	Vi	to innovate
+B6L01-II-22	低價	dījià	N	low price, discount
+B6L01-II-24	消滅	xiāomiè	V	to be eliminated, displaced
+B6L01-II-T-01	俄國	Éguó		Russia
+B6L01-II-T-02	巴西	Bāxī		Brazil
+B6L01-II-T-03	非洲	Fēizhōu		Africa
+B6L01-II-T-04	拉丁美洲	Lādīng Měizhōu		Latin America
+B6L01-III-01	游艇	yóutǐng	N	yacht
+B6L01-III-02	五金	wǔjīn	N	hardware (as in a hardware store and things found in a hardware store)
+B6L01-III-03	達人	dárén	N	expert
+B6L01-III-04	代言人	dàiyánrén	N	spokesperson
+B6L01-III-05	稱為	chēngwéi	V	to be called
+B6L01-III-06	精品	jīngpǐn	N	quality product
+B6L01-III-07	子弟	zǐdì	N	children
+B6L01-III-08	唯	wéi	Adv	only
+B6L01-III-09	高工	gāogōng	N	vocational high school
+B6L01-III-10	黑手	hēishǒu	N	work (that gets your hands dirty, like car mechanic)
+B6L01-III-11	起家	qǐjiā	Vi	make one's fortune
+B6L01-III-12	奮鬥（史）	fèndòu(shǐ)	Vi	work hard, struggle; -史, -shǐ, N, history
+B6L01-III-13	營業額	yíngyè'é	N	turnover, business volume
+B6L01-III-T-01	教部	jiāobù		Ministry of Education
+B6L01-III-T-02	曾信哲	Zēng Xìnzhé		Mark Tseng (the chairman of ARITEX, specializes in the manufacturing of hardware accessories for luxury yachts)
+B6L01-III-T-03	屏東	Píngdōng		southern Taiwan
+B6L01-III-T-04	九如	jiǔrú		Jiuru, a village in Pingtung
+B6L02-I-01	未必	wèibì	Adv	not necessarily
+B6L02-I-02	出發	chūfā	Vi	to proceed from
+B6L02-I-03	特殊	tèshū	Vs	special, extraordinary
+B6L02-I-04	群	qún	M	group of
+B6L02-I-05	突發奇想	túfā qíxiǎng	Ph	to hit upon an extraordinary idea, have a flash of inspiration
+B6L02-I-06	原理	yuánlǐ	N	principle, theory
+B6L02-I-07	醫師	yīshī	N	doctor
+B6L02-I-08	配	pèi		"to get (glasses), to fill (a prescription), to mix and match (clothes), etc... (In this lesson, ""to have eye glasses fitted at an optical store, without a doctor's prescription, a common practice in Taiwan.)"
+B6L02-I-09	眼鏡	yǎnjìng	N	glasses
+B6L02-I-10	相對	xiāngduì	Adv	relatively, by comparison
+B6L02-I-11	窮困	qióngkùn	Vs	impoverished, destitute
+B6L02-I-12	任務	rènwù	N	mission
+B6L02-I-13	估計	gǔjì	Vi	estimate
+B6L02-I-14	發明	fāmíng	V/N	to invent; invention
+B6L02-I-15	自行	zìxíng	Adv	by onself, on one's own
+B6L02-I-16	度數	dùshù	N	eyesight (prescription), (degree to which one's vision needs correction)
+B6L02-I-17	副	fù	M	measure for (bad) attitudes, (high-brow) appearances, glasses
+B6L02-I-18	鏡片	jìngpiàn	N	lens
+B6L02-I-19	充滿	chōngmǎn	Vpt	filled with
+B6L02-I-20	液體	yìtǐ	N	liquid
+B6L02-I-21	創見	chuàngjiàn	N	original idea
+B6L02-I-22	原始	yuánshǐ	Vs	original, primitive, primeval
+B6L02-I-23	出自	chūzì	Vpt	to be from
+B6L02-I-24	儀器	yíqì	N	instrument
+B6L02-I-25	製造商	zhìzàoshāng	N	manufacturer
+B6L02-I-26	矯正	jiǎozhèng	V	to correct, to straighten out (a deformation), correction
+B6L02-I-27	視力	shìlì	N	vision, eyesight
+B6L02-I-28	大放光明	dàfàng guāngmíng	Ph	shine forth in glory, have a great ray of light (in teh text, it is a play on words)
+B6L02-I-29	影像	yǐngxiàng	N	image
+B6L02-I-30	開發中國家	kāifāzhōng guójiā	Ph	developing nation
+B6L02-I-31	需求量	xūqiúliàng	N	level of demand (-量, -liàng, N, quantity)
+B6L02-I-32	極	jí	Adv	highly, extremely
+B6L02-I-33	供不應求	gōngbú yìngqiú	Id	supply cannot keep up with demand
+B6L02-I-34	貢獻	gòngxiàn	N/V	contribution
+B6L02-I-35	根源	gēnyuán	N	source
+B6L02-I-36	從而	cóng'ér	Conj	therefore, as a result
+B6L02-I-37	人群	rénqún	N	crowd, the masses (people)
+B6L02-I-T-01	牛津大學	Niújīn dàxué		Oxford University
+B6L02-I-T-02	喬許席爾佛	Qiáoxǔ Xí'ěrfó		Professor Joshua Silver (a UK physicist whose discoveries have included a new way to change the curvature of lenses, and the chief executive of the Centre for Vision in the Developing World at the University of Oxford)
+B6L02-II-01	場所	chǎngsuǒ	N	location, venue
+B6L02-II-02	照明	zhàomíng	Vi	to illuminate
+B6L02-II-03	習以為常	xíyǐ wéicháng	Id	be used to, accustomed to, no stranger to
+B6L02-II-04	電力	diànlì	N	electric power
+B6L02-II-05	答案	dá'àn	N	answer
+B6L02-II-06	入夜	rùyè	Vp	to enter nighttime, at nightfall
+B6L02-II-07	村落	cūnluò	N	village
+B6L02-II-08	貼補家用	tiēbǔ jiāyòng	Ph	to help out with family expenses
+B6L02-II-09	煤油燈	méiyóudēng	N	kerosene lamp
+B6L02-II-10	有損	yǒusǔn	Vst	to cause damage to, be harmful to
+B6L02-II-11	孩童	háitóng	N	child
+B6L02-II-12	燃燒	ránshāo	V	to burn
+B6L02-II-13	呼吸道	hūxīdào	N	respiratory tract
+B6L02-II-14	單單	dāndān	Adv	alone, just, merely
+B6L02-II-15	病症	bìngzhèng	N	sickness, disease
+B6L02-II-16	室內	shìnèi	N	indoor
+B6L02-II-17	照亮	zhàoliàng	Vpt	to light up, to illuminate
+B6L02-II-18	基金會	jījīnhuì	N	foundation (organization)
+B6L02-II-19	接	jiē	V	to connect (with)
+B6L02-II-20	動用	dòngyòng	V	to disburse, mobilize
+B6L02-II-21	人力	rénlì	N	manpower
+B6L02-II-22	物力	wùlì	N	coined on the basis of 人力, referring in this lesson to (heavy) equipment
+B6L02-II-23	架設	jiàshè	V	to erect, to set up
+B6L02-II-24	電纜	diànlǎn	N	electric cable
+B6L02-II-25	工程	gōngchéng	N	(engineering) project, engineering
+B6L02-II-26	固態光源（SSL）	gùtài guāngyuán	Ph	solid state lighting
+B6L02-II-27	簡稱	jiǎnchēng	N	abbrevation
+B6L02-II-28	瓦	wǎ	M	watt
+B6L02-II-29	日光板	rìguāngbǎn	N	solar panel (日光, rìguāng, N, sunlight; 板, bǎn, N, board)
+B6L02-II-30	蓄電	xùdiàn	Vs-sep	electric power storage
+B6L02-II-31	電池	diànchí	N	battery
+B6L02-II-32	發光二極體	fāguāng èrjítǐ	Ph	light emitting diode
+B6L02-II-33	系統	xìtǒng	N	system
+B6L02-II-34	安裝	ānzhuāng	V	to install
+B6L02-II-35	群眾	qúnzhòng	N	the masses, people, crowds
+B6L02-II-36	剝奪	bōduó	V	to deprive (of)
+B6L02-II-37	文盲	wénmáng	N	the illiterate
+B6L02-II-T-01	爾文哈樂戴	Ěrwén Hālèdài		Dave Irvine-Halliday (a Canadian photonics specialist, his Light up the World (LUTW) project is to bring affordable lighting to the developing world through the introduction of solid state lighting (SSL) based on light emitting diodes (LEDs))
+B6L02-II-T-02	卡加利大學	Kǎjiālì dàxué		University of Calgary, Canada
+B6L02-II-T-03	尼泊爾	Níbó'ěr		Nepal
+B6L02-II-T-04	喜馬拉雅山群	Xǐmǎlāyǎ Shānqún		Himalaya Mountains, the Himalayas
+B6L03-I-0-01	前所未有	qiánsuǒ wèiyǒu	Id	unprecedented, like never before
+B6L03-I-0-02	盡情	jìnqíng	Adv	to one's heart's content, without restraint
+B6L03-I-0-03	揮灑	huīsǎ	Vi	to display without reservation
+B6L03-I-01	舞蹈家	wǔdàojiā	N	professional and accomplished dancer (家, jiā, N, -er, -ian, -ist)
+B6L03-I-02	描述	miáoshù	V	to describe
+B6L03-I-03	舞者	wǔzhě	N	dancer
+B6L03-I-04	舞台	wǔtái	N	stage (theatrical)
+B6L03-I-05	舞碼	wǔmǎ	N	program of a dance
+B6L03-I-06	傳人	chuánrén	N	sucessor
+B6L03-I-07	芭蕾	bālěi	N	ballet
+B6L03-I-08	及格	jígé	Vp	to pass, satisfactory, meet the grade
+B6L03-I-09	滿分	mǎnfēn	N	full marks, a perfect score
+B6L03-I-10	眾所皆知	zhòngsuǒ jiēzhī	Id	well-known, known by all
+B6L03-I-11	大師	dàshī	N	master, great master
+B6L03-I-12	特地	tèdì	Adv	go out of one's way, make it a point to, specially
+B6L03-I-13	解散	jiěsàn	V	to disperse, to dissolve, to disband
+B6L03-I-14	舞團	wǔtuán	N	dance troupe, dance company
+B6L03-I-15	邀約	yāoyuē	N	invitation
+B6L03-I-16	培訓	péixùn	V	to train
+B6L03-I-17	無	wú	Vst	without, not have (classical Chinese)
+B6L03-I-18	傳承	chuánchéng	V	
+B6L03-I-19	邀請	yāoqǐng	V	to invite
+B6L03-I-20	編舞家	biānwǔjiā	N	choreographer
+B6L03-I-21	量身打造	liángshēn dǎzào	Id	tailor-make, specially made for, custom design
+B6L03-I-22	舞目	wǔmù	N	dance program
+B6L03-I-23	首席	shǒuxí		X; first chair (e.g., first cello), leading, chief position
+B6L03-I-24	舞星	wǔxīng	N	dance star
+B6L03-I-25	會	huì	V	to meet up, to confront
+B6L03-I-26	心血	xīnxiě	N	blood and sweat, painstaking effort
+B6L03-I-27	化為	huàwéi	Vpt	to transform into, to turn into, to change into
+B6L03-I-28	作品	zuòpǐn	N	production, work, composition
+B6L03-I-29	規劃	guīhuà	N	plan
+B6L03-I-30	舞曲	wǔqǔ	N	dance music
+B6L03-I-31	民俗	mínsú	N	folk, folklore
+B6L03-I-32	生平	shēngpíng	N	in one's life time, life, life story
+B6L03-I-33	不得不	bùdébù	Adv	must; have to
+B6L03-I-34	硬著頭皮	yìngzhe tóupí	Ph	summon up the courage to do something, brace yourself to do something, force yourself to do something
+B6L03-I-35	灑落	sǎluò	Vi	sprinkled, scattered (leaves, petals), flooded, inundated (light)
+B6L03-I-36	刹那	chànà	N	moment, instant
+B6L03-I-37	感到	gǎndào	Vst	to feel
+B6L03-I-38	存在感	cúnzàigǎn	N	sense of presence, sense of existence
+B6L03-I-39	報考	bàokǎo	V	to apply for admission to a school/university
+B6L03-I-40	民族舞	mínzúwǔ	N	folk dance
+B6L03-I-41	終	zhōng	Adv	in the end, ultimately, eventually (classical Chinese)
+B6L03-I-42	上帝	shàngdì	N	God
+B6L03-I-43	疼愛	téngài	Vst	to love dearly
+B6L03-I-T-01	生身不息	Shēngshēn Bùxí		timeless (name of a dance program); originally was 生生 which meant your life doesn't rest
+B6L03-I-T-02	許芳宜	Xǔ Fāngyí		Sheu Fang-yi (a famous female dancer and artist from Taiwan, 1971-)
+B6L03-I-T-03	勞勃阿特曼	Lāobó Ātèmàn		Robert Altman (an American film director, screenwriter, and producer, five-time nominee of the Academyy Award for Best Director, 1925-2006)
+B6L03-I-T-04	舞動實際	Wǔdòng Shìjì		The Company (name of a movie, 2003)
+B6L03-I-T-05	瑪莎葛蘭姆	Mǎshā Gělánmǔ		Martha Graham (an American modern dancer and choreographer, one of the earliest founders of modern dance, 1894-1991)
+B6L03-I-T-06	倫敦	Lúndūn		London
+B6L03-I-T-07	阿喀郎汗	Ākèláng Hàn		Akram Khan (an English dancer of Bangladeshi descent, 1974-)
+B6L03-I-T-08	克理斯多福惠爾敦	Kèlǐsīduōfú Huì'ěrdūn		Christopher Wheeldon (an English international choreographer of contemporary ballet, 1973-)
+B6L03-I-T-09	紐約市立芭蕾舞團	Niǔyuē shìlì bālěi wǔtuán		New York City Ballet
+B6L03-I-T-10	溫蒂威倫	Wēndì Wēilún		Wendy Whelan (a principal dancer with the New York City Ballet and is a guest artist with the Royal Ballet and the Kirov Ballet, 1967-)
+B6L03-I-T-11	花岡藝校	Huágāng Yìxiào		Taipei Haw Kang Arts School
+B6L03-II-01	從（來）	cóng (lái)	Adv	has always been; all along
+B6L03-II-02	不間斷（地）	bú jiànduàn	Adv	without interruption
+B6L03-II-03	保送	bǎosòng	V	to be admitted to university solely upon recommendation without exams
+B6L03-II-04	扇	shàn	M	measure for doors
+B6L03-II-05	貴人	guìrén	N	a guardian angel
+B6L03-II-06	一眼	yìyǎn	Adv	with one look, with one glance, instantly
+B6L03-II-07	發覺	fājué	Vp	to realize, discover
+B6L03-II-08	才華	cáihuá	N	talent
+B6L03-II-09	痛哭流涕	tòngkū liútì	Id	to burst into tears, cry your heart out
+B6L03-II-10	輩子	bèizi	N	(over) one's life time
+B6L03-II-11	公開	gōngkāi	Adv	openly, publicly
+B6L03-II-12	稱讚	chēngzàn	V	to praise
+B6L03-II-13	下定決心	xiàdìng juéxīn	Ph	to resolve to do, determined to do, make up one's mind
+B6L03-II-14	海綿	hǎimián	N	sponge
+B6L03-II-15	吸收	xīshōu	V	to absorb
+B6L03-II-16	隻身	zhīshēn	Adv	alone, by oneself, unaccompanied
+B6L03-II-17	術科	shùkē	N	technical subject
+B6L03-II-18	跳舞	tiàowǔ	V-sep	to dance
+B6L03-II-19	其餘	qíyú	Det	others, the remaining
+B6L03-II-20	學科	xuékē	N	academic subjects
+B6L03-II-21	憑	píng	Prep	owing to, relying on, by means of
+B6L03-II-22	毅力	yìlì	N	will-power, determination
+B6L03-II-23	克服	kèfú	V	to overcome
+B6L03-II-24	語言翻譯機	yǔyán fānyìjī	Ph	e-language translator
+B6L03-II-25	種種	zhǒngzhǒng	M	various kinds of
+B6L03-II-26	瞬間	shùnjiān	N	instant, moment, in the twinkling of an eye
+B6L03-II-27	加諸（在）	jiāzhū(zài)	V	to be added to, conferred upon
+B6L03-II-28	冲昏頭	chōnghūn tóu	Ph	to let something get to your head, let your head swell from (praise, pride, etc...), dazzled by
+B6L03-II-29	評論	pínglùn	N	commentary, review
+B6L03-II-30	天堂	tiāntáng	N	heaven, paradise
+B6L03-II-31	地獄	dìyù	N	hell
+B6L03-II-32	戰戰兢兢	zhànzhàn jīngjīng	Id	timid with anticipation, trembling, jittery
+B6L03-II-33	當作	dāngzuò	Vst	regard as
+B6L03-II-34	肯定	kěndìng	N	approval, affirmation
+B6L03-II-35	再次	zàicì	Adv	yet again
+B6L03-II-36	何嘗	hécháng	Adv	cannot possibly
+B6L03-II-37	不自覺	búzìjué	Adv	unconciously, without realizing it
+B6L03-II-38	體內	tǐnèi	N	inside a person, inside the body, from within
+B6L03-II-39	散	sàn	Vi	to disperse, permeate
+B6L03-II-40	熟悉	shóuxī	Vs	familiar
+B6L03-II-41	臉孔	liǎnkǒng	N	face (literary)
+B6L03-II-42	期待已久	qídài yǐjiǔ	Ph	long awaited, long anticipated, looked forward to for a long time
+B6L03-II-43	固定	gùdìng	Vs	fixed, invariable, by routine
+B6L03-II-T-01	羅斯帕克斯	Luósī Pàkèsī		Ross Parkes (formerly a principal dancer for the well-known Martha Graham Dance Company in the United States, 1940-)
+B6L03-II-T-02	葛蘭姆舞團	Gělánmǔ wǔtuán		Martha Graham Dance Company, New York
+B6L04-I-0-01	做人	zuòrén	Vi	to conduct oneself, to behave
+B6L04-I-0-02	心法	xīnfǎ	N	mental cultivation methods
+B6L04-I-0-03	談論	tánlùn	V	to discuss, to talk about
+B6L04-I-0-04	真誠	zhēnchéng	Vs	sincere, sincerity
+B6L04-I-0-05	讚美	zànměi	V/N	to praise; praise
+B6L04-I-0-06	親和力	qīnhélì	N	likability, affinity
+B6L04-I-0-07	笑容	xiàoróng	N	smile
+B6L04-I-0-08	此	cǐ	Det	(literary) this, these
+B6L04-I-0-09	祕訣	mìjué	N	secret (of success)
+B6L04-I-0-10	拉近距離	lājìn jùlí	Ph	connect with, get to know better, bring people closer together, close the gap between people
+B6L04-I-01	傳授	chuánshòu	V	to impart, to pass on knowledge
+B6L04-I-02	獨門	dúmén	Vs-attr	unique, special, (below) business without competitors
+B6L04-I-03	人際	rénjì	Vs-attr	interpersonal
+B6L04-I-04	銷售	xiāoshòu	V/N	to sell; sales
+B6L04-I-06	謙稱	qiānchēng	V	humbly refer to oneself, modestly say (about oneself)
+B6L04-I-07	抱持	bàochí	V	to maintain
+B6L04-I-08	哲學	zhéxué	N	philosophy
+B6L04-I-09	讀者	dúzhě	N	reader (of books and newspapers)
+B6L04-I-10	踏出	tàchū	V	take a step forward
+B6L04-I-11	悅耳	yuè'ěr	Vs	pleasant sounding, pleasant to the ears
+B6L04-I-12	熱忱	rèchén	N	enthusiasm
+B6L04-I-13	不妨	bùfáng	Adv	might as well, there's no harm in
+B6L04-I-14	好比	hǎobǐ	Vst	for instance, like, such as
+B6L04-I-15	告別	gàobié	Vi	say goodbye, bid farewell
+B6L04-I-16	記住	jìzhù	V	to remember
+B6L04-I-17	對方	duìfāng	N	the other party, the other person
+B6L04-I-18	宴會	yànhuì	N	banquet, feast
+B6L04-I-19	自顧自（地）	zìgùzì (de)	Adv	only thinking about yourself, without taking others into consideration
+B6L04-I-20	講	jiǎng	V	to talk, to say, to speak
+B6L04-I-21	整整	zhěngzhěng	Adv	fully
+B6L04-I-22	插嘴	chāzuǐ	V-sep	to interrupt, get a word in edgewise
+B6L04-I-23	餘地	yúdì	N	room for, opportunity to
+B6L04-I-24	以致（於）	yǐzhì (yú)	Conj	so that, as a result
+B6L04-I-25	同桌	tóngzhuō	Vi	to sit at the same table
+B6L04-I-26	罰站	fázhàn	V-sep	to be punished by being made to stand
+B6L04-I-27	聼教	tīngjiào	Vi	"to listen (somebody's ""preaching,"" advice, etc...) be read the riot act"
+B6L04-I-28	似地	sìde	Ptc	as if, like
+B6L04-I-29	凝滯	níngzhì	Vs	stagnated
+B6L04-I-30	一吐為快	yìtǔ wéikuài	Id	spit it out, get something off your chest, here: speak without hesitation, speak your fill
+B6L04-I-31	提問	tíwèn	Vi	to ask a question
+B6L04-I-T-01	黑幼龍	Hēi Yòulóng		John Hei (the Greater China Group Leader of Carnegie training, who introduced Carnge Gie training to Taiwan in 1987, 1940-)
+B6L04-I-T-02	卡內基	Kǎnèijī		Dale Carnegie (an American writer and lecturer and the developer of famous courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills, 1888-1955)
+B6L04-II-01	心坎	xīnkǎn	N	from the bottom of ones heart, one's heart of hearts
+B6L04-II-02	本質	běnzhí	N	nature, real self
+B6L04-II-03	驅策	qūcè	V	to drive
+B6L04-II-04	深切	shēnqiè	Vs	deep, heartfelt
+B6L04-II-05	真心	zhēnxīn	Adv	genuinely, sincerely
+B6L04-II-06	可想而知	kěxiǎng érzhī	Id	as you can easily imagine
+B6L04-II-07	人緣	rényuán	N	interpersonal popularity
+B6L04-II-08	命中	mìngzhòng	Vpt	to hit (the mark)
+B6L04-II-09	成就	chéngjiù	N	achievement
+B6L04-II-10	真切	zhēnqiè	Vs	sincere
+B6L04-II-11	性格	xìnggé	N	character, personality
+B6L04-II-12	愛心	àixīn	N	compassion, loving heart
+B6L04-II-13	口香糖	kǒuxiāngtáng	N	gum, chewing gum
+B6L04-II-14	力道	lìdào	N	strength, power
+B6L04-II-15	發自	fāzì	Vst	originate from, from, something finds its source in
+B6L04-II-16	企圖	qìtú	N	ulterior motives
+B6L04-II-17	失效	shīxiào	Vp	to produce no results, to become invalid
+B6L04-II-18	下屬	xiàshǔ	N	subordinate
+B6L04-II-19	責任感	zérèngǎn	N	sense of responsibility
+B6L04-II-20	隨後	suíhòu	Adv	subsequently
+B6L04-II-21	拜託	bàituō	V	please, I beg you
+B6L04-II-22	別有居心	biéyǒu jūxīn	Id	to have ulterior motives, have a less than respectable agenda
+B6L04-II-23	適得其反	shìdé qífǎn	Id	to have unintended results, backfire, be counterproductive
+B6L04-II-24	小看	xiǎokàn	Vst	to belittle, to look down on, to underestimate
+B6L04-II-25	威力	wēilì	N	power, force
+B6L04-II-26	予	yǔ	V	to give, to bestow with (classical Chinese)
+B6L04-II-27	深刻	shēnkè	Vs	deep, profound
+B6L04-II-28	互動	hùdòng	Vi	to interact
+B6L04-II-29	定下	dìngxià	V	to commit to, to establish
+B6L04-II-30	贏得	yíngdé	Vpt	to win over
+B6L04-II-31	藉著	jièzhe	Prep	be means of, relying on
+B6L04-II-32	驅動力	qūdònglì	N	driving force
+B6L04-II-T-01	威廉詹姆士	Wēilián Zhānmǔshì		"William James (an American philosopher and psychologist, and one of the leading thinkers of the late nineteenth century, while others have labeled him the ""Father of American psychology,"" 1842-1910)"
+B6L05-I-0-01	開闊	kāikuò	Vs	wide, expansive
+B6L05-I-0-02	轉動	zhuǎndòng	Vi	to revolve
+B6L05-I-01	共通	gòngtōng	Vs-attr	common, universal
+B6L05-I-02	水果攤	shuǐguǒtān	N	fruit stand
+B6L05-I-03	瓜香果豔	guāxiāng guǒyàn	Ph	filled with the fragrances and beauty of various types of fruit
+B6L05-I-04	常客	chángkè	N	regular customer
+B6L05-I-05	秤	chèng	V	to weigh
+B6L05-I-06	手擺腳動	shǒubǎi jiǎodòng	Ph	to gesticulate, talk with your hands (and feet)
+B6L05-I-07	身陷	shēnxiàn	Vst	to find oneself in (a bad situation)
+B6L05-I-08	迷宮	mígōng	N	maze
+B6L05-I-09	文法	wénfǎ	N	grammar
+B6L05-I-10	濃重	nóngzhòng	Vs	heavy, thick (e.g., accent, nasal sound)
+B6L05-I-11	回覆	huífù	V	to answer, to respond
+B6L05-I-12	焦急	jiāojí	Vs	anxious
+B6L05-I-13	催熟	cuīshóu	V	to accelerate the ripening, to ripen
+B6L05-I-14	急忙	jímáng	Adv	hurriedly, in a hurry
+B6L05-I-16	口譯	kǒuyì	N/V	(oral) interpretation; to interpret
+B6L05-I-17	達成	dáchéng	Vpt	to realize, to reach
+B6L05-I-18	道謝	dàoxiè	V-sep	to say thanks to, to express appreciation to
+B6L05-I-19	面前	miànqián	N	in front of, before
+B6L05-I-20	紊亂	wènluàn	Vs	in a mess, in chaos, all mixed up
+B6L05-I-22	人家	rénjiā	N	other people
+B6L05-I-23	校長	xiàozhǎng	N	principal (primary, secondary school), president (university)
+B6L05-I-24	旅途	lǚtú	N	trip, travels
+B6L05-I-25	勞累	láolèi	Vs	tired, tiring
+B6L05-I-26	傲慢	àomàn	Vs	arrogant
+B6L05-I-27	皺眉	zhòuméi	V-sep	to wrinkle one's eyebrows, to frown
+B6L05-I-28	標識	biāozhì	N	mark, logo, marking, sign
+B6L05-I-29	國際觀	guójìguān	N	global perspective
+B6L05-I-30	接軌	jiēguǐ	Vi	to integrate with (another entity), to get in step with, (lit. connect rails)
+B6L05-I-31	身在	shēnzài	Vst	(of a person) located, to be (somewhere)
+B6L05-I-T-01	柏林	Bólín		Berlin
+B6L05-I-T-02	土耳其	Tǔěrqí		Turkey
+B6L05-II-01	眼見	yǎnjiàn	V	seeing that, to observe
+B6L05-II-02	心急	xīnjí	Vs	anxious, agitated
+B6L05-II-03	浪潮	làngcháo	N	wave, trend
+B6L05-II-04	抛	pāo	V	to toss, to throw, cast aside
+B6L05-II-05	淘汰	táotài	Vpt	to eliminate (through competition), weed out
+B6L05-II-06	督促	dūcù	V	supervise and urge, to urge
+B6L05-II-07	背	bèi	V	to memorize
+B6L05-II-08	單字	dānzì	N	vocabulary, word
+B6L05-II-09	倍增	bèizēng	Vp	to increase or improve exponentially
+B6L05-II-10	限於	xiànyú	Vst	limited to
+B6L05-II-11	遼闊	liáokuò	Vs	expansive, vast
+B6L05-II-12	之外	zhīwài	N	other than, in addition to
+B6L05-II-13	境地	jìngdì	N	circumstances, situation, condition
+B6L05-II-14	孤立	gūlì	Vs	isolated
+B6L05-II-15	賽事	sàishì	N	competition, match, race, games
+B6L05-II-16	島嶼	dǎoyǔ	N	island
+B6L05-II-17	四處	sìchù	Adv	everywhere
+B6L05-II-18	拼音	pīnyīn	N	romanization, spelling
+B6L05-II-19	錯誤百出	cuòwù bǎichū	Ph	riddled with mistakes
+B6L05-II-20	精良	jīngliáng	Vs	superior
+B6L05-II-21	前來	qiánlái	Adv	to come over
+B6L05-II-22	版本	bǎnběn	N	version
+B6L05-II-23	源源不絕	yuányuán bùjué	Ph	in uninterrupted flow, in continuous stream
+B6L05-II-24	訪客	fǎngkè	N	visitor
+B6L05-II-25	人文	rénwén	N	cultural, (below) the humanities
+B6L05-II-26	景觀	jǐngguān	N	view, landscape, background
+B6L05-II-27	底蘊	dǐyùn	N	foundation, background
+B6L05-II-28	深厚	shēnhòu	Vs	deep, solid
+B6L05-II-29	步調	bùdiào	N	pace
+B6L05-II-30	家傳	jiāchuán	Vs-attr	traditional, local
+B6L05-II-31	勤讀	qíndú	V	to diligently study
+B6L05-II-32	書籍	shūjí	N	books, reading material
+B6L05-II-33	知曉	zhīxiǎo	Vst	familiar with, proficient in
+B6L05-II-34	勤奮	qínfèn	Adv	diligently and conscientiously
+B6L05-II-35	駕馭	jiàyù	V	to master
+B6L05-II-36	重點	zhòngdiǎn	N	main point, key point
+B6L05-II-37	磨損	mósǔn	Vp	to wear away
+B6L05-II-38	攪碎	jiǎosuì	V	to grind, to shred
+B6L05-II-39	翻	fān	V	to flip through, to turn (the pages of), crack a book
+B6L05-II-40	字典	zìdiǎn	N	dictionary
+B6L05-II-41	腦子	nǎozi	N	brain
+B6L05-II-42	區塊	qūkuài	N	area, block
+B6L05-II-43	自大	zìdà	Vs	arrogant, conceited, a swelled-head
+B6L05-II-44	獨白	dúbái	N	monologue, soliloquy
+B6L05-II-45	上演	shàngyǎn	V	to perform, to put on (a performance)
+B6L05-II-46	戲碼	xìmǎ	N	play, drama
+B6L05-II-T-01	傑克	Jiékè		The Czech Republic
+B6L06-I-0-01	貓熊	māoxióng	N	panda
+B6L06-I-0-02	人見人愛	rénjiàn rén'ài		d; everbody loves, loved by all
+B6L06-I-0-03	征服	zhēngfú	V	to conquer, to subdue, to vanquish
+B6L06-I-0-04	促進	cùjìn	Vpt	to promote
+B6L06-I-0-05	友好	yǒuhǎo	Vs	friendly, amicable, cordial
+B6L06-I-0-06	使者	shǐzhě	N	envoy, emissary
+B6L06-I-0-07	沾染	zhānrǎn	Vpt	soiled with, tainted with, stained with
+B6L06-I-0-08	色彩	sècǎi	N	colors, hues, flavor, character, slant
+B6L06-I-0-09	抵制	dǐzhì	V	to boycott
+B6L06-I-0-10	繁殖	fánzhí	Vi	to breed, to reproduce, reproduction
+B6L06-I-0-11	名義	míngyì	N	in the capacity of
+B6L06-I-0-12	租借	zūjiè	V	to lease
+B6L06-I-01	出訪	chūfǎng	V	to pay an official visit to a friendly foreign country
+B6L06-I-02	風雲女性	fēngyún nǚxìng	Ph	"influential/important women, used in the phrase ""Woman of the Year"""
+B6L06-I-03	全程	quánchéng	Adv	over the entire duration of
+B6L06-I-04	直播	zhíbò	V	to live broadcast
+B6L06-I-05	產下	chǎnxià	Vpt	to give birth to
+B6L06-I-06	雙胞胎	shuāngbāotái	N	twins
+B6L06-I-07	睜眼	zhēngyǎn	V-sep	to open one's eyes
+B6L06-I-08	登上	dēngshàng	Vpt	to ascend to (prominence)
+B6L06-I-09	頭條	tóutiáo	N	headline
+B6L06-I-10	數位化	shùwèihuà	Vp	digital, to digitize
+B6L06-I-11	追溯	zhuīsù	V	to trace back to
+B6L06-I-12	至	zhì	Prep	to, up to
+B6L06-I-13	何時何地	héshí hédì	Ph	anytime, anywhere
+B6L06-I-14	女皇	nǚhuáng	N	empress, queen
+B6L06-I-15	贈送	zèngsòng	V	to give (as a gift)
+B6L06-I-16	記載	jìzài	V/N	to record, to put down in writing, records
+B6L06-I-17	夫人	fúrén	N	wife of a prominent figure, lady, madame
+B6L06-I-18	表	biǎo	V	to show (gratitude, etc.)
+B6L06-I-19	救濟	jiùjì	V	to provide relief to, relief
+B6L06-I-20	謝意	xièyì	N	gratitude, thankfulness, appreciation
+B6L06-I-21	自此	zìcǐ	Adv	from then on, thereupon
+B6L06-I-22	政權	zhèngquán	N	political power, regime
+B6L06-I-23	欲	yù	Vaux	to want to, to wish to, to desire to
+B6L06-I-24	藉此	jiècǐ	Ph	(literary) thereby
+B6L06-I-25	雙邊	shuāngbiān	Vs-attr	bilateral, both parties
+B6L06-I-26	稀有	xīyǒu	Vs	rare
+B6L06-I-27	飼養場	sìyǎngchǎng	N	livestock or poultry farm
+B6L06-I-28	分別	fēnbié	Adv	respectively
+B6L06-I-29	貨幣	huòbì	N	currency, money
+B6L06-I-30	設	shè	V	to establish, to set up
+B6L06-I-31	互	hù	Adv	(with) each other, mutual (literary)
+B6L06-I-32	訪問	fǎngwèn	V	to visit, interview; visit, interview
+B6L06-I-33	領取	lǐngqǔ	V	to collect, to receive
+B6L06-I-34	否決	fǒujué	V	to veto
+B6L06-I-35	因而	yīn'ér	Conj	therefore, as a result
+B6L06-I-36	作罷	zuòbà	Vi	to call it quits
+B6L06-I-T-01	甜甜	Tiántián		Tian Tian
+B6L06-I-T-02	BBC	BBC		British Broadcasting Corporation
+B6L06-I-T-03	美香	Měixiāng		Mei Xiang
+B6L06-I-T-04	圓仔	Yuánxǎi		Yuan Zai
+B6L06-I-T-05	唐朝/代	Tángcháo/dài		Tang Dynasty (618-907)
+B6L06-I-T-06	武則天	Wǔzétiān		Wu Zetian (the only female monarch of China, 624-705)
+B6L06-I-T-07	天武天皇	Tiānwǔ tiānhuáng		Emperor Temmu (the 40th Emperor of Japan, 631-686)
+B6L06-I-T-08	宋美齡	Sòng Měilíng		Soong May-ling (Madame Chiang Kai-shek, 1897-2003)
+B6L06-I-T-09	中共	Zhōnggòng		Communist Party of China (CPC)
+B6L06-I-T-10	蘇聯	Sūlián		the Soviet Union
+B6L06-I-T-11	北韓	Běihán		North Korea
+B6L06-I-T-12	邁阿密	Mài'āmì		Miami
+B6L06-I-T-13	芝加哥	Zhījiāgē		Chicago
+B6L06-I-T-14	國務院	Guówùyuàn		State Department (US)
+B6L06-II-01	出租	chūzū	V	to rent, for lease; rental, leasing
+B6L06-II-02	吸金	xījīn	Vi	to bring in (revenue)
+B6L06-II-03	赴	fù	V	to go to (literary)
+B6L06-II-04	贈與	zèngyǔ	V	to give to
+B6L06-II-05	抵達	dǐdá	Vpt	to arrive at
+B6L06-II-06	冒雨	màoyǔ	Adv	despite the rain
+B6L06-II-07	迎接	yíngjiē	V	to welcome
+B6L06-II-08	首次	shǒucì	Adv	for the first time
+B6L06-II-09	見客	jiànkè	V-sep	to meet with guests
+B6L06-II-10	達	dá	Vpt	to reach, up to
+B6L06-II-11	人次	réncì	N	head count
+B6L06-II-12	當局	dāngjú	N	the authorities
+B6L06-II-13	宣告	xuāngào	V	to announce, to declare
+B6L06-II-14	期間	qíjiān	N	over the course of, whilst
+B6L06-II-15	為期	wéiqí	Vst	lasting a period of, lasting, for a period of
+B6L06-II-16	巡展	xúnzhǎn	N	exhibition tour
+B6L06-II-17	租金	zūjīn	N	rental money, leasing fees, rent
+B6L06-II-18	有利可圖	yǒulìkětú	Id	profitable, promise to be profitable
+B6L06-II-19	波	bō	M	a wave of
+B6L06-II-20	拉鋸	lājù	N	a see-saw (battle), a close contest
+B6L06-II-21	可觀	kěguān	Vs	considerable (amount of), substantial
+B6L06-II-22	收益	shōuyì	N	earnings, revenue, income
+B6L06-II-23	林業	línyè	N	forestry, forest industry
+B6L06-II-24	捕捉	bǔzhuō	V	to catch, to capture
+B6L06-II-25	野生	yěshēng	Vs-attr	wild, feral
+B6L06-II-26	呼籲	hūyù	Vi	to call on
+B6L06-II-27	保育	bǎoyù	Vi	to conserve, conservation
+B6L06-II-28	設立	shèlì	V	to set up, to establish
+B6L06-II-29	進展	jìnzhǎn	N/Vi	progress, to progress
+B6L06-II-31	野外	yěwài	N	wilderness
+B6L06-II-32	近年	jìnnián	N	in recent years
+B6L06-II-33	圈養	juànyǎng	Vs-attr	raised in pens
+B6L06-II-34	野放	yěfàng	V	to release into the wild
+B6L06-II-35	就算	jiùsuàn	Conj	even if
+B6L06-II-T-01	尼克森	Níkèsēn		Richard Nixon (the 37th President of the USA, 1913-1994)
+B6L06-II-T-02	北京	Běijīng		Beijing
+B6L06-II-T-03	周恩來	Zhōu Ēnlái		Zhou Enlai (1st to 4th prime minster of the People's Republic of China, 1898-1976)
+B6L06-II-T-06	華盛頓	Huáshèngdùn		Washington (the capital of the USA)
+B6L06-II-T-07	港澳	Gǎng'ào		Hong Kong and Macao (Macau)
+B6L06-II-T-08	洛杉磯	Luòshānjī		Los Angeles
+B6L06-II-T-09	奧運會	Àoyùnhuì		Olympic Games
+B6L06-II-T-10	永永	Yǒngyǒng		Yong Yong (貓熊名)
+B6L06-II-T-11	迎新	Yíngxīn		Ying Xin (貓熊名)
+B6L06-II-T-12	舊金山	Jiùjīnshān		San Francisco
+B6L06-II-T-13	美國聯邦漁業和野生動物管理局	Měiguó liánbāng yúyè hàn yéshāng dòngwù guǎnlǐ jú		FWS: United States Fish and Wildlife Service
+B6L06-II-T-14	四川臥龍自然保護區	Sìchuān Wòlóng zìrán bǎohù qū		Sichuan Wolong National Nature Reserves
+B6L07-I-0-01	自我	zìwǒ	N	ego-centricity
+B6L07-I-0-02	膨脹	péngzhàng	Vs	to puff up, to swell up, self-complacent
+B6L07-I-0-03	面貌	miànmào	N	face, real nature of things
+B6L07-I-0-04	醒悟	xǐngwù	Vp	to come to one's senses, to wake up (to reality), awakening
+B6L07-I-0-05	體會	tǐhuì	Vst	to know from experience, to truly understand
+B6L07-I-0-06	苦澀	kǔsè	Vs/N	bitter; bitterness
+B6L07-I-01	情敵	qíngdí	N	rival in love
+B6L07-I-02	我行我素	wǒxíng wǒsù	Id	do things your own way
+B6L07-I-03	未婚	wèihūn	Vs	unmarried, single
+B6L07-I-04	立志	lìzhì	Vi	to determine to become, to resolve to become, to aspire to be
+B6L07-I-05	志向	zhìxiàng	N	aspiration, ambition
+B6L07-I-06	減肥	jiǎnféi	Vi	to lose weight, weight-loss, on a diet
+B6L07-I-07	撐	chēng	Vi	push yourself, last
+B6L07-I-08	定下來	dìngxiàlái	Ph	to settle down
+B6L07-I-09	殘酷	cánkù	Vs	cruel, brutal
+B6L07-I-10	當下	dāngxià	N	at a time when
+B6L07-I-11	重來	chónglái	Vi	to redo, to relive, to start over
+B6L07-I-12	鬼東西	guǐdōngxi	Ph	darn thing
+B6L07-I-13	俊男美女	jùnán měinǚ	Ph	good-looking man and/or woman
+B6L07-I-14	歡喜	huānxǐ	N	happiness, joy
+B6L07-I-15	悲傷	bēishāng	N	sadness, sorrow
+B6L07-I-16	激發出來	jīfā chūlái	Ph	inspired by, stirred up by, aroused by
+B6L07-I-17	發福	fāfú	Vp	to put on weight
+B6L07-I-18	想幹嘛就幹嘛	xiǎng gànma jiù gànma	Ph	to do what you want, to be self-indulgent
+B6L07-I-19	幹	gàn	Vi	to do, to engage in, to undertake
+B6L07-I-20	無趣	wúqù	Vs	boring, dull, vapid
+B6L07-I-21	斟酌	zhēnzhuó	V	to consider, to think about
+B6L07-I-22	何時	héshí	N	when, whenever
+B6L07-I-23	閃人	shǎnrén	Vi	to leave, to escape, to get out of the way
+B6L07-I-24	尷尬	gāngà	Vs	awkward
+B6L07-I-25	忠於	zhōngyú	Vst	to be faithful to
+B6L07-I-26	萎縮	wěisuō	Vs	to shrink
+B6L07-I-27	當頭棒喝	dāngtóu bànghè	Id	give a sharp warning, give a wake up call, wake you up
+B6L07-I-28	自以為是	zìyǐ wéishì	Id	be full of yourself, opinionated, self-righteous
+B6L07-I-29	幹嘛	gànma	Adv	Whatever for?
+B6L07-I-30	破綻	pòzhàn	N	flaw, hoe (in logic, etc.), fault
+B6L07-I-31	德性	déxìng	N	your true (negative) self, look at yourself!
+B6L07-I-32	勇敢	yǒnggǎng	Vs	courageous
+B6L07-I-33	私生子	sīshēngzǐ	N	illegitimate child, child born out of wedlock, love child
+B6L07-I-34	縱使	zòngshǐ	Conj	even though, even if
+B6L07-I-35	自詡	zìxǔ	Vi	to brag that you are
+B6L07-I-36	開明	kāimíng	Vs	enlightened
+B6L07-I-37	知識份子	zhīshì fènzǐ	Ph	intellectual, learned person
+B6L07-I-38	留洋	liúyáng	V-sep	to study abroad
+B6L07-I-39	老夫子	lǎofūzǐ	N	conservative scholar, i.e., somebody who is stuck in the past intellectually and unwilling to let new things change him/her
+B6L07-I-40	提早	tízǎo	Adv	early, ahead of time
+B6L07-I-41	溫和	wēnhé	Vs	gentle, good-natured, mild-mannered
+B6L07-I-42	幹架	gànjià	V-sep	to fight with, to quarrel with
+B6L07-I-43	逼出	bīchū	V	to force out, to realize
+B6L07-I-44	苦	kǔ	Vs	bitter
+B6L07-I-45	邪惡	xié'è	Vs	evil, bad
+B6L07-I-46	發揮	fāhuī	V	instigate, to implement, to promote
+B6L07-I-47	極致	jízhì	N	to the utmost
+B6L07-II-01	晚婚	wǎnhūn	N	late marriage
+B6L07-II-02	直到	zhídào	Prep	until, up to, to date
+B6L07-II-03	心儀	xīnyí	Vst	to be attracted
+B6L07-II-04	表白	biǎobái	Vi	to confess (one's love)
+B6L07-II-05	使命	shǐmìng	N	mission
+B6L07-II-06	動力	dònglì	N	motivation, impetus
+B6L07-II-07	軟弱	ruǎnruò	Vs	weak, soft, (here) passive
+B6L07-II-08	共度一生	gòngdù yìshēng	Ph	to share entire life together
+B6L07-II-09	頂多	dǐngduō	Adv	at most
+B6L07-II-10	半生	bànshēng	N	half one's life
+B6L07-II-11	加碼	jiāmǎ	Vi	to add to the weight of arguments (by listing...)
+B6L07-II-12	之間	zhījiān	N	in between, among
+B6L07-II-13	模式	móshì	N	way, mode
+B6L07-II-14	大腦	dànǎo	N	brain, cerebrum
+B6L07-II-15	一片空白	yípiàn kòngbái	Ph	a blank, draw a blank (mentally)
+B6L07-II-16	點點滴滴	diǎndiǎn dīdī	Ph	minute details
+B6L07-II-17	細膩	xìnì	Vs	meticulous, sensitive to detail
+B6L07-II-18	細節	xìjié	N	details
+B6L07-II-19	神經大條	shénjīng dàtiáo	Ph	(Tw Mandarin) thick-skinned, insensitive
+B6L07-II-20	察言觀色	cháyán guānsè	Id	to be attentive to contexts
+B6L07-II-21	說理	shuōlǐ	Vi	to reason, to rationalize things
+B6L07-II-22	理性	lǐxìng	Vs	rational, logical
+B6L07-II-23	不由自主	bùyóu zìzhǔ	Id	cannot help but (do s/t), involuntary
+B6L07-II-24	慣性	guànxìng	N	routine
+B6L07-II-25	長篇大論	chángpiān dàlùn	Id	long-winded speech, lengthy lecture
+B6L07-II-26	同理心	tónglǐxīn	N	empathy
+B6L07-II-27	即	jí	Adv	soon, immediately
+B6L07-II-28	漫不經心	mànbù jīngxīn	Id	"inattentive, ""not all there"""
+B6L07-II-29	忘記	wàngjì	Vpt	to forget
+B6L07-II-30	不守信用	bùshǒu xìnyòng	Ph	break your word, untrustworthy, go back on your word
+B6L07-II-31	說話不算話	shuōhuà búsuànhuà	Ph	to not keep your word, your word means nothing
+B6L07-II-32	不幸	búxìng	Adv	unfortunately
+B6L07-II-33	拐彎抹角	guǎiwān mòjiǎo	Id	to beat around the bush, equivocate, evade, not be direct
+B6L07-II-34	語病	yǔbìng	N	faulty wording, bad choice of words
+B6L07-II-35	字面	zìmiàn	N	literal meaning, surface
+B6L07-II-36	爭辯不休	zhēngbiàn bùxiū	Ph	to quarrel incessantly
+B6L07-II-37	背後	bèihòu	N	behind
+B6L07-II-38	微妙	wéimiào	Vs	tricky, delicate (situations, etc.)
+B6L07-II-39	親身	qīnshēn	Adv	presonally, first-hand
+B6L07-II-40	共同點	gòngtóngdiǎn	N	common point, something in common, common ground
+B6L08-I-0-01	黑洞	hēidòng	N	black hole
+B6L08-I-0-02	榮耀	róngyào	N	honor, glory
+B6L08-I-0-03	國力	guólì	N	national power, national strength
+B6L08-I-0-04	債務	zhàiwù	N	debt
+B6L08-I-0-05	謹慎為之	jǐnshèn wéizhī	Ph	be prudent, careful
+B6L08-I-01	主辦	zhǔbàn	V	to host
+B6L08-I-02	強心針	qiángxīnzhēn	N	"strongest encouragement, ""a shot in the arm"""
+B6L08-I-03	國債	guózhài	N	national debt
+B6L08-I-04	歷經	lìjīng	V	to experience, to go through, to have been through
+B6L08-I-05	輪	lún	M	a round of
+B6L08-I-06	脫穎而出	tuōyǐng érchū	Id	stand out form (the rest)
+B6L08-I-07	申奧（申請奧運）	shēn'Ào (shēnqǐng Àoyùn)	Ph	to apply to host the Olympics
+B6L08-I-08	宣傳	xuānchuán	N	promotion
+B6L08-I-09	盛大	shèngdà	Vs	spectacular, grand
+B6L08-I-10	項目	xiàngmù	N	items, events (of completion)
+B6L08-I-11	盛會	shènghuì	N	grand event, huge gathering
+B6L08-I-12	無不	wúbù	Adv	invariably, without exception, (lit.) not one (he) doesn't
+B6L08-I-13	贊助	zànzhù	V/N	to sponsor; sponsorship, financial support
+B6L08-I-14	宣稱	xuānchēng	V	to claim, to assert
+B6L08-I-15	龐大	pángdà	Vs	huge
+B6L08-I-16	蓬勃	péngbó	Adv/Vs	vigorously
+B6L08-I-17	絢麗	xuànlì	Vs	gorgeous, dazzling, magnificent
+B6L08-I-18	綻放	zhànfàng	Vp	to get into magnificent display
+B6L08-I-19	歸於	guīyú	Vst	to end up in
+B6L08-I-20	前車之鑒	qiánchē zhījiàn	Id	mistakes made by thoses who came before, lessons from history, instructive precedents
+B6L08-I-21	財務	cáiwù	N	financial status
+B6L08-I-22	興建	xīngjiàn	V	to build, to construct
+B6L08-I-23	運動場館	yùndòng chǎngguǎn	Ph	stadium, venue for sports
+B6L08-I-24	周遭	zhōuzāo	N	surrounding, periphery
+B6L08-I-25	更新	gēngxīn	V	to update, renew
+B6L08-I-26	舉債	jǔzhài	Vi	to incur debt
+B6L08-I-27	籌措	chóucuò	V	to raise (funds)
+B6L08-I-28	還清	huánqīng	V	pay off (a debt)
+B6L08-I-29	施工	shīgōng	N	construction
+B6L08-I-30	塔柱	tǎzhù	N	pylon, pillar
+B6L08-I-31	花費	huāfèi	V/N	expenditures
+B6L08-I-32	預估	yùgū	Vi	to estimate
+B6L08-I-33	一路	yílù	Adv	all the way
+B6L08-I-34	人士	rénshì	N	people
+B6L08-I-35	足足	zúzú	Adv	fully
+B6L08-I-36	參與	cānyù	V	to participate in, to attend
+B6L08-I-37	有餘	yǒuyú	N	in excess of
+B6L08-I-38	超支	chāozhī	N	over-expenditure
+B6L08-I-39	專屬	zhuānshǔ	N	exclusive characteristics
+B6L08-I-40	必	bì	Adv	to be bound to, to be guaranteed to
+B6L08-I-41	巨額	jù'é	N	huge amount, a large sum
+B6L08-I-42	足以	zúyǐ	Adv	enough to be sufficient to
+B6L08-I-43	回本	huíběn	V-sep	to recover one's initial costs
+B6L08-I-44	最終	zuìzhōng	Adv	in the end, eventually
+B6L08-I-45	買單	mǎidān	V-sep	to pay a bill, to foot the bill
+B6L08-I-T-01	雅典	Yǎdiǎn		Athens
+B6L08-I-T-02	奧林匹克運動會	Àolínpīkè yùndònghuì		Olympics Games
+B6L08-I-T-03	世界盃足球賽	Shìjièbēi zúqiúsài		FIFA World Cup
+B6L08-I-T-04	蒙特婁	Méngtèlóu		Montreal, Canada
+B6L08-I-T-05	美金	Měijīn		US dollars
+B6L08-I-T-06	英鎊	Yīngbàng		British pounds
+B6L08-II-01	虧錢	kuīqián	V-sep	to lose money
+B6L08-II-02	虧本	kuīběn	V-sep	to lose money, at a loss
+B6L08-II-03	收場	shōuchǎng	Vp	to end up with, fix the situation, (below) what are you going to do now?
+B6L08-II-04	冷戰	lěngzhàn	N	cold war
+B6L08-II-05	氛圍	fēnwéi	N	atmosphere, ambiance
+B6L08-II-06	突然之間	túrán zhījiān	Id	suddenly (之間, N, among, between)
+B6L08-II-07	燙手山芋	tàngshǒu shānyù	Ph	a hot potato, something nobody wants
+B6L08-II-08	唯二	wéièr	Vs-attr	only two
+B6L08-II-09	決選出	juéxuǎnchū	Ph	to have finalized on the selection of
+B6L08-II-10	意味	yìwèi	V	to mean
+B6L08-II-11	接下	jiēxià	V	to agree to
+B6L08-II-12	為人稱道	wéirén chēngdào	Ph	to be praise-worthy
+B6L08-II-13	經由	jīngyóu	Prep	through, via, by way of
+B6L08-II-14	招商	zhāoshāng	Vi	to attract investment
+B6L08-II-15	盈餘	yíngyú	N	profit, earnings
+B6L08-II-16	開幕	kāimù	Vi	opening (ceremony)
+B6L08-II-17	閉幕	bìmù	Vi	closing (ceremony)
+B6L08-II-18	典禮	diǎnlǐ	N	ceremony
+B6L08-II-19	損益平衡	sǔnyì pínghéng	Ph	break even, lit. losses and profits balance out
+B6L08-II-20	支撐	zhīchēng	V	to support
+B6L08-II-21	後續	hòuxù	Vs-attr	follow-up
+B6L08-II-22	總共	zǒnggòng	N	crowds
+B6L08-II-23	基數	jīshù	N	base number
+B6L08-II-24	再者	zàizhě	Conj	in addition, furthermore
+B6L08-II-25	人潮	réncháo	N	crowds
+B6L08-II-26	短期	duǎnqí	N	short term
+B6L08-II-27	蚊子館	wénziguǎn	Ph	white elephant, i.e., government projects on which huge amounts of money are spent, but after they are completed or used for a certain purpose, they are not use again. They are populated only by mosquitoes
+B6L08-II-28	劑	jì	M	dose, measure for medicinal dosage
+B6L08-II-29	陷入	xiànrù	Vst	to be caught in, to fall into
+B6L08-II-30	景象	jǐngxiàng	N	sight, scene
+B6L08-II-31	四年一度	sìnián yídù	Ph	once very four years
+B6L08-II-32	有/無福/消受	yǒu/wúfú/xiāoshòu	Id	be fortunate enough to enjoy, not have the fortune of enjoying
+B6L08-II-33	巨象	jùxiàng	N	elephant
+B6L08-II-34	狠狠	hěnhěn	Adv	severely, viciously
+B6L08-II-T-01	奧會 = 奧林匹克委員會	Àohuì (Àolínpīkè wěiyuánhuì)		Olympic Committee
+B6L09-I-0-01	相關何處	xiāngguān héchù	Ph	Where is home? (lit.) Where is the road to my hometown?
+B6L09-I-0-02	開啓	kāiqǐ	V	to open up, to unlock
+B6L09-I-0-03	浪遊	làngyóu	Vi	to be wandering, roaming
+B6L09-I-0-04	泰半	tàibàn	Det	most, the majority of (泰 = 大)
+B6L09-I-0-05	遷移	qiānyí	N	migrating
+B6L09-I-0-06	變換	biànhuàn	N	changes
+B6L09-I-0-07	安身	ānshēn	Vi	to call home, to settle down
+B6L09-I-0-08	念頭	niàntou(tóu)	N	idea, desire
+B6L09-I-0-09	前提	qiántí	N	condition, precondition, prerequisite
+B6L09-I-01	遠行	yuǎnxíng	Vi	to take a long trip, go on a long journey
+B6L09-I-02	山洞	shāndòng	N	(mountain) cave
+B6L09-I-03	姑媽	gūmā	N	aunt (on one's father's side)
+B6L09-I-04	自助餐	zìzhùcān	N	cafeteria style restaurant
+B6L09-I-05	寄宿生	jìsùshēng	N	student who lives on campus, student who lives in a campus dormitory
+B6L09-I-06	爛漫	lànmàn	Vs	brilliant, colorful
+B6L09-I-07	年歲	niánsuì	N	the years, age
+B6L09-I-08	鄉愁	xiāngchóu	N	homesickness
+B6L09-I-09	他鄉	tāxiāng	N	a strange land, a place far from home
+B6L09-I-10	異地	yìdì	N	a place other than one's own hometown
+B6L09-I-11	腳步	jiǎobù	N	footstep, pace, approaching
+B6L09-I-12	算計	suànjì	Vi	to calculate, to count
+B6L09-I-13	漂泊	piāobó	Vi	to drift aimlessly
+B6L09-I-14	不時	bùshí	Adv	often
+B6L09-I-15	居留	jūliú	Vi	to reside
+B6L09-I-16	來日	láirì	N	days ahead, time ahead
+B6L09-I-17	認定	rèndìng	V	to be committed to
+B6L09-I-18	形態	xíngtài	N	way of, status quo
+B6L09-I-19	彷彿	fǎngfú	Vst	to seem, as if
+B6L09-I-20	旅程	lǚchéng	N	trip, journey
+B6L09-I-22	邁進	màijìn	Vi	to take a step forward
+B6L09-I-23	不巧	bùqiǎo	Vs	by unfortunate coincidence, unfortunately
+B6L09-I-24	派駐	pàizhù	V	to be stationed at, to be assigned to
+B6L09-I-25	流轉	liúzhuǎn	Vi	to flow (time, etc...), to go back and forth between, to shuttle between
+B6L09-I-26	之類	zhīlèi	N	and the like, and what not
+B6L09-I-27	度假	dùjià	V-sep	to vacation, spend one's holiday
+B6L09-I-28	居所	jūsuǒ	N	living place, residence
+B6L09-I-29	恆常不變	héngcháng búbiàn	Id	unchanging, permanent
+B6L09-I-30	地址	dìzhǐ	N	address
+B6L09-I-31	養老	yǎnglǎo	Vi	to care for in one's old age, to live out one's retirement or old age
+B6L09-I-32	愕然	è'rán	Vs	stunned, astounded, taken aback
+B6L09-I-33	驚醒	jīngxǐng	Vp	to frighten awake, to jolt awake, to wake with a start
+B6L09-I-34	已然	yǐrán	Adv	actually
+B6L09-I-35	失根	shīgēn	Vp-sep	to lose one's roots
+B6L09-I-36	理所當然	lǐsuǒ dāngrán	Id	take as a matter of course, take for granted, naturally think of as
+B6L09-I-37	依舊	yījiù	Adv	still the same, as ever, as before
+B6L09-I-38	碧綠	yīlǜ	Vs	dark green, verdant
+B6L09-I-39	寧靜	níngjìng	Vs	peaceful, serence
+B6L09-I-40	住所	zhùsuǒ	N	residence
+B6L09-I-41	落地窗	luòdìchuāng	N	French window
+B6L09-I-42	望見	wàngjiàn	V	to see
+B6L09-I-43	星空	xīngkōng	N	starry sky
+B6L09-I-44	後院	hòuyuàn	N	backyard
+B6L09-I-45	樹	shù	N	tree
+B6L09-I-46	松鼠	sōngshǔ	N	squirrel
+B6L09-I-47	麻雀	máquè	N	sparrow
+B6L09-I-48	嬉戲	xīxì	Vi	to play (like children)
+B6L09-I-49	具體	jùtǐ	Vs	concrete, in actual fact
+B6L09-I-T-01	基隆	Jīlóng		Keelung (the city of northern Taiwan)
+B6L09-I-T-02	亞力山大	Yǎlìshāndà		Alexander (name of a man)
+B6L09-II-01	地道	dìdào	Vs	authentic, genuine
+B6L09-II-02	華裔	Huáyì	N	foreign citizens of Chinese ancestry
+B6L09-II-03	混血	hùnxiě	Vs-attr	mixed blood, mixed race
+B6L09-II-04	係	xì	Vst	to be
+B6L09-II-05	諸多	zhūduō	Vs-attr	many, numerous
+B6L09-II-06	國度	guódù	N	nation
+B6L09-II-07	身世	shēnshì	N	one's origins, personal background
+B6L09-II-08	多重	duōchóng	Vs-attr	multiple
+B6L09-II-09	追究	zhuījiù	V	to investigate, to track
+B6L09-II-10	純粹	chúncuì	Vs/Adv	pure
+B6L09-II-11	公民	gōngmín	N	citizen, (below) referendum (lit. vote by the citizens)
+B6L09-II-12	屬意	shǔ(zhǔ)yì	Vs-attr	to have one's heart set on, to be partial to
+B6L09-II-13	景致	jǐngzhì	N	view, landscape, scenery
+B6L09-II-14	門牌	ménpái	N	doorplate (house number)
+B6L09-II-15	心愛	xīnài	Vs-attr	beloved, treasured
+B6L09-II-16	家當	jiādàng	N	property, family possessions
+B6L09-II-17	家用	jiāyòng	N	household things, household
+B6L09-II-18	安防	ānfàng	V	to place
+B6L09-II-19	平日	píngrì	N	everyday, from day to day
+B6L09-II-20	收集	shōují	V	to collect, to gather
+B6L09-II-21	畫作	huàzuò	N	painting
+B6L09-II-22	窗台	chuāngtái	N	windowsill
+B6L09-II-23	盆景	pénjǐng	N	potted plant, bonsai
+B6L09-II-24	不離不棄	bùlí búqì	Id	ever-present, beloved
+B6L09-II-25	茶壺	cháhú	N	teapot
+B6L09-II-26	熱騰騰	rètēngtēng	Ph	piping hot, steaming hot
+B6L09-II-27	菊花	júhuā	N	chrysanthemum
+B6L09-II-28	普洱	pǔ'ěr	N	pu'er (fermented tea from Yunnan, China)
+B6L09-II-29	呷	xiá	V	to drink (literary)
+B6L09-II-30	安家	ānjiā	Vi	to set up one's home, to settle down, to settle in
+B6L09-II-31	比如	bǐrú	Vst	for example, for instance, like
+B6L09-II-32	氣候宜人	qìhòu yírén	Ph	pleasant climate
+B6L09-II-33	城鎮	chéngzhèn	N	town
+B6L09-II-34	所在	suǒzài	N	location, where (something is at), (below) where you find
+B6L09-II-35	體貼	tǐtiē	Vs	considerate, thoughtful, loving
+B6L09-II-36	破敗	pòbài	Vs	torn, ruined, dilapidated
+B6L09-II-37	懶惰	lǎnduò	Vs	lazy
+B6L09-II-38	幅	fú	M	measure for paintings
+B6L09-II-39	天長地久	tiāncháng dìjiǔ	Id	forever, here: enduring, everlasting, eternal
+B6L09-II-40	羈旅	jīlǚ	Vi	stay long in a strange place
+B6L09-II-41	驛站	yìzhàn	N	(bus, train, etc...) stop, post, stop (along the way)
+B6L09-II-42	行李	xínglǐ	N	luggage, suitcase, belongings
+B6L09-II-43	洗滌	xǐdí	V	to wash, to cleanse
+B6L09-II-44	風塵	fēngchén	N	dust (from travel), travel fatigue
+B6L09-II-45	歇腳	xiējiǎo	V-sep	take a break, stop on the way for a rest
+B6L09-II-T-01	哥大建築學系	Gēdà jiànzhú xuéxì		Columbia University, Department of Architecture
+B6L09-II-T-02	廣東	Guǎngdōng		Guangdong (Canton)
+B6L09-II-T-03	普洱	Pǔ'ěr		Pu'er City, Yunnan, china, where Pu'er tea is grown

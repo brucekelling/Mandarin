@@ -1,0 +1,944 @@
+ID	Traditional	Simplified	Pinyin	POS	Meaning	Tags
+B1L01-I-12	這	这	zhè / zhèi	Det	this	ankiweb ccc book
+B1L01-I-18	臺灣（＝台灣）	台湾	Táiwān		Taiwan	Place book simp
+B1L01-I-20	請問	请问	qǐngwèn		May I ask you... Excuse me, ...	slides quizlet book
+B1L01-I-23	不客氣	不客气	búkèqì		You're welcome.	slides quizlet book
+B1L01-I-24	你好	你好	Nǐ hǎo		How are you? Hello.	slides quizlet book
+B1L01-II-12	哪	哪	nǎ / něi	Det	which	ankiweb ccc book
+B1L01-II-15	烏龍茶	乌龙茶	Wūlóng chá		Oolong tea	ankiweb ccc book
+B1L01-II-18	對不起	对不起	duìbùqǐ		I'm sorry.	book
+B1L01-II-19	哪國	哪国	nǎ guó / něi guó		Which country?	book
+B1L02-I-02	馬安同	马安同	Mǎ Āntóng		a man from the Republic of Honduras	ankiweb ccc book
+B1L02-I-03	的	的	de	Ptc	modification marker	slides quizlet ankiweb ccc book
+B1L02-I-15	張	张	zhāng	M	measure word for flat objects (e.g., paper, tickets)	slides quizlet ankiweb ccc book
+B1L02-I-22	請進	请进	qǐng jìn		Please come in!	ankiweb ddsg ccc quizlet
+B1L02-II-01	田中誠一	田中诚一	Tiánzhōng Chéngyī		a man from Japan	ankiweb ccc book
+B1L02-II-02	伯母	伯母	bómǔ	N	aunt; here a polite term for a friend's mother regardless of age	quizlet book
+B1L02-II-04	名字	名字	míngzi	N	name	quizlet ankiweb ccc book
+B1L03-I-16	好玩	好玩	hǎowán	Vs	interesting, fun	quizlet book
+B1L03-I-20	怎麼樣	怎么样	zěnmeyàng	Vs	How about it? How does that sound? What do you think?	quizlet ankiweb ccc book
+B1L03-I-21	啊	啊	a	Ptc	sentence-final particle	slides ankiweb ddsg ccc book
+B1L03-I-23	好啊	好啊	hǎo a		OK	ankiweb ccc book
+B1L03-II-09	吧	吧	ba	Ptc	sentence-final particle for suggestion	slides ankiweb ddsg ccc book
+B1L03-II-17	越南	越南	Yuènán		Vietnam	slides quizlet ankiweb ccc book
+B1L03-II-18	好不好	好不好	hǎo bù hǎo		How about...? How does that sound?	quizlet ankiweb ccc book
+B1L04-II-08	能	能	néng	Vaux	can, to be able to	quizlet book
+B1L04-II-10	那	那	nà / nèi	Det	that	ankiweb ccc book
+B1L04-II-16	千	千	qiān	N	thousand	book
+B1L05-I-08	小吃	小吃	xiǎochī	N	light repast, snack	quizlet ankiweb ccc book
+B1L05-I-18	是啊	是啊	shì a		That's right.	quizlet book
+B1L05-II-16	有一點	有一点	yǒu yìdiǎn		a little	quizlet book
+B1L06-I-08	風景	风景	fēngjǐng	N	scenery, landscape	quizlet ankiweb ccc book
+B1L06-I-14	真的	真的	zhēnde	Adv	really, truly	quizlet ankiweb ccc book
+B1L06-II-09	商店	商店	shāngdiàn	N	store, shop	slides ankiweb ddsg ccc book
+B1L07-I-02	KTV	KTV		N	Karaoke	quizlet
+B1L07-I-12	大安	大安	Dà'ān		Da-an (name of a KTV named after a district in Taipei, where Shida is also located)	book
+B1L07-I-13	下次	下次	xià cì		next time	quizlet book
+B1L07-I-17	再見	再见	zàijiàn		Goodbye.	quizlet book
+B1L08-I-01	坐	坐	zuò	V	to take by, to travel by	slides quizlet ddsg book
+B1L08-I-10	車票	车票	chēpiào	N	(train, bus) ticket	quizlet book
+B1L08-I-13	又	又	yòu	Adv	both...and...	slides quizlet book
+B1L08-I-18	高鐵	高铁	gāotiě		High Speed Rail (HSR)	quizlet ankiweb ccc book
+B1L08-I-19	網路上	网路上	wǎnglù shàng		on the Internet	quizlet ankiweb ccc book
+B1L08-I-20	便利商店	便利商店	biànlì shāngdiàn		convenience store	quizlet ankiweb ccc book
+B1L08-II-06	載	载	zài	V	to give someone a ride (on / in a vehicle, e.g. motorcycle, bicycle or car)	ankiweb ccc book
+B1L08-II-07	捷運	捷运	jiéyùn	N	Mass Rapid Transit (MRT)	slides ankiweb ddsg ccc book
+B1L08-II-09	故宮博物院（故宮）	故宫博物院（故宫）	Gùgōng Bówùyuàn		National Palace Museum	book
+B1L08-II-11	公共汽車（公車）	公共汽车（公车）	gōnggòng qìchē		bus	book
+B1L09-I-01	星期 + number	星期 + number	xīngqí	N	week	slides quizlet
+B1L09-I-11	下個星期	下个星期	xià ge xīngqí		next week	quizlet book
+B1L09-I-12	有時候	有时候	yǒu shíhòu		sometimes	quizlet book
+B1L09-II-01	女 + noun	女 + noun	nǚ	N	girl-, female-	slides quizlet
+B1L09-II-02	number + 月	number + 月	yuè	N	month of a year	slides quizlet
+B1L09-II-03	number + 號	number + 号	hào	N	date, day of a month	slides quizlet
+B1L09-II-10	逛	逛	guàng	V	to wander around, to look around	quizlet ankiweb ccc book
+B1L10-I-05	塊	块	kuài	M	measure word for pieces of food (e.g., meat, cake)	ankiweb ccc book
+B1L10-I-10	吧	吧	ba	Ptc	sentence-final particle for guessing	slides ankiweb ddsg ccc book
+B1L10-II-18	上個月	上个月	shàng ge yuè		last month	quizlet ankiweb ccc book
+B1L10-II-19	這些	这些	zhèxiē		these	quizlet ankiweb ccc book
+B1L11-I-14	空	空	kōng	Vs	vacant, empty	slides ankiweb ddsg ccc book
+B1L11-I-22	林	林	Lín		Chinese last name, common in Taiwan	ankiweb ccc book
+B1L11-II-05	問題	问题	wèntí	N	problem, question	slides ankiweb ddsg ccc book
+B1L12-I-01	計畫	计画	jìhuà	V	to plan to	simp wikt
+B1L12-I-17	到	到	dào	V	to go/come to	quizlet book
+B1L12-II-05	以後	以后	yǐhòu	N	afterwards	slides quizlet quizlet ankiweb ddsg ccc book
+B1L12-II-09	這樣	这样	zhèyàng	N	this kind (of)	quizlet book
+B1L12-II-15	試試看	试试看	shìshìkàn		to give it a try, to try and see what happens	quizlet book
+B1L13-I-02	快樂	快乐	kuàilè	Vs	happy	quizlet ankiweb ccc book
+B1L13-I-04	啊	啊	a	Ptc	a particle indicating a realization	quizlet ankiweb ccc book
+B1L13-I-05	怎麼	怎么	zěnme	Adv	How come?	quizlet ankiweb ccc book
+B1L13-I-06	忘（了）	忘（了）	wàngle	Vpt	to forget	slides book
+B1L13-I-07	記得	记得	jìde	Vst	to remember	quizlet ankiweb ccc book
+B1L13-I-14	一樣	一样	yíyàng	Vs	the same, alike	slides ankiweb ddsg ccc book
+B1L13-I-19	生日快樂	生日快乐	shēngrì kuàilè		Happy Birthday.	quizlet book
+B1L13-I-21	好久不見	好久不见	hǎojiǔ bújiàn		long time no see	slides ankiweb ddsg ccc book
+B1L13-I-22	不必客氣	不必客气	búbì kèqì		No need to stand on formalities, i.e., It's my pleasure.	quizlet book
+B1L13-I-23	太客氣	太客气	tài kèqì		That's very kind of you.	slides quizlet book
+B1L13-II-06	麵線	面线	miànxiàn	N	extra fine noodles	quizlet ankiweb ccc book
+B1L13-II-08	一點	一点	yìdiǎn	Vs	a little, some	quizlet ankiweb ccc book
+B1L13-II-14	哪裡，哪裡	哪里，哪里	Nǎlǐ, nǎlǐ		Don't mention it. It's my pleasure.	quizlet book
+B1L13-II-15	大部分	大部分	dà bùfèn		most (of), mostly	slides ankiweb ddsg ccc book
+B1L14-I-06	想	想	xiǎng	Vst	to miss (someone)	quizlet ankiweb ddsg ccc book
+B1L14-I-15	玉山	玉山	Yùshān		Yu Shan (Mount Jade), tallest mountain in central Taiwan	quizlet ankiweb ccc book
+B1L14-I-18	十二月底	十二月底	shí'èryuè dǐ		the end of December	quizlet ankiweb book
+B1L15-I-11	生病	生病	shēngbìng	Vp-sep	to fall ill	slides quizlet ddsg
+B1L15-I-19	休息	休息	xiūxí	Vi	to take a rest	slides ankiweb ddsg ccc book
+B1L15-II-15	關心	关心	guānxīn	Vst	to be concerned about	quizlet
+B1L15-II-20	不用了	不用了	búyòng le		It's not necessary.	slides quizlet book
+B1L15-II-22	回家	回家	huí jiā		go home	quizlet ankiweb ccc book
+B1L15-II-23	最好	最好	zuìhǎo		It would be best.../ (You) should...	quizlet book
+B2L01-I-01	走	走	zǒu	Vi	to get to	slides ankiweb ddsg ccc
+B2L01-I-03	幫忙	帮忙	bāngmáng	V-sep	to help	slides ankiweb ddsg ccc
+B2L01-I-04	迷路	迷路	mílù	Vp-sep	to be lost, to have lost directions	slides ankiweb ddsg ccc
+B2L01-I-08	過	过	guò	V	to go past, to cross	slides ankiweb ddsg ccc book
+B2L01-I-17	那邊	那边	nàbiān / nèibiān	N	over there, yonder	ankiweb ccc book
+B2L01-I-18	師大（師範大學）	师大（师范大学）	Shīdà (Shīfàn Dàxué)		NTNU (National Taiwan Normal University)	book
+B2L01-I-19	和平東路	和平东路	Hépíng Dōng Lù		Heping East Road	slides quizlet ankiweb ccc book
+B2L01-II-03	好用	好用	hǎoyòng	Vs	easy to use, handy	slides ankiweb ddsg ccc
+B2L01-II-07	巷子	巷子	xiàngzi	N	alley	slides ankiweb ddsg ccc book
+B2L01-II-08	餓	饿	è	Vs	hungry	slides ankiweb ddsg ccc
+B2L01-II-09	一邊	一边	yìbiān	Adv	indicates doing two things simultaneously, as, while	slides ankiweb ddsg ccc book
+B2L01-II-10	發現	发现	fāxiàn	Vpt	to discover	slides ankiweb ddsg ccc
+B2L01-II-12	背包	背包	bēibāo	N	backpack	slides ankiweb ddsg ccc book
+B2L01-II-18	本子	本子	běnzi	N	notebook	slides ankiweb ddsg ccc book
+B2L02-I-18	台北101	台北101	Táiběi 101		Taipei 101, the tallest building in Taiwan. It was also the tallest building in the world from 2004 to 2010.	Place slides quizlet book
+B2L02-I-20	2號線	2号线	èr hào xiàn		Line 2 (of the Taipei MRT)	slides quizlet book
+B2L02-II-02	轉機	转机	zhuǎn jī	V-sep	to transfer (flights)	slides ankiweb ddsg ccc book
+B2L03-I-14	不夠	不够	bú gòu	Adv	not quite, not...enough	book
+B2L03-I-19	報紙	报纸	bàozhǐ	N	newspapers	slides ankiweb ddsg ccc book
+B2L04-I-08	談	谈	tán	V	to talk over, to talk about, to discuss	quizlet ankiweb book
+B2L04-I-17	薪水	薪水	xīnshuǐ	N	pay	slides quizlet ankiweb ccc book
+B2L04-I-21	鐘點費	钟点费	zhōngdiǎnfèi	N	hourly pay	quizlet book
+B2L04-II-03	履歷表	履历表	lǚlìbiǎo	N	resume	slides quizlet ddsg book
+B2L05-I-03	新娘	新娘	xīnniáng	N	bride	slides ankiweb ddsg ccc
+B2L05-I-17	看起來	看起来	kàn qǐlái		to look, it appears to me...	slides quizlet book
+B2L06-I-05	腳踏車	脚踏车	jiǎotàchē	N	bicycle	slides ankiweb ddsg ccc book
+B2L06-I-07	網站	网站	wǎngzhàn	N	website	slides ankiweb ddsg ccc book
+B2L06-I-17	別的	别的	biéde	Det	other	book simp
+B2L06-I-28	慢慢來	慢慢来	mànmàn lái		take your time	slides ankiweb ddsg ccc book
+B2L06-I-29	不急	不急	bùjí		don't rush, no hurry	quizlet ankiweb book
+B2L06-II-11	留	留	liú	Vi/V	to stay to leave behind	book
+B2L06-II-17	放心	放心	fàngxīn	Vs-sep	not to worry, to rest assured	slides ankiweb ddsg ccc book
+B2L07-I-13	不壞	不坏	bú huài	Vs	not too bad	slides ankiweb ddsg ccc book
+B2L07-I-14	天天	天天	tiāntiān		every day	book
+B2L07-I-19	怎麼辦	怎么办	zěnmebàn		What now?	slides ankiweb ddsg ccc book
+B2L07-II-07	一定	一定	yídìng	Vs-attr	fixed, set, at a certain...	quizlet book
+B2L08-I-03	見	见	jiàn	Ptc	accomplishment complete (in perception)	slides ankiweb ddsg ccc book
+B2L08-I-05	體育館	体育馆	tǐyùguǎn	N	gym	slides quizlet ankiweb ccc book
+B2L08-I-15	下去	下去	xiàqù	Ptc	a temporal particle meaning to continue with an action	slides ankiweb ddsg ccc book
+B2L08-I-19	學會	学会	xué huì		to learn, to master	quizlet book
+B2L08-I-21	走不了路	走不了路	zǒu bù liǎo lù		can't walk	slides quizlet ankiweb book
+B2L08-II-05	完	完	wán	Ptc	phase marker for 'completion', to finish...	quizlet book
+B2L08-II-14	練	练	liàn	V	to practice, to train, to drill	quizlet
+B2L10-I-01	馬丁	马丁	Mǎdīng		Martin, a man from the UK	quizlet ankiweb ccc book
+B2L10-I-02	包	包	bāo	V	to wrap	slides ankiweb ddsg ccc book
+B2L10-I-27	韓國	韩国	Hánguó		(South) Korea	Place slides quizlet ddsg ccc book
+B2L10-I-28	看不出來	看不出来	kàn bù chūlái		It does not occur to me that..., can't tell (i.e., ascertain)	quizlet book
+B2L10-II-01	學期	学期	xuéqí	N	semester	slides quizlet ddsg book
+B2L11-I-04	建議	建议	jiànyì	V	to suggest, to recommand	slides quizlet
+B2L11-I-07	順便	顺便	shùnbiàn	Adv	without making any extra effort, on the way, while doing something else, while one is at it	slides quizlet ankiweb ccc book
+B2L11-I-23	水上活動	水上活动	shuǐshàng huódòng		water activities, water recreation	slides quizlet ankiweb ccc book
+B2L12-I-09	吃素	吃素	chīsù	V-sep	to be a vegetarian, to eat vegetarian food	slides ankiweb ddsg ccc book
+B2L12-II-01	只要	只要	zhǐyào	Conj	as long as	slides ankiweb ddsg ccc book
+B2L12-II-05	關係	关系	guānxi	N	relationship	slides ankiweb ddsg ccc book
+B2L12-II-17	營養	营养	yíngyǎng	N	nutrition	slides ankiweb ddsg ccc book
+B2L13-I-01	林愛麗	林爱丽	Lín Àilì		Lin Aili, a woman from Canada	slides ankiweb ddsg ccc book
+B2L13-I-12	啦	啦	la	Ptc	a sentence-final particle indicating a question, 了+啊	quizlet ankiweb ddsg ccc book
+B2L13-II-07	節省	节省	jiéshěng	V	to save	slides ankiweb ddsg ccc book
+B2L14-I-02	徵求	征求	zhēngqiú	V	to seek, to invite applications for	slides ankiweb ddsg ccc book
+B2L14-I-05	畢業	毕业	bìyè	Vp-sep	to graduate	slides ankiweb ddsg ccc book
+B2L14-I-08	想法	想法	xiǎngfǎ	N	thoughts, way of thinking, idea	slides ankiweb ddsg ccc book
+B2L14-I-12	實現	实现	shíxiàn	Vp	to come true, to realize	slides ankiweb ddsg ccc book
+B2L14-I-21	捨不得	舍不得	shěbùde		reluctant to part with	ankiweb ccc wikt book
+B2L14-II-15	目的	目的	mùdì	N	goal, objective	slides quizlet ddsg ccc book
+B2L14-II-24	企業管理系（企管系）	企业管理系（企管系）	qìyè guǎnlǐ xì		department of business management	book
+B2L14-II-25	國際關係	国际关系	guójì guānxì		international relations	slides ankiweb ddsg ccc book
+B2L15-I-04	打擾	打扰	dǎrǎo	V	to trouble (someone), to disturb	slides ankiweb ddsg ccc book
+B2L15-I-14	除夕夜	除夕夜	chúxì yè		Lunar New Year's Eve	quizlet ddsg book
+B2L15-II-09	說法	说法	shuōfǎ	N	way of saying things, a theory	slides quizlet ddsg ccc book
+B2L15-II-16	起來	起来	qǐlái	Ptc	As a resultative particle, it indicates the beginning of an action of state.	slides book
+B2L15-II-19	年年有餘	年年有余	niánnián yǒuyú		abundance every year	slides ankiweb ccc wikt book
+B2L15-II-23	大年初一	大年初一	dànián chūyī		first day of the Lunar New Year	slides ankiweb ddsg ccc book
+B3L01-I-01	安德思	安德思	Ān Désī		a man from Honduras	slides ankiweb ddsg ccc book
+B3L01-I-03	何雅婷	何雅婷	Hé Yǎtíng		a woman from Taiwan	slides quizlet ankiweb ddsg ccc
+B3L01-I-14	說明	说明	shuōmíng	N	instructions, explanation	slides quizlet ankiweb ddsg ccc
+B3L01-I-16	位子	位子	wèizi	N	seat, place	slides quizlet ankiweb ddsg ccc
+B3L01-I-17	旁聽	旁听	pángtīng	V	to audit, to sit in (on a class)	ankiweb book
+B3L01-I-18	分	分	fēn	N	points	slides ankiweb ddsg ccc book
+B3L01-I-23	轉	转	zhuǎn	V	to transfer (to a different major)	slides quizlet ankiweb ddsg ccc
+B3L01-I-31	事	事	shì	N	issue, matter, event, thing	slides quizlet ankiweb ddsg ccc
+B3L01-II-12	外語	外语	wàiyǔ	N	foreign language	slides quizlet ankiweb ddsg ccc
+B3L01-II-17	手續	手续	shǒuxù	N	procedures	slides quizlet ankiweb ddsg ccc
+B3L01-II-20	考上	考上	kǎoshàng		to test into	slides ankiweb ddsg ccc book
+B3L01-II-21	推薦信	推荐信	tuījiàn xìn		a letter of recommendation	slides quizlet ankiweb ddsg ccc
+B3L02-I-01	起	起	qǐ	Vp	starting from...	quizlet book
+B3L02-I-03	一般	一般	yìbān	Adv	generally; in general	slides quizlet ankiweb ddsg ccc
+B3L02-I-08	品質	品质	pǐnzhí	N	quality	slides quizlet ankiweb ddsg ccc
+B3L02-I-18	刷卡	刷卡	shuākǎ	V-sep	to swipe, i.e., use a credit card	slides quizlet ankiweb ddsg ccc
+B3L02-I-23	發票	发票	fāpiào	N	receipt	slides quizlet ankiweb ddsg ccc
+B3L02-I-28	週年慶	周年庆	zhōunián qìng		anniversary	slides quizlet ankiweb ddsg ccc
+B3L02-I-29	一般來說	一般来说	yìbān láishuō		generally speaking	slides quizlet ankiweb ddsg ccc
+B3L02-I-30	試穿	试穿	shì chuān		to try on (garments)	slides quizlet ankiweb ddsg ccc
+B3L02-I-31	打完折	打完折	dǎ wán zhé		after discount	ankiweb ddsg ccc book
+B3L02-I-32	弄丟	弄丢	nòng diū		to lose	slides quizlet ankiweb ccc book
+B3L02-II-04	門市	门市	ménshì	N	retail outlet	slides quizlet ankiweb ddsg ccc
+B3L02-II-10	解釋	解释	jiěshì	N	explanation	slides quizlet ankiweb ccc book
+B3L02-II-22	吃到飽	吃到饱	chī dào bǎo		unlimited data (lit. all you can eat)	slides quizlet ankiweb ddsg ccc
+B3L03-I-01	陳敏萱	陈敏萱	Chén Mǐnxuān		a woman from the Netherlands	mquizlet
+B3L03-I-02	高橋健太	高桥健太	Gāoqiáo Jiàntài		a man from Japan	mquizlet
+B3L03-I-24	發霉	发霉	fāméi	Vp-sep	to mildew	slides quizlet ankiweb ddsg ccc
+B3L03-I-31	荷蘭	荷兰	Hélán		the Netherlands (lit. Holland)	slides quizlet ankiweb ddsg ccc
+B3L03-I-32	出大太陽	出大太阳	chū dà tàiyáng		to be blazing hot	slides quizlet ankiweb ccc book
+B3L03-I-33	颳風	刮风	guā fēng		to be windy (lit. blow wind)	slides quizlet ankiweb ddsg ccc
+B3L03-I-37	後母臉	后母脸	hòumǔ liǎn		stepmother's face, i.e., stern and cruel look	slides quizlet ankiweb ddsg
+B3L03-II-05	農曆	农历	nónglì	N	the lunar calendar (lit. the agricultural calendar)	slides quizlet ankiweb ddsg ccc
+B3L03-II-14	戴	戴	dài	V	to wear (items other than those that cover the torso, legs, or feet, mostly ornamental items.)	ankiweb ccc book
+B3L03-II-22	收成	收成	shōuchéng	N	harvest	slides quizlet ankiweb ddsg ccc
+B3L03-II-28	月餅	月饼	yuèbǐng	N	moon cake (shaped like the moon)	slides quizlet ankiweb ddsg ccc
+B3L03-II-31	溫馨	温馨	wēnxīn	Vs	warm, heart-warming	slides quizlet ankiweb ccc book
+B3L03-II-32	端午節	端午节	Duānwǔ jié		the Dragon Boat Festival (the 5th day of the 5th month)	ankiweb ccc book
+B3L03-II-33	中秋節	中秋节	Zhōngqiū jié		the Mid-autumn Moon Festival (the 15th day of the 8th month)	slides quizlet ankiweb ccc book
+B3L03-II-34	雄黃酒	雄黄酒	xiónghuáng jiǔ		realgar liquor, a wine seasoned with realgar, a type of arsenic, and is traditionally considered to be an antidote to other poisons	slides quizlet ankiweb ccc book
+B3L03-II-35	古時候	古时候	gǔ shíhòu		historically; in ancient times	slides quizlet ankiweb ddsg ccc
+B3L03-II-36	趕走	赶走	gǎnzǒu		to drive away	ankiweb ccc book
+B3L04-I-15	而	而	ér	Adv	on the other hand, rather	ankiweb ccc book
+B3L04-I-18	剛剛	刚刚	gānggāng	Adv	just now	ankiweb ccc book
+B3L04-I-23	跨年	跨年	kuànián	Vi	welcome in the (solar) New Year (lit. span the years)	slides quizlet book
+B3L04-I-26	感覺	感觉	gǎnjué	N	feeling; a feeling of...	quizlet book
+B3L04-I-29	紅茶	红茶	hóngchá	N	black tea (lit. red tea)	slides quizlet ankiweb ddsg ccc
+B3L04-II-04	泡	泡	pào	V	to steep (tea) to soak oneself in, i.e., to bath in	slides ankiweb ccc
+B3L04-II-05	錯過	错过	cuòguò	Vpt	to miss (an opportunity)	slides quizlet ankiweb ddsg ccc
+B3L04-II-06	營業	营业	yíngyè	Vi	to open for business, in operation (businesses)	slides quizlet ankiweb ddsg ccc
+B3L04-II-12	風俗	风俗	fēngsú	N	customs	slides quizlet ankiweb ddsg ccc
+B3L04-II-26	赤崁樓	赤崁楼	Chìkǎn Lóu		Chihkan Tower, a.k.a. Fort Provintia (stronghold built by the Dutch, in Tainan, in the 17th century)	book
+B3L04-II-28	木造	木造	mù zào		wooden; made from wood	mquizlet
+B3L05-I-05	上線	上线	shàngxiàn	V-sep	to log in, go online	slides quizlet ankiweb ddsg ccc
+B3L05-I-07	倒楣	倒楣	dǎoméi	Vs	out of luck, down on one's luck	slides quizlet ankiweb ddsg
+B3L05-I-08	樂團	乐团	yuètuán	N	(music) band	slides quizlet ankiweb ddsg ccc
+B3L05-I-14	不如	不如	bùrú	Vst	inferior to	slides quizlet ankiweb ddsg ccc
+B3L05-I-15	現場	现场	xiànchǎng	N	live; lit. on-site	slides quizlet ankiweb ddsg ccc
+B3L05-I-20	內容	内容	nèiróng	N	content	slides quizlet ankiweb ddsg ccc
+B3L05-I-21	色情	色情	sèqíng	Vs	pornographic; obscene	slides quizlet ankiweb ddsg ccc
+B3L05-I-25	算了	算了	suàn le		forget it; let it be!	slides quizlet ankiweb ddsg ccc
+B3L05-I-26	受歡迎	受欢迎	shòu huānyíng		well-received; well-liked; popular	slides quizlet ankiweb ddsg ccc
+B3L05-II-01	撞衫	撞衫	zhuàngshān	Vs	"wardrobe clash", more than one person unintentionally wearing duplicate garments	slides quizlet ddsg ccc book
+B3L05-II-07	主角	主角	zhǔjiǎo	N	leading role, leading actor	slides quizlet ankiweb ddsg ccc
+B3L05-II-11	害	害	hài	V	adversely impacting somebody so that they...	quizlet book
+B3L05-II-12	既然	既然	jìrán	Conj	since, given that...	quizlet book
+B3L05-II-24	落伍	落伍	luòwǔ	Vs	behind the times, passé, old-fashioned	slides quizlet ankiweb book
+B3L05-II-26	想像	想象	xiǎngxiàng	V	to imagine	simp wikt
+B3L05-II-34	小題大作	小题大作	xiǎotí dàzuò		to make a mountain out of a molehill, to make a big deal of nothing	slides quizlet ankiweb ddsg ccc
+B3L06-I-04	種	种	zhòng	V	to grow (plants)	slides quizlet ankiweb ccc book
+B3L06-I-11	辛苦	辛苦	xīnkǔ	Vs	tough, hard, bitter (life, work, etc.)	slides quizlet ankiweb ddsg ccc
+B3L06-I-21	片	片	piàn	M	measure word for a stretch, swath (of land)	slides quizlet ankiweb ddsg ccc
+B3L06-I-30	忙得過來	忙得过来	máng de guòlái		to be able to manage everything	slides quizlet ankiweb ccc book
+B3L06-I-32	看天吃飯	看天吃饭	kàntiān chīfàn		livelihood depends on the whims of nature	slides quizlet ankiweb ccc book
+B3L06-II-03	食材	食材	shícái	N	food materials, ingredients	slides quizlet ankiweb ddsg ccc
+B3L06-II-07	對待	对待	duìdài	V	to treat	slides quizlet ankiweb ccc book
+B3L06-II-15	其中	其中	qízhōng	N	of these, of which, amongst which	slides quizlet ankiweb ddsg ccc
+B3L06-II-20	拜訪	拜访	bàifǎng	V	to pay someone a visit	slides quizlet ankiweb ddsg ccc
+B3L06-II-27	休閒	休闲	xiūxián	Vs	leisure	slides quizlet ankiweb ccc book
+B3L07-I-06	嗯	嗯	en	Ptc	an interjection indicating the speaker's agreement	slides quizlet ankiweb ddsg
+B3L07-I-12	孤單	孤单	gūdān	Vs	lonely	slides quizlet ankiweb ddsg ccc
+B3L07-I-19	打	打	dǎ	V	to hit, beat, smack, slap	slides quizlet ankiweb ddsg ccc
+B3L07-I-20	分手	分手	fēnshǒu	Vp	to break up (said of romantic relationships)	slides quizlet ankiweb ddsg ccc
+B3L07-I-37	幸福	幸福	xìngfú	N	happiness, blessing	ankiweb ddsg ccc book
+B3L07-I-39	當成	当成	dāngchéng		to consider, view as, regard	slides quizlet ankiweb ccc book
+B3L07-I-40	忍不住	忍不住	rěn bú zhù		to be beyond the limits of endurance	mquizlet
+B3L07-II-06	公公	公公	gōnggōng	N	father-in-law (of a female)	slides quizlet ankiweb ddsg ccc
+B3L07-II-14	自由	自由	zìyóu	Vs	free	slides quizlet ankiweb ccc book
+B3L07-II-20	同居	同居	tóngjū	Vi	to live together (as a couple), to cohabit	slides quizlet ankiweb ddsg ccc
+B3L07-II-34	風雲人物	风云人物	fēngyún rénwù		mover and shaker, popular and influential person	quizlet ankiweb ccc book
+B3L08-I-10	公務員	公务员	gōngwùyuán	N	civil servant	mquizlet
+B3L08-I-11	煩	烦	fán	Vs	a "drag", a pain in the neck	slides quizlet ankiweb ddsg ccc
+B3L08-I-16	學分	学分	xuéfēn	N	(academic) credits	slides quizlet ankiweb ddsg ccc
+B3L08-I-24	遺憾	遗憾	yíhàn	Vs	regretful (that something undesirable happened), a pity, a shame	slides quizlet ankiweb ddsg ccc
+B3L08-I-27	狀元	状元	zhuàngyuán	N	top-ranking in a public exam (originally the person with the highest marks on the imperial test)	slides quizlet ankiweb ddsg ccc
+B3L08-I-28	努力	努力	nǔlì	Vs	diligent in	slides quizlet ankiweb ddsg ccc
+B3L08-I-29	怎麼回事	怎么回事	zěnme huíshì		What's wrong?	slides quizlet ankiweb ddsg
+B3L08-I-36	行行出狀元	行行出状元	hángháng chū zhuàngyuán		there is a leader in every industry	slides quizlet ankiweb ddsg ccc
+B3L08-II-02	大賽	大赛	dàsài	N	a major, usually international, competition	slides quizlet ankiweb ddsg ccc
+B3L08-II-03	通過	通过	tōngguò	Vpt	to pass	slides quizlet ankiweb ccc book
+B3L08-II-15	基礎	基础	jīchǔ	N	foundation, fundamentals	slides quizlet ankiweb ddsg ccc
+B3L08-II-21	母親	母亲	mǔqīn	N	mother	slides quizlet ankiweb ddsg ccc
+B3L08-II-24	明白	明白	míngbái	Vst	to understand	slides quizlet ankiweb ddsg ccc
+B3L08-II-35	成為	成为	chéngwéi	Vpt	to become	slides quizlet ankiweb ddsg ccc
+B3L08-II-42	吳寶春	吴宝春	Wú Bǎochūn		a famous baker from Taiwan	slides quizlet ankiweb ddsg ccc
+B3L08-II-46	EMBA（高級管理人員工商管理碩士）	EMBA（高级管理人员工商管理硕士）	EMBA (gāojí guǎnlǐ rényuán gōngshāng guǎnlǐ shuòshì)		EMBA (Executive Master of Business Administration)	slides quizlet book
+B3L08-II-49	X 分之 Y	X 分之 Y	X fēn zhī Y		pattern for indicating percentages or fractions	slides ankiweb ccc
+B3L09-I-09	中間商	中间商	zhōngjiānshāng	N	middleman, reseller	quizlet ankiweb ccc book
+B3L09-I-16	冰箱	冰箱	bīngxiāng	N	refrigerator (lit. ice box)	slides quizlet ankiweb ddsg ccc
+B3L09-I-23	萬一	万一	wànyī	Conj	in case	slides quizlet ankiweb ddsg ccc
+B3L09-I-25	以內	以内	yǐnèi	N	within	slides quizlet ankiweb ddsg ccc
+B3L09-I-28	網購	网购	wǎng gòu		online shopping	slides quizlet ankiweb ddsg ccc
+B3L09-I-29	貨比三家不吃虧	货比三家不吃亏	huò bǐ sān jiā bù chīkuī		shop around and you won't get ripped off (lit. Compare products at three stores and you won't be cheated.)	quizlet book
+B3L09-I-30	兩成	两成	liǎng chéng		20%, literally 2/10	book
+B3L09-II-04	曾經	曾经	céngjīng	Adv	been the case before, once	slides quizlet ankiweb ddsg ccc
+B3L09-II-06	成本	成本	chéngběn	N	costs	slides quizlet ankiweb ddsg ccc
+B3L09-II-10	內餡	内馅	nèixiàn	N	filling (of pastries etc.)	slides quizlet ankiweb ddsg ccc
+B3L09-II-11	當做	当做	dāngzuò	V	to treat as, to serve as	slides quizlet ankiweb ddsg ccc
+B3L09-II-12	喜餅	喜饼	xǐbǐng	N	wedding-announcement pastries	slides quizlet ankiweb ddsg ccc
+B3L09-II-24	（台）斤	（台）斤	(Tái) jīn	M	catty, a unit of measure in Taiwan, equivalent to 600 grams	quizlet book
+B3L09-II-36	旺來	旺来	wànglái		Southern Min sound for pineapple, lit."abundance comes"	quizlet
+B3L10-I-16	病床	病床	bìngchuáng	N	hospital bed	slides quizlet ankiweb ddsg ccc
+B3L10-I-19	止痛	止痛	zhǐtòng	Vi	to kill pain (lit. stop pain)	slides quizlet ankiweb ddsg ccc
+B3L10-I-30	撞倒	撞倒	zhuàng dǎo		to knock down, knock over	slides quizlet ankiweb ddsg ccc
+B3L10-I-32	照 X 光	照 X 光	zhào X guāng		to take an X-ray	book
+B3L10-I-33	動手術	动手术	dòng shǒushù		to have/undergo a surgery	slides quizlet ankiweb ddsg ccc
+B3L10-II-06	競爭力	竞争力	jìngzhēnglì	N	competitive edge	ankiweb ccc book
+B3L10-II-08	整型	整型	zhěngxíng	V-sep	plastic surgery	slides quizlet ankiweb ddsg ccc
+B3L10-II-18	待遇	待遇	dàiyù	N	pay	slides quizlet ankiweb ccc book
+B3L10-II-19	公立	公立	gōnglì	Vs-attr	public; government-run	slides quizlet ankiweb ccc book
+B3L10-II-25	尊敬	尊敬	zūnjìng	Vst	to respect, respectful of	slides quizlet ankiweb ccc book
+B3L10-II-30	愛林	爱林	Àilín		female person's name	ankiweb ccc book
+B3L10-II-31	微整型	微整型	wéi zhěngxíng		micro-cosmetic surgery, plastic surgery, face contouring	slides quizlet ankiweb ddsg ccc
+B3L10-II-32	數一數二	数一数二	shǔyī shǔ'èr		one of the top or best in..., leading...	quizlet book
+B3L11-I-17	將軍	将军	jiāngjūn	N	general	slides quizlet ankiweb ccc book
+B3L11-I-22	嘍	喽	lou	Ptc	a sentence-final particle meaning 'in that case'	slides quizlet ankiweb ddsg
+B3L11-I-27	娶	娶	qǔ	V	to take a woman in marriage	slides quizlet ankiweb ddsg ccc
+B3L11-I-30	紅毛城	红毛城	Hóngmáo chéng		Fort Santo Domingo, lit. red-hair city	slides quizlet ankiweb ddsg ccc
+B3L11-I-33	漢人	汉人	Hàn rén		Han-ethnic Chinese	slides quizlet ankiweb ddsg ccc
+B3L11-I-34	鄭成功	郑成功	Zhèng Chénggōng		Koxinga, 國姓爺, 1624-1662, who ruled Taiwan against the Manchu sovereignty	quizlet ankiweb book
+B3L11-I-38	大清帝國	大清帝国	Dàqīng dìguó		the Qing Empire	slides quizlet ankiweb ccc book
+B3L11-II-02	中式	中式	Zhōngshì	N	Chinese-style	slides quizlet ankiweb ddsg ccc
+B3L11-II-03	套	套	tào	M	set of (books, clothes, equipment etc.)	book
+B3L11-II-04	燒餅	烧饼	shāobǐng	N	clay oven sesame seed biscuits, like Indian 'nan'	slides quizlet ankiweb ddsg
+B3L11-II-06	飯糰	饭团	fàntuán	N	rice rolls with various fillings	slides quizlet ankiweb ddsg ccc
+B3L11-II-08	內戰	内战	nèizhàn	N	civil war	slides quizlet ankiweb ddsg ccc
+B3L11-II-15	不斷	不断	búduàn	Vs	continual, incessant	slides quizlet ankiweb ccc book
+B3L11-II-22	菜色	菜色	càisè	N	variety of dishes	slides quizlet ankiweb ddsg ccc
+B3L11-II-29	蔣介石	蒋介石	Jiǎng Jièshí		Chiang Kai-Shek, 1887-1975	slides quizlet ankiweb ccc book
+B3L11-II-30	國共內戰	国共内战	Guó Gòng nèizhàn		the Chinese Civil War (i.e., between the Kuomintang and the Communists), 1927-1937, 1945-1950	slides quizlet ankiweb ccc
+B3L11-II-39	各種各樣	各种各样	gèzhǒng gèyàng		various types	slides quizlet ankiweb ccc book
+B3L11-II-40	殖民統治	殖民统治	zhímín tǒngzhì		to colonise and rule	slides quizlet ankiweb ddsg ccc
+B3L11-II-41	味噌湯	味噌汤	wèizēng tāng		miso soup (Japanese food)	slides quizlet ankiweb ddsg ccc
+B3L11-II-43	進一步	进一步	jìn yí bù		further	ankiweb ccc book
+B3L12-I-05	遊行	游行	yóuxíng	N	demonstration, rally	slides quizlet ddsg ccc book
+B3L12-I-17	由	由	yóu	Prep	up to, by (a doer)	slides quizlet ankiweb ddsg ccc
+B3L12-I-27	投票權	投票权	tóupiàoquán	N	right to vote, suffrage	mquizlet
+B3L12-I-29	權利	权利	quánlì	N	right	slides quizlet ankiweb ddsg ccc
+B3L12-I-40	推銷員	推销员	tuīxiāoyuán	N	salesperson	ankiweb ccc book
+B3L12-II-18	暫時	暂时	zhànshí	Adv	temporarily, for the time being	slides quizlet ddsg book
+B3L12-II-23	弱勢	弱势	ruòshì	N	disadvantaged (lit. weak power)	slides quizlet ankiweb ddsg ccc
+B3L12-II-27	義務	义务	yìwù	Adv	to volunteer, on a voluntary basis, to do something gratis	slides quizlet ankiweb ccc book
+B3L12-II-33	辭掉	辞掉	cídiào		to quit, resign	slides quizlet ankiweb ddsg ccc
+B3L12-II-36	中間選民	中间选民	zhōngjiān xuǎnmín		swing voters	slides quizlet ankiweb ccc book
+B4L01-I-03	聊天室	聊天室	liáotiānshì	N	chatroom (室 -shì, room)	slides quizlet ankiweb book
+B4L01-I-04	上班族	上班族	shàngbānzú	N	(office) workers (族 -zú, group)	slides quizlet ankiweb book
+B4L01-I-05	與其	与其	yǔqí	Conj	rather than...	slides quizlet book
+B4L01-I-12	恐怖片	恐怖片	kǒngbùpiàn	N	horror movie (恐怖 kǒngbù, scary; 片 -piàn, film)	slides quizlet ankiweb book
+B4L01-I-13	愛情片	爱情片	àiqíngpiàn	N	love story or romance movie (愛情 àiqíng, love)	slides book
+B4L01-I-18	簡直	简直	jiǎnzhí	Adv	simply, really	slides quizlet ankiweb ccc book
+B4L01-I-21	限制級	限制级	xiànzhìjí	N	restricted (viewing for movies) (限制 xiànzhì, restricted; 級 -jí, level)	quizlet ankiweb book
+B4L01-I-26	室內設計	室内设计	shìnèi shèjì		interior design	slides quizlet ankiweb ddsg ccc
+B4L01-II-01	溫暖	温暖	wēnnuǎn	Vs	warm	slides quizlet ankiweb ccc book
+B4L01-II-08	後	后	hòu	N	afterwards (formal)	slides quizlet ankiweb ddsg ccc
+B4L01-II-09	解決	解决	jiějué	V	to take care	slides quizlet ankiweb ccc book
+B4L01-II-11	網友	网友	wǎngyǒu	N	online friends	slides quizlet ankiweb ccc book
+B4L01-II-13	電腦	电脑	diànnǎo	N	computer	slides quizlet ankiweb ddsg ccc
+B4L01-II-19	往往	往往	wǎngwǎng	Adv	oftentimes, generally	slides quizlet ankiweb ddsg ccc
+B4L01-II-23	大膽	大胆	dàdǎn	Vs	to be bold, courageous	slides quizlet ankiweb ccc book
+B4L01-II-25	轉換	转换	zhuǎnhuàn	V	to change, transform	slides quizlet ankiweb ccc book
+B4L01-II-26	虛擬	虚拟	xūnǐ	Vs-attr	virtual	slides quizlet ankiweb ddsg ccc
+B4L01-II-27	現實	现实	xiànshí	Vs	actual, real	slides quizlet ankiweb ccc book
+B4L01-II-28	心理	心理	xīnlǐ	N	psychological, mental	slides quizlet ankiweb ddsg ccc
+B4L01-II-39	明星高中	明星高中	míngxīng gāozhōng		distinguished, exclusive high school	ankiweb ddsg book
+B4L01-II-40	早出晚歸	早出晚归	zǎochū wǎnguī		to leave home early and get home late	slides quizlet ankiweb ddsg ccc
+B4L01-II-42	喘不過氣	喘不过气	chuǎnbúguò qì		to be under great pressure, (lit.) unable to breathe	slides quizlet ankiweb ddsg ccc
+B4L02-I-05	打扮	打扮	dǎbàn	V	to put on makeup	slides quizlet ddsg ccc book
+B4L02-I-06	音樂廳	音乐厅	yīnyuètīng	N	music hall, concert hall (廳 -tīng, hall)	slides ankiweb book
+B4L02-I-07	表演	表演	biǎoyǎn	N/V	performance; to perform	slides quizlet ankiweb ccc book
+B4L02-I-10	丟臉	丢脸	diūliǎn	Vs-sep	to lose face, to be embarrassed	slides quizlet ankiweb ddsg ccc
+B4L02-I-14	演出者	演出者	yǎnchūzhě	N	performer (演出 yǎnchū, to perform; 者 -zhě, person)	slides quizlet book
+B4L02-I-15	尊重	尊重	zūnzhòng	Vst	to respect	slides quizlet ankiweb ccc book
+B4L02-I-18	中場	中场	zhōngchǎng	N	intermission, halftime	slides quizlet ankiweb ddsg ccc
+B4L02-I-20	禮貌	礼貌	lǐmào	N	courtesy	slides quizlet ankiweb ccc book
+B4L02-I-24	咳嗽	咳嗽	késòu	Vi	to cough	slides quizlet ankiweb ddsg ccc
+B4L02-I-28	手冊	手册	shǒucè	N	programme, manual	slides quizlet ankiweb ddsg ccc
+B4L02-I-29	洗手間	洗手间	xǐshǒujiān	N	restroom (間 -jiān, part of 房間, room)	slides quizlet ankiweb book
+B4L02-I-35	聯絡感情	联络感情	liánluò gǎnqíng		to get to know each other better to strengthen ties with each other	slides quizlet ddsg book
+B4L02-II-02	強調	强调	qiángdiào	V	to stress	slides quizlet ankiweb ccc book
+B4L02-II-04	千萬	千万	qiānwàn	Adv	by all means	slides quizlet ankiweb ccc book
+B4L02-II-09	畫	画	huà	V/N	to paint; painting	slides quizlet ankiweb ddsg ccc
+B4L02-II-16	之	之	zhī	Ptc	of (from classical Chinese, roughly equivalent to the modern Chinese 的)	slides quizlet book
+B4L02-II-19	所	所	suǒ	Ptc	a verbal marker (marking what comes after as a verb)	slides quizlet ankiweb ddsg ccc
+B4L02-II-23	得	得	dé	Vpt	to get, obtain, receive	slides quizlet ankiweb ccc book
+B4L02-II-26	或	或	huò	Conj	or	slides quizlet quizlet ankiweb ddsg ccc book
+B4L02-II-28	留意	留意	liúyì	Vst	to pay attention to, take note of	slides quizlet ankiweb ccc book
+B4L02-II-37	無人不知無人不曉	无人不知无人不晓	wúrén bùzhī wúrén bùxiǎo		known to all	ankiweb ddsg ccc
+B4L02-II-38	百聞不如一見	百闻不如一见	bǎiwén bùrú yíjiàn		seeing it once is better than hearing about it a hundred times	slides quizlet ankiweb ddsg ccc
+B4L02-II-43	口腹之慾	口腹之欲	kǒufù zhīyù		the desire of one's palate	slides quizlet ankiweb ddsg
+B4L03-I-01	李文麗	李文丽	Lǐ Wénlì		Li Wenli, female	slides quizlet ankiweb ddsg ccc
+B4L03-I-02	外婆	外婆	wàipó	N	grandma	slides quizlet ankiweb ccc book
+B4L03-I-10	仿冒品	仿冒品	fǎngmàopǐn	N	knock-off, counterfeit product (仿冒 fǎngmào, counterfeit; 品 -pǐn, product)	ankiweb ccc book
+B4L03-I-13	落差	落差	luòchā	N	difference	slides quizlet ankiweb ccc book
+B4L03-I-17	嘛	嘛	ma	Ptc	sentence particle,'it is obvious that'	quizlet
+B4L03-I-18	慣	惯	guàn	Ptc	to get used to, accustomed to etc...	slides quizlet book
+B4L03-I-19	瀏覽	浏览	liúlǎn	V	to browse, surf (the internet)	slides quizlet ankiweb ddsg ccc
+B4L03-I-24	盜用	盗用	dàoyòng	V	to hack, use illegitamately	slides quizlet
+B4L03-I-25	認證	认证	rènzhèng	V/N	to certify; certification	slides quizlet ankiweb ddsg ccc
+B4L03-I-26	銀髮族	银发族	yínfǎzú	N	senior citizens, seniors (銀 yín, silver; 髮 fǎ, hair)	ankiweb ddsg book
+B4L03-I-27	從前	从前	cóngqián	N	in the past, before, formerly	slides quizlet ankiweb ddsg ccc
+B4L03-I-30	付款	付款	fùkuǎn	V-sep	to make payment	slides quizlet ankiweb ddsg ccc
+B4L03-I-31	雲端科技	云端科技	yúnduān kējì		cloud/internet technology	slides quizlet book
+B4L03-I-34	退換	退换	tuì huàn		to return, to exchange for something else	slides quizlet ankiweb ddsg ccc
+B4L03-II-03	距離	距离	jùlí	N	distance	slides ankiweb ddsg ccc book
+B4L03-II-07	取得	取得	qǔdé	V	to obtain, access	slides quizlet ankiweb ccc book
+B4L03-II-09	民眾	民众	mínzhòng	N	the public, people in general	slides quizlet ankiweb ddsg ccc
+B4L03-II-21	原本	原本	yuánběn	Adv	originally	slides quizlet ankiweb ddsg ccc
+B4L03-II-33	視力	视力	shìlì	N	vision, eyesight	slides quizlet ankiweb ddsg ccc
+B4L03-II-46	總而言之	总而言之	zǒng'ér yánzhī		in conclusion, to sum up, in short	slides quizlet ankiweb ddsg
+B4L04-I-03	總算	总算	zǒngsuàn	Adv	finally	slides quizlet ankiweb ccc book
+B4L04-I-11	風水師	风水师	fēngshuǐshī	N	Feng Shui master, geomancer (風水 fēngshuǐ, Feng Shui; 師 -shī, master)	slides quizlet ankiweb book
+B4L04-I-19	布置	布置	bùzhì	N/V	décor, layout, arrangement; to decorate, to arrange furniture	slides quizlet ankiweb ddsg ccc
+B4L04-I-28	床腳	床脚	chuángjiǎo	N	foot of the bed	slides quizlet ankiweb ddsg ccc
+B4L04-I-30	擺飾	摆饰	bǎishì	N	décor, ornaments	slides quizlet ankiweb ddsg ccc
+B4L04-I-32	把	把	bǎ	M	measure word for objects that can be grasped or objects with a handle, e.g., umbrella, knife	slides quizlet ankiweb ddsg ccc
+B4L04-I-34	風水學	风水学	Fēngshuǐxué		the study of Feng Shui, geomancy (學 -xué, study, -ology)	slides quizlet book
+B4L04-I-36	譬如說	譬如说	pìrú shuō		for example	slides quizlet ankiweb ddsg ccc
+B4L04-I-38	死定了	死定了	sǐdìngle		(You're) a dead man; You're toast	mquizlet
+B4L04-II-02	便利性	便利性	biànlìxìng	N	convenience (性 -xìng, property, suffix indicating that a term is a noun)	slides quizlet ankiweb book
+B4L04-II-05	詞	词	cí	N	term, word	ankiweb book
+B4L04-II-06	西元	西元	Xīyuán	N	A.D.	slides quizlet ankiweb ccc
+B4L04-II-11	塑造	塑造	sùzào	V	to shape	slides quizlet ankiweb ccc book
+B4L04-II-21	聚寶盆	聚宝盆	jùbǎopén	N	treasure basin, similar to a cornucopia but filled with treasure (聚 -jù, to gather; 寶 -bǎo, treasure; 盆 -pén, basin)	slides ankiweb book
+B4L04-II-25	錢幣	钱币	qiánbì	N	coins, currency	ankiweb book
+B4L04-II-31	如意	如意	rúyì	N	ruyi, scepter, s-shaped ornamental object that brings good luck	slides quizlet ankiweb ddsg ccc
+B4L04-II-33	偶然	偶然	ǒurán	Vs	random, accidental, chancy	slides quizlet ankiweb ccc book
+B4L04-II-39	松智路	松智路	Sōngzhì Lù		Songzhi Road	slides quizlet ankiweb ddsg ccc
+B4L04-II-40	一命二運三風水	一命二运三风水	yímìng èryùn sānfēngshuǐ		Fate is most important. Luck is second. Feng Shui is third.	slides quizlet ankiweb ccc book
+B4L04-II-42	咬錢龜	咬钱龟	yǎoqián guī		money-biting turtle	slides quizlet ankiweb ddsg ccc
+B4L05-I-04	採訪	采访	cǎifǎng	V	to interview	slides quizlet ankiweb ccc book
+B4L05-I-10	學士	学士	xuéshì	N	bacheloars, college degree	slides quizlet
+B4L05-I-22	逃避	逃避	táobì	V	to evade, escape	slides quizlet ankiweb ccc book
+B4L05-I-25	啃老族	啃老族	kěnlǎozú	N	a "sponge", a "parasite", somebody who feeds off the old (啃老 kěnlǎo, live off one's parents, lit. gnaw on the old)	slides quizlet book
+B4L05-I-26	收攤	收摊	shōutān	V-sep	to close up shop (said of street stalls)	slides quizlet ankiweb ddsg ccc
+B4L05-I-27	清潔隊員	清洁队员	qīngjié duìyuán		cleaning squad, street cleaners (清潔 qīngjié, to clean; 隊員 -duìyuán, team member)	slides book
+B4L05-I-30	話說回來	话说回来	huàshuō huílái		on the other hand, however	slides quizlet ankiweb ddsg ccc
+B4L05-II-06	勉強	勉强	miǎnqiǎng	Adv	barely, with great reluctance	slides quizlet ankiweb ccc book
+B4L05-II-08	組織	组织	zǔzhī	N	organization	slides quizlet ankiweb ccc book
+B4L05-II-09	抗議	抗议	kàngyì	V	to protest against	slides quizlet ankiweb ddsg ccc
+B4L05-II-11	房價	房价	fángjià	N	housing prices	slides quizlet ankiweb ddsg ccc
+B4L05-II-13	造成	造成	zàochéng	Vpt	to cause, produce, make	slides quizlet ankiweb ccc book
+B4L05-II-33	餐飲業	餐饮业	cānyǐnyè	N	food and beverage industry	slides quizlet ankiweb ddsg ccc
+B4L05-II-36	挑戰	挑战	tiǎozhàn	N	challenge	slides quizlet ankiweb ccc book
+B4L05-II-43	無殼蝸牛	无壳蜗牛	wúké guāniú		"snails without shells" (people who cannot afford to buy their own home)	slides quizlet book
+B4L05-II-44	貧富不均	贫富不均	pínfù bùjūn		gap between the rich and the poor, unequal distribution of wealth	slides quizlet ankiweb book
+B4L05-II-47	恨不得	恨不得	hènbùdé		to be dying to, desperately	slides quizlet ankiweb ccc book
+B4L05-II-49	一片天	一片天	yípiàntiān		"place in the sun", a job that makes you happy and provides you with all the money and things that you want, paradise	slides quizlet book
+B4L06-I-03	搖	摇	yáo	Vp	to rock, shake	slides quizlet ankiweb ddsg ccc
+B4L06-I-08	斷	断	duàn	Vp	to break, snap	slides quizlet ankiweb ddsg ccc
+B4L06-I-09	多	多	duó	Adv	so	ankiweb ccc book
+B4L06-I-16	雞	鸡	jī	N	chicken	slides quizlet ankiweb ddsg ccc
+B4L06-I-25	嫌	嫌	xián	Vst	to grumble	slides quizlet ankiweb ccc book
+B4L06-I-28	西歐	西欧	Xī Ōu		Western Europe	slides ankiweb ddsg ccc book
+B4L06-I-29	北歐	北欧	Běi Ōu		Northern Europe	slides ankiweb ddsg ccc book
+B4L06-I-30	中歐	中欧	Zhōng Ōu		Central Europe	slides ankiweb ddsg ccc book
+B4L06-I-31	澳洲	澳洲	Àozhōu		Australia	slides ankiweb ddsg ccc book
+B4L06-I-35	天搖地動	天摇地动	tiānyáo dìdòng		swaying heavens and trembling earth, earth-shaking	quizlet ankiweb ccc book
+B4L06-I-37	災情慘重	灾情惨重	zāiqíng cǎnzhòng		in serious disaster	slides quizlet ankiweb ccc book
+B4L06-I-38	東半部	东半部	dōngbànbù		the eastern half	ankiweb ccc book
+B4L06-I-39	地震帶	地震带	dìzhèn dài		seismic zone, earthquake belt	slides quizlet ankiweb ddsg ccc
+B4L06-I-41	有備無患	有备无患	yǒubèi wúhuàn		be prepared, be on the safe side	slides quizlet ankiweb ddsg ccc
+B4L06-II-03	發達	发达	fādá	Vs	advanced, developed	ankiweb ccc book
+B4L06-II-11	必需品	必需品	bìxūpǐn	N	necessities (必需 bìxū, essential, indispensable)	slides quizlet ankiweb book
+B4L06-II-16	狀況	状况	zhuàngkuàng	N	situation, circumstance	ankiweb book
+B4L06-II-18	停電	停电	tíngdiàn	Vp-sep	to have a power outage	slides quizlet ankiweb ddsg ccc
+B4L06-II-19	黑暗	黑暗	hēi'àn	N	the darkness	slides quizlet ddsg
+B4L06-II-36	堅固	坚固	jiāngù	Vs	strong, firm, solid	slides quizlet ankiweb ddsg ccc
+B4L06-II-43	指示	指示	zhǐshì	N	instructions, commands	slides quizlet ankiweb ddsg ccc
+B4L07-I-04	學弟	学弟	xuédì	N	male lower classmate	slides quizlet ankiweb ddsg ccc
+B4L07-I-05	彈	弹	tán	V	to play (piano, guiter)	slides quizlet
+B4L07-I-09	學長	学长	xuézhǎng	N	male upper classmate	slides quizlet ankiweb ddsg ccc
+B4L07-I-21	訓練	训练	xùnliàn	N/V	training; to train	slides quizlet ankiweb ddsg ccc
+B4L07-I-25	二分之一	二分之一	èrfēn zhīyī		1/2	slides quizlet ankiweb ccc book
+B4L07-I-26	一下…一下…	一下…一下…	yíxià...yíxià...		measure phrase, describing fast-changing alternating scenes of two activities	ankiweb ccc book
+B4L07-I-27	到時候	到时候	dào shíhòu		at that time, when the time comes	slides quizlet ankiweb ddsg ccc
+B4L07-I-28	談戀愛	谈恋爱	tán liànài		to be in love, go steady (said of dating couples)	slides quizlet book
+B4L07-II-02	目光	目光	mùguāng	N	eyes, gaze	slides quizlet ankiweb ccc book
+B4L07-II-03	移動	移动	yídòng	Vi	to move	slides quizlet ankiweb ccc book
+B4L07-II-08	學生會	学生会	xuéshēnghuì	N	student union (會 -huì, organization)	slides quizlet ankiweb book
+B4L07-II-09	會長	会长	huìzhǎng	N	president of an association, club etc... (長 -zhǎng, head)	ankiweb book
+B4L07-II-11	隊員	队员	duìyuán	N	team member (員 -yuán, member, person)	slides quizlet ankiweb book
+B4L07-II-12	高大	高大	gāodà	Vs	tall and big, bulky	slides ankiweb ddsg ccc book
+B4L07-II-17	情人節	情人节	qíngrénjié	N	Valentine's Day (節 -jié, holiday, day)	slides ankiweb book
+B4L07-II-18	親手	亲手	qīnshǒu	Adv	personally, with one's own hands	slides quizlet ankiweb ddsg
+B4L07-II-20	當天	当天	dāngtiān	N	that day	slides quizlet ankiweb ccc book
+B4L07-II-23	告白	告白	gàobái	Vi	to confess	slides quizlet ankiweb ccc book
+B4L07-II-35	安全感	安全感	ānquángǎn	N	the feeling of security (感 -gǎn, sense/feeling of)	slides ankiweb ddsg ccc book
+B4L07-II-42	何清源	何清源	Hé Qīngyuán		a male college student	slides quizlet ankiweb ddsg ccc
+B4L08-I-13	婚姻	婚姻	hūnyīn	N	marriage	slides quizlet ankiweb ddsg ccc
+B4L08-I-17	推行	推行	tuīxíng	V	to promote	slides quizlet ankiweb ccc book
+B4L08-I-18	生育	生育	shēngyù	V/N	to have babies; reproduction, childbirth	slides quizlet ankiweb ddsg ccc
+B4L08-I-21	夫婦	夫妇	fūfù	N	husband and wife, couple (夫 -fū, man; 婦 -fù, woman)	slides quizlet book
+B4L08-I-25	婦產科	妇产科	fùchǎnkē	N	obstetrics and gynecology, OB/GYN (婦 -fù, woman; 產 -chǎn, produce; 科 -kē, department)	slides quizlet ankiweb book
+B4L08-I-27	補習班	补习班	bǔxíbān	N	cram school (補習 bǔxí, supplement studies; 班 -bān, class)	slides quizlet ankiweb ccc book
+B4L08-I-28	不可思議	不可思议	bùkě sīyì		hard to comprehend, beyond logic, unbelievable	slides quizlet ankiweb ccc book
+B4L08-I-29	有話直說	有话直说	yǒuhuà zhíshuō		to be frank, don't hold anything back, spit it out	slides quizlet ankiweb book
+B4L08-I-31	不足為奇	不足为奇	bùzú wéiqí		nothing strange, not surprising at all	slides quizlet ankiweb ccc book
+B4L08-I-32	遠遠	远远	yuǎnyuǎn		by far	slides quizlet ankiweb ccc book
+B4L08-I-33	傳宗接代	传宗接代	chuánzōng jiēdài		carry on the family line	slides quizlet ankiweb ccc book
+B4L08-I-34	無拘無束	无拘无束	wújū wúshù		carefree, free, do as one pleases	slides quizlet ankiweb ccc book
+B4L08-II-02	生育率	生育率	shēngyùlǜ	N	birth rate (率 -lǜ, rate)	slides quizlet ankiweb ccc
+B4L08-II-07	行業	行业	hángyè	N	businesses, walks of life	slides quizlet ankiweb ccc book
+B4L08-II-13	少子化	少子化	shǎozǐhuà	Vp	low birth rate (少, few; 子, children; 化 -huà, -ize, suffix indicating tranformation)	slides quizlet book
+B4L08-II-15	兒童	儿童	értóng	N	child(ren)	mquizlet
+B4L08-II-29	延長	延长	yáncháng	V	to extended, make longer	slides quizlet ankiweb ccc mquizlet
+B4L08-II-45	財政	财政	cáizhèng	N	finance	slides quizlet ankiweb ccc
+B4L08-II-48	正	正	zhèng	Adv	during the process of	slides quizlet ankiweb ccc
+B4L09-I-07	據說	据说	jùshuō	V	it is said	slides quizlet ankiweb ddsg ccc
+B4L09-I-18	風光	风光	fēngguāng	N	glory	slides quizlet ankiweb ddsg ccc
+B4L09-I-24	時期	时期	shíqí	N	period, age	slides quizlet ankiweb ccc book
+B4L09-I-35	淡水河	淡水河	Dànshuǐ Hé		Tamsui River (河 -hé,river)	Place slides quizlet book
+B4L09-I-36	萬華	万华	Wànhuá		Wanhua	slides quizlet ankiweb ccc book
+B4L09-I-40	滿山遍野	满山遍野	mǎnshān biànyě		all over the mountains and plains	slides ankiweb ddsg ccc book
+B4L09-I-44	垂涎三尺	垂涎三尺	chuíxián sānchǐ		to salivate over, make one's mouth water	slides quizlet ankiweb book
+B4L09-II-03	佔	占	zhàn	Vst	constitute (same as "占")	slides book
+B4L09-II-06	往來	往来	wǎnglái	N	dealings, contact	slides quizlet ankiweb ddsg ccc
+B4L09-II-24	筆	笔	bǐ	M	sum (of money)	slides quizlet ankiweb ddsg ccc
+B4L09-II-25	仍然	仍然	réngrán	Adv	still	slides quizlet ankiweb ddsg ccc
+B4L09-II-28	究竟	究竟	jiùjìng	Adv	after all, in the end, actually	slides quizlet ankiweb ccc book
+B4L09-II-29	內心	内心	nèixīn	N	in one's heart, heart of hearts, innermost being	slides quizlet ankiweb ddsg
+B4L09-II-33	逃難	逃难	táonàn	Vi	to flee from war, natural disaster etc.	slides quizlet
+B4L09-II-36	遭遇	遭遇	zāoyù	N/V	(unhappy) experiences, happenings; to encounter, to have met with	slides quizlet ankiweb ddsg ccc
+B4L09-II-38	老張	老张	Lǎo Zhāng		Lao Zhang, a nickname for someone whose surname is Zhang	ankiweb ccc book
+B4L09-II-39	文化大革命	文化大革命	Wénhuà Dà Gémìng		Cultural Revolution (1966 ~ 1976)	ankiweb ccc book
+B4L09-II-41	身強體壯	身强体壮	shēnqiáng tǐzhuàng		strong and healthy	slides quizlet ankiweb ddsg ccc
+B4L09-II-42	離鄉背井	离乡背井	líxiāng bèijǐng		to leave one's hometown to become a stranger else where	slides quizlet ddsg book
+B4L09-II-43	飄洋過海	飘洋过海	piāoyáng guòhǎi		to sail cross the sea	slides quizlet ankiweb ddsg ccc
+B4L09-II-44	朝思暮想	朝思暮想	zhāosī mùxiǎng		to be a miss day and night	slides quizlet book
+B4L09-II-47	刻骨銘心	刻骨铭心	kègǔ míngxīn		unforgettable, to be imprinted hard in one's mind	slides ankiweb book
+B4L10-I-01	何建明	何建明	Hé Jiànmíng		a male college graduate	ankiweb ccc book
+B4L10-I-18	畢業生	毕业生	bìyèshēng	N	graduate	ankiweb ccc book
+B4L10-I-19	大一	大一	dàyī	N	freshman, first-year university student (大二 sophomore, 大三 junior, 大四 senior)	ankiweb ccc book
+B4L10-I-25	音樂會	音乐会	yīnyuèhuì	N	concert	ankiweb ccc book
+B4L10-I-45	自我介紹	自我介绍	zìwǒ jièshào		self-introduction	slides quizlet ankiweb ccc book
+B4L10-II-07	青年	青年	qīngnián	N	young people, youth	slides quizlet ankiweb ddsg ccc
+B4L10-II-10	料	料	liào	N	material, (here) a person not suited for...	slides quizlet ankiweb ccc book
+B4L10-II-17	技巧	技巧	jìqiǎo	N	tips	slides quizlet ankiweb ccc book
+B4L10-II-24	是…的料	是…的料	shì...de liào		to be gifted in...	slides quizlet ankiweb ccc book
+B4L10-II-26	提不起（勇氣）	提不起（勇气）	tíbùqǐ (yǒngqì)		unable to raise...to a high level to pump up (enough courage)	book
+B4L10-II-27	養家活口	养家活口	yǎngjiā huókǒu		support one's family	slides quizlet ankiweb book
+B4L10-II-28	來自	来自	láizì		from 來 + literary preposition 自 "from" = 從...來	book
+B4L10-II-29	熟讀	熟读	shóudú		to keep reading something until one remembers everything	slides quizlet ankiweb ccc book
+B4L10-II-30	考古題	考古题	kǎogǔtí		test items from previous years (題 -tí, for test items)	slides ankiweb ddsg ccc book
+B4L10-II-32	深藍色	深蓝色	shēnlánsè		dark blue	book
+B4L11-I-02	熔爐	熔炉	rónglú	N	melting pot, smelting furnace, crucible	slides quizlet ankiweb ddsg ccc
+B4L11-I-11	縣	县	xiàn	N	county	slides quizlet ankiweb ddsg ccc
+B4L11-I-16	溝通	沟通	gōutōng	N	communication	slides quizlet ankiweb ddsg ccc
+B4L11-I-17	障礙	障碍	zhàng'ài	N	obstacle, handicap	slides quizlet ddsg
+B4L11-I-18	良好	良好	liánghǎo	Vs	positive	slides quizlet ankiweb ccc book
+B4L11-I-21	衝擊	冲击	chōngjí	N	impact	slides quizlet ankiweb ccc book
+B4L11-I-22	大眾	大众	dàzhòng	N	the public, the masses	slides quizlet ankiweb ddsg ccc
+B4L11-I-27	移入	移入	yírù	V	to immigrate (入, enter, into (formal))	slides quizlet ankiweb book
+B4L11-I-32	子女	子女	zǐnǚ	N	children (from 兒子+女兒)	slides ankiweb ddsg ccc
+B4L11-I-38	聯絡	联络	liánluò	V	to contact, to connect with	ankiweb ccc book
+B4L11-I-41	氣人	气人	qìrén		exasperating, annoying	slides quizlet ankiweb ddsg ccc
+B4L11-I-42	照說	照说	zhào shuō		to keep on saying...	slides quizlet ankiweb ccc book
+B4L11-I-43	在…之餘	在…之余	zài...zhīyú		to do something at a time when not doing...	slides quizlet ankiweb ccc book
+B4L11-I-45	自己人	自己人	zìjǐrén		one of us, one of our own, compatriots	slides quizlet ankiweb ddsg ccc
+B4L11-I-46	哪裡！哪裡！	哪里！哪里！	nǎlǐ nǎlǐ		not at all, not a problem, you're welcome	slides quizlet book
+B4L11-II-02	曾	曾	céng	Adv	have been before, was once (formal)	ankiweb ccc book
+B4L11-II-06	轉變	转变	zhuǎnbiàn	N	change, transformation	slides quizlet ankiweb ddsg ccc
+B4L11-II-09	本國	本国	běnguó	N	our country	slides ankiweb ddsg ccc book
+B4L11-II-11	大陸籍	大陆籍	Dàlùjí	N	from Mainland China, (lit. Mainland nationality) (籍 -jí, nationality)	slides quizlet ankiweb ddsg ccc
+B4L11-II-12	其	其	qí	Det	his, her, its, their (formal)	slides ankiweb ddsg ccc book
+B4L11-II-16	現有	现有	xiànyǒu	Vs-attr	current, existing	slides quizlet ankiweb ccc book
+B4L11-II-17	分配	分配	fēnpèi	N/V	distribution; to distribute, allocate	mquizlet
+B4L11-II-18	顧慮	顾虑	gùlǜ	Vst	to be concerned about	slides quizlet ankiweb ccc book
+B4L11-II-24	輔導	辅导	fǔdǎo	V	to counsel	slides quizlet ankiweb ccc book
+B4L11-II-31	紀錄	纪录	jìlù	N	record	slides quizlet ankiweb ddsg ccc
+B4L11-II-35	高齡化	高龄化	gāolínghuà	Vp	for a population to become aged/geriatric	slides quizlet ankiweb ddsg ccc
+B4L11-II-43	總人數	总人数	zǒng rénshù		total population	slides quizlet ankiweb ddsg ccc
+B4L11-II-46	生產力	生产力	shēngchǎn lì		productivity	slides quizlet ankiweb ddsg ccc
+B4L11-II-47	一較長短	一较长短	yíjiào chángduǎn		to compete, to compare against	slides quizlet ankiweb ddsg ccc
+B4L12-I-01	王安康	王安康	Wáng Ānkāng		Wang Ankang, male	ankiweb ccc book
+B4L12-I-05	無所謂	无所谓	wúsuǒwèi	Vs	I don't care; does not bother me	slides quizlet ankiweb ddsg
+B4L12-I-09	殘留	残留	cánliú	N	residue	slides quizlet ankiweb ddsg ccc
+B4L12-I-11	法規	法规	fǎguī	N	laws and regulations, statutes	slides quizlet ankiweb ddsg ccc
+B4L12-I-14	脫離	脱离	tuōlí	Vpt	to be separate oneself from, break away from	slides quizlet ddsg
+B4L12-I-28	生命	生命	shēngmìng	N	life	slides quizlet ankiweb ddsg ccc
+B4L12-I-36	困境	困境	kùnjìng	N	dire situation, straits	slides quizlet ankiweb ddsg ccc
+B4L12-I-38	小自…大至…	小自…大至…	xiǎo zì...dà zhì...		from such trivialities to such major concerns (自, from (formal); 至, to (formal))	slides quizlet book
+B4L12-I-40	照理說	照理说	zhào lǐ shuō		normally	slides quizlet ankiweb ddsg ccc
+B4L12-II-02	貪汙	贪污	tānwū	Vp	to graft, to demand	slides quizlet ankiweb ddsg ccc
+B4L12-II-14	無能	无能	wúnéng	Vs	incompetent	slides quizlet ankiweb ddsg ccc
+B4L12-II-33	老人年金	老人年金	lǎorén niánjīn		annuity payment for senior citizens (provided by The National Pension Program in Taiwan)	slides quizlet ankiweb ccc book
+B4L12-II-37	發言權	发言权	fāyán quán		right to speak, (here) a voice (in politics, etc.)	slides quizlet ankiweb ddsg ccc
+B5L01-I-0-02	界線	界线	jièxiàn	N	boundaries, demarcation	slides ankiweb ddsg ccc
+B5L01-I-0-03	臉書	脸书	Liǎnshū	N	Facebook	ankiweb ccc book
+B5L01-I-0-04	則	则	zé	M	measure for short, usually formal writings	slides ankiweb ddsg ccc
+B5L01-I-0-06	停止	停止	tíngzhǐ	Vp	to call off, cease	mquizlet
+B5L01-I-05	發表	发表	fābiǎo	V	issue, publish (articles, news story), deliver (speeches)	slides ankiweb ddsg ccc
+B5L01-I-08	無能	无能	wúnéng	Vs	incompetent, inept, weak	mquizlet
+B5L01-I-11	接收	接收	jiēshōu	V	to receive	slides ankiweb ddsg ccc
+B5L01-I-13	處罰	处罚	chǔfá	V	to punish	slides ankiweb ccc book
+B5L01-I-17	胡作非為	胡作非为	húzuò fēiwéi	Id	run amok, engage in lawless activities	slides ankiweb ddsg ccc
+B5L01-I-22	盲點	盲点	mángdiǎn	N	blind spot	slides ankiweb ddsg ccc
+B5L01-I-26	無理取鬧	无理取闹	wúlǐ qǔnào	Id	act up, have tantrums, talk nonsense and cause trouble	slides ankiweb ddsg ccc
+B5L01-I-27	指正	指正	zhǐzhèng	V	to point out mistakes, correct	slides ankiweb ddsg ccc
+B5L01-I-28	一來一往	一来一往	yìlái yìwǎng	Id	amidst exchanges (of opinions)	slides ankiweb ddsg ccc
+B5L01-I-30	越辯越明	越辩越明	yuèbiàn yuèmíng	Id	the more s/t is debated, the clearer it becomes	slides ankiweb ddsg ccc
+B5L01-I-31	共識	共识	gòngshì	N	consensus	slides ankiweb ddsg ccc
+B5L01-I-37	仇恨	仇恨	chóuhèn	N	hatred, enmity, hostility	slides ankiweb ddsg ccc
+B5L01-I-40	霸凌	霸凌	bàlíng	N/V	bully; to bully	slides ankiweb ddsg ccc
+B5L01-I-41	負責	负责	fùzé	Vs	to take responsibility for	slides ankiweb ddsg ccc
+B5L01-II-08	隨意	随意	suíyì	Adv	arbitrarily, as one pleases	slides ankiweb ddsg ccc
+B5L01-II-09	鄉民	乡民	xiāngmín	N	netizens, general public	slides ankiweb ccc book
+B5L01-II-12	惡意	恶意	èyì	Adv/N	maliciously, viciously; ill intention	mquizlet
+B5L01-II-15	護身符	护身符	hùshēnfú	N	amulet, charm, protective talisman	slides ankiweb ddsg ccc
+B5L01-II-25	則	则	zé	Adv	to express contrast with previous sentence	slides ankiweb ddsg ccc
+B5L01-II-30	管	管	guǎn	V	to mind, watch (one's behavior, etc.)	slides ankiweb ddsg
+B5L01-II-34	模糊	模糊	móhú	Vs	ambiguous, vague	slides ankiweb ddsg ccc
+B5L02-I-01	基改	基改	jīgǎi	N	基 = 基因, 改 = 改造 (see Book 3)	ankiweb book
+B5L02-I-02	農糧	农粮	nóngliáng	N	農 = 農作物, crop; 糧 = 糧食, food	ankiweb book
+B5L02-I-05	聽眾	听众	tīngzhòng	N	listening audience, listeners	slides ankiweb ddsg ccc
+B5L02-I-13	贊成	赞成	zànchéng	Vst	to approve, in favor	slides ankiweb ccc book
+B5L02-I-16	種子	种子	zhǒngzǐ	N	seed	slides ankiweb ddsg ccc
+B5L02-I-17	比如說	比如说	bǐrú shuō	Ph	for example	slides ankiweb ccc book
+B5L02-I-30	好幾（種）	好几（种）	hǎojǐ zhǒng	Ph	a number of, quite a few kinds of	book
+B5L02-I-32	突破	突破	túpò	Vpt	to make a breakthrough, top, break (a record, number)	slides ankiweb ddsg ccc
+B5L02-I-37	抵抗力	抵抗力	dǐkàng lì	N	resistance, immunity	slides ankiweb ddsg ccc
+B5L02-I-40	飢荒	饥荒	jīhuāng	N	famine	slides ankiweb ddsg ccc FlaggedTrad
+B5L02-I-44	密不可分	密不可分	mìbù kěfēn	Id	inseparable, integrated with	slides ankiweb ddsg ccc
+B5L02-I-47	依賴	依赖	yīlài	Vst	to rely on, depend on	ankiweb ccc book
+B5L02-I-51	機構	机构	jīgòu	N	organization, depts. of gov't	slides ankiweb ddsg
+B5L02-I-52	證據	证据	zhèngjù	N	proof, evidence	slides ankiweb ddsg ccc
+B5L02-I-62	標示	标示	biāoshì	V/N	to label; mark	slides ankiweb ddsg ccc
+B5L02-II-02	不孕	不孕	búyùn	Vs	infertile, barren	mquizlet
+B5L02-II-10	雜誌	杂志	zázhì	N	magazine, journal	slides ankiweb ddsg ccc
+B5L02-II-17	收購	收购	shōugòu	V	to acquire, buy out	mquizlet
+B5L02-II-21	非	非	fēi	Vst	not (classical Chinese)	slides ankiweb ddsg ccc
+B5L02-II-24	總用量	总用量	zǒng yòngliàng	Ph	total dosage	slides ankiweb ddsg ccc
+B5L02-II-35	付出	付出	fùchū	V	to pay (a heavy price for)	slides ankiweb ccc book
+B5L03-I-0-01	風氣	风气	fēngqì	N	ethos, mood (said of society, a nation, etc.)	mquizlet
+B5L03-I-0-02	開放	开放	kāifàng	N	(nominalized from its verb form) to open up to the outside world; liberal, non-conservative	mquizlet
+B5L03-I-01	內在	内在	nèizài	N	internal quality	slides ankiweb ddsg ccc
+B5L03-I-03	勝	胜	shèng	Vst	be superior to, to win (classical Chinese)	slides ankiweb ddsg ccc
+B5L03-I-10	鼻子	鼻子	bízi	N	nose	slides ankiweb ddsg ccc
+B5L03-I-14	豐胸	丰胸	fēngxiōng	N	large breasts	slides ankiweb ddsg ccc
+B5L03-I-16	水汪汪	水汪汪	shuǐwāngwāng	Vs	to be "doe-eyed"	slides ankiweb ddsg ccc
+B5L03-I-18	眼光	眼光	yǎnguāng	N	judgment, how others look at you	slides ankiweb ddsg ccc
+B5L03-I-21	美滿	美满	měimǎn	Vs	happy, fulfilled (said of families, lives, marriages, etc.)	slides ankiweb ddsg ccc
+B5L03-I-30	同樣	同样	tóngyàng	Vs	in the same way; similar	slides ankiweb ddsg ccc
+B5L03-I-33	投資	投资	tóuzī	V/N	to invest; investment	slides ankiweb ddsg ccc
+B5L03-I-34	行為	行为	xíngwéi	N	behavior	slides ankiweb ddsg ccc
+B5L03-I-39	大小不一	大小不一	dàxiǎo bùyī	Id	in different sizes, of various sizes	slides ankiweb ddsg ccc
+B5L03-I-43	飽受	饱受	bǎoshòu	Vpt	to suffer greatly from	slides ankiweb ccc book
+B5L03-I-46	多麼	多么	duōme	Adv	how	slides ankiweb ddsg ccc
+B5L03-II-01	吹	吹	chuī	V	to blow (used in the text to mean a trend has been "circulating" or "stirring")	slides book
+B5L03-II-03	極具	极具	jíjù	Vst	to strongly possess (classical Chinese)	slides ankiweb ddsg ccc
+B5L03-II-07	列入	列入	lièrù	V	to include, take into	slides ankiweb ddsg ccc
+B5L03-II-10	時尚	时尚	shíshàng	N	fashion, trend	slides ankiweb ddsg ccc
+B5L03-II-20	生來	生来	shēnglái	Ph	from birth (= 出生以來)	book
+B5L03-II-39	身體髮膚受之父母	身体发肤受之父母	shēntǐ fǎfū, shòuzhī fùmǔ	Id	your body, from your hair to your skin, is a gift from your parents (suggests that you have a responsibility to cherish and care for it)	slides ankiweb ddsg book
+B5L03-II-41	理會	理会	lǐhuì	V	to pay attention to	slides ankiweb ccc book
+B5L03-II-42	有何不可	有何不可	yǒuhé bùkě	Id	What's wrong with that? and why not? what's the harm in that?	slides ankiweb ddsg
+B5L04-I-0-01	刪減	删减	shānjiǎn	V	to cut, cut back on (as in funds, personnel, etc.)	slides ankiweb ccc book
+B5L04-I-0-06	主張	主张	zhǔzhāng	V/N	to advocate a view or a standard	slides ankiweb ccc book
+B5L04-I-0-11	兩方	两方	liǎngfāng	N	both parties, the two sides	slides ankiweb ddsg ccc
+B5L04-I-0-12	激烈	激烈	jīliè	Vs	intense, fierce	mquizlet
+B5L04-I-04	座	座	zuò	M	measure for large objects like mountains, castles, gigantic temples on hilltops	slides ankiweb ddsg ccc
+B5L04-I-18	過人	过人	guòrén	Vs	insurpassable	slides ddsg book
+B5L04-I-19	熟練	熟练	shóuliàn	Vs	adept, skillful, proficient	slides ankiweb ddsg ccc
+B5L04-I-28	歐元	欧元	Ōuyuán	N	Euro	book
+B5L04-I-38	海明威	海明威	Hǎimíngwēi	N	Ernest Hemmingway	slides ankiweb ddsg ccc
+B5L04-I-40	小說	小说	xiǎoshuō	N	novel	slides ankiweb ddsg ccc
+B5L04-I-44	由來已久	由来已久	yóulái yǐjiǔ	Id	age-old	slides ankiweb ddsg ccc
+B5L04-II-01	過時	过时	guòshí	Vs	passé, obsolete	slides ankiweb ddsg ccc
+B5L04-II-04	觀眾	观众	guānzhòng	N	viewing audience	slides ankiweb ddsg ccc
+B5L04-II-06	幕	幕	mù	M	measure for scenes	slides ankiweb ccc book
+B5L04-II-07	血淋淋	血淋淋	xiělínlín	Vs	bloody, gory	slides ankiweb ddsg ccc
+B5L04-II-08	畫面	画面	huàmiàn	N	scene, graphics	slides ankiweb ddsg ccc
+B5L04-II-09	頭	头	tóu	M	measure for cattle (i.e., a head of cattle)	slides ankiweb ddsg ccc
+B5L04-II-13	俗話	俗话	súhuà	N	saying	slides ankiweb ddsg ccc
+B5L04-II-21	不人道	不人道	bùréndào	Vs	inhumane	slides ankiweb ddsg ccc
+B5L04-II-25	社群	社群	shèqún	N	social group, community (as in social network, social media)	slides ankiweb ccc book
+B5L04-II-27	刊登	刊登	kāndēng	V	(for a media) to carry (a photo, article), publish	slides ankiweb ccc book
+B5L04-II-37	澈底	澈底	chèdǐ	Adv	completely, thoroughly	slides ankiweb ddsg ccc
+B5L05-I-0-03	名	名	míng	M	measure for people (formal)	slides ankiweb ddsg ccc
+B5L05-I-0-07	對	对	duì	M	measure for things or people that come in matching pairs	slides ankiweb
+B5L05-I-0-08	委託	委托	wěituō	V/N	to commission, to charge with; commission	slides ankiweb ccc book
+B5L05-I-0-12	任	任	rèn	M	measure for terms (e.g., first term as president)	slides ankiweb ccc
+B5L05-I-0-15	毛遂自薦	毛遂自荐	máosuì zìjiàn	Id	volunteer one's services, recommend oneself	slides ankiweb book
+B5L05-I-0-16	日新月異	日新月异	rìxīn yuèyì	Id	to advance with each passing day	slides ankiweb ddsg ccc
+B5L05-I-03	千辛萬苦	千辛万苦	qiānxīn wànkǔ	Id	untold hardships, innumerable trials and tribulations	slides ankiweb ccc book
+B5L05-I-05	皆	皆	jiē	Adv	all (same as 都 but formal)	slides ankiweb ccc book
+B5L05-I-08	代孕	代孕	dàiyùn	Vi	to surrogate, to perform surrogacy	ankiweb ccc book
+B5L05-I-10	破碎	破碎	pòsuì	Vs	to break, shatter	slides ankiweb ddsg ccc
+B5L05-I-20	倒數	倒数	dàoshǔ	Vs-attr	counting backward, from the end, from the bottom of the list (in English, 倒數第二名 can be translated "second worst/lowest/least")	ankiweb ccc book
+B5L05-I-21	始終	始终	shǐzhōng	Adv	all the while, all along, invariably	slides ankiweb ccc book
+B5L05-II-01	固然	固然	gùrán	Adv	granted, certainly, while it is definitely true that	slides ankiweb ccc book
+B5L05-II-02	交易	交易	jiāoyì	Vi	to trade, transact, carry out a transaction	slides ankiweb ddsg ccc
+B5L05-II-04	族群	族群	zúqún	N	group of people (e.g., ethnic group, disadvantaged group)	slides ankiweb ccc book
+B5L05-II-06	階級	阶级	jiējí	N	class (in society)	slides ankiweb ddsg ccc
+B5L05-II-07	間接	间接	jiànjiē	Adv	indirectly	slides ankiweb ddsg ccc
+B5L05-II-23	搞定	搞定	gǎodìng	V	to have it resolved	slides ankiweb ccc book
+B5L06-I-0-02	存廢	存废	cúnfèi	N	preservation or abolishment, to preserve or to abolish (contracted word from 保存 + 廢除)	ankiweb ddsg ccc book
+B5L06-I-06	黑心	黑心	hēixīn	Vs-attr	darkened heart; evil mind (黑心食品 = unsafe food, i.e., made by profit-oriented people/companies with no conscience)	slides ankiweb ddsg ccc
+B5L06-I-08	法官	法官	fǎguān	N	judge	slides ankiweb ddsg ccc
+B5L06-I-09	判	判	pàn	V	to judge, rule, give sentencing	slides ankiweb ddsg ccc
+B5L06-I-10	有期徒刑	有期徒刑	yǒuqí túxíng	Ph	prison term (sentencing with a fixed prison term)	slides ankiweb ccc book
+B5L06-I-18	出獄	出狱	chūyù	Vi	to be released from prison (監獄, jiānyù, prison)	slides ankiweb book
+B5L06-I-19	把	把	bǎ	M	measure for "graspable" objects like rulers, chairs, salt etc.	slides book
+B5L06-I-30	闖紅燈	闯红灯	chuǎng hóngdēng	Ph	run a red light (闖, to rush, break through; 紅燈, red light)	ankiweb book
+B5L06-I-35	相較於	相较于	xiāngjiào yú	Ph	in comparison to, compared to (classical Chinese)	slides ankiweb ccc book
+B5L06-I-46	置身事外	置身事外	zhìshēn shìwài	Id	to remain aloof, sit on the sidelines, not be involved	slides ankiweb ccc book
+B5L06-I-48	凶手	凶手	xiōngshǒu	N	murderer, killer	slides ankiweb ddsg ccc
+B5L06-I-52	心痛	心痛	xīntòng	Ph	the pain in one's heart, heartbreak, heartache	slides ankiweb book
+B5L06-I-57	剛剛好	刚刚好	gānggāng hǎo	Ph	just right, just enough, just the right amount, time, color, etc. (meaning here: justice done)	slides ankiweb ddsg ccc
+B5L06-II-01	無濟於事	无济于事	wújì yúshì	Id	to not help the situation, does not do anybody good, of no use	mquizlet
+B5L06-II-03	推動	推动	tuīdòng	V	to promote, push	slides ankiweb ddsg ccc
+B5L06-II-04	漫漫長路	漫漫长路	mànmàn chánglù	Id	a long road, there is still a long way to go	slides ankiweb ddsg ccc
+B5L06-II-07	費	费	fèi	V	to exert (lit. pay out)	slides ankiweb ddsg ccc
+B5L06-II-11	犯案	犯案	fàn'àn	Vp-sep	to be implicated in a crime	slides ddsg
+B5L06-II-14	誤判	误判	wùpàn	V/N	to err in judicial judgement; erroneous judgement, miscarriage of justice	slides ankiweb ccc book
+B5L06-II-27	感受	感受	gǎnshòu	N	feelings	slides ankiweb ddsg ccc
+B5L06-II-28	只是	只是	zhǐshì	Adv	but at the same time, we must realize that	ankiweb ccc book
+B5L06-II-29	一命還一命	一命还一命	yímìng huán yímìng	Id	a life for a life, an eye for an eye	slides ankiweb ddsg ccc
+B5L06-II-31	也就是說	也就是说	yějiùshìshuō	Ph	that is to say, that is, i.e.,	ankiweb ccc book
+B5L06-II-32	歐盟	欧盟	Ōuméng	N	the EU, European Union	ankiweb ccc book
+B5L07-I-0-01	傷腦筋	伤脑筋	shāng nǎojīn	Id	to cause a headache, a pain in the neck, to be knotty/troublesome (said of issues or problems)	slides ankiweb ccc book
+B5L07-I-06	（一）大半	（一）大半	(yí) dàbàn	Ph	a huge portion of, more than half	ankiweb ccc
+B5L07-I-10	可憐	可怜	kělián	Vs	pitiful, pitiable, poor	ankiweb ccc book
+B5L07-I-11	相依為命	相依为命	xiāngyī wéimìng	Id	to depend on each other (for survival)	slides ankiweb ccc
+B5L07-I-13	懂事	懂事	dǒngshì	Vs	sensible, to have a good head on one's shoulders	ankiweb book
+B5L07-I-18	家產	家产	jiāchǎn	N	family property	slides ankiweb ccc
+B5L07-I-23	袖手旁觀	袖手旁观	xiùshǒu pángguān	Id	stand by and watch, sit there twiddling one's thumbs, not lift a finger	slides ankiweb
+B5L07-I-27	等同	等同	děngtóng	Vst	tantamount to, equivalent to	ankiweb ccc book
+B5L07-I-29	分子	分子	fènzǐ	N	member (of an organisation)	slides book
+B5L07-II-01	哈佛大學	哈佛大学	Hāfó Dàxué	N	Harvard University	slides ankiweb ccc
+B5L07-II-02	課堂	课堂	kètáng	N	classroom	slides ankiweb ccc
+B5L07-II-15	眾人	众人	zhòngrén	N	people in general, the multitude	slides ankiweb ccc
+B5L07-II-22	無所事事	无所事事	wúsuǒ shìshì	Id	have nothing to do, to lay idle (here, unemployed)	slides ankiweb ccc
+B5L07-II-27	歪理	歪理	wāilǐ	N	preposterous argument (i.e., that's dumb! What idiot thought that up?!)	slides ankiweb book
+B5L07-II-28	米蟲	米虫	mǐchóng	N	sponge, parasite (lit. a rice bug)	slides ankiweb ccc
+B5L07-II-31	強制	强制	qiǎngzhì	Adv	by force into, coerced into	ankiweb ccc book
+B5L07-II-42	強盜	强盗	qiángdào	N	robber	slides ankiweb ccc
+B5L08-I-0-01	左右為難	左右为难	zuǒyòu wéinán	Id	in a dilemma, be in a bind, in a predicament, in a fix	slides ankiweb ddsg ccc
+B5L08-I-0-03	男童	男童	nántóng	N	boy, male child	slides ankiweb ddsg ccc
+B5L08-I-0-05	震驚	震惊	zhènjīng	Vpt	to shock, stun, startle	slides ankiweb ddsg ccc
+B5L08-I-02	化	化	huà	V	to turn into, change into, convert into, transform into	slides ankiweb ccc book
+B5L08-I-05	難以數計	难以数计	nányǐ shùjì	Id	countless (lit. hard to calculate)	slides ankiweb ddsg ccc
+B5L08-I-09	聯合國	联合国	Liánhéguó	N	United Nations, UN	slides ankiweb ddsg ccc
+B5L08-I-10	止	止	zhǐ	Ptc	until (classical Chinese)	slides ankiweb ddsg ccc
+B5L08-I-16	高峰會	高峰会	gāofēng huì	N	Summit (meeting)	slides ankiweb ddsg ccc
+B5L08-I-17	領袖	领袖	lǐngxiù	N	leader, head of a state	slides ankiweb ddsg ccc
+B5L08-I-20	前-	前-	qián	N	former-, ex-	slides book
+B5L08-I-21	歐巴馬	欧巴马	Ōubāmǎ	N	Barack Obama (former US president)	ankiweb ddsg ccc book
+B5L08-I-23	主義	主义	zhǔyì	N	"-ism" (as in terrorism, Communism)	slides ddsg book
+B5L08-I-24	受害者	受害者	shòuhàizhě	N	victim	slides ankiweb ccc book
+B5L08-I-30	收容	收容	shōuróng	V	to offer refuge to	slides ankiweb ddsg ccc
+B5L08-I-33	轉化	转化	zhuǎnhuà	Vi	to change into, transform into	slides ankiweb ddsg ccc
+B5L08-I-35	奧運	奥运	Àoyùn	N	Olympics	ankiweb ddsg ccc book
+B5L08-I-43	身分	身分	shēnfèn	N	identification	slides ankiweb ddsg ccc
+B5L08-I-45	之後	之后	zhīhòu	N	subsequent to that	slides ankiweb ccc book
+B5L08-I-47	膚色	肤色	fūsè	N	skin color	slides ankiweb ddsg ccc
+B5L08-II-08	對立	对立	duìlì	Vs	to oppose, be in opposition to, be antagonistic	slides ankiweb ccc book
+B5L08-II-09	罷了	罢了	bàle	Ptc	merely, that's it, that is all	slides ankiweb ddsg
+B5L08-II-11	每況愈下	每况愈下	měikuàng yùxià	Id	to deteriorate, go downhill, go from bad to worse	slides ankiweb ccc book
+B5L08-II-16	有機可乘	有机可乘	yǒujī kěchéng	Id	take advantage of a situation	slides ankiweb ddsg ccc
+B5L08-II-19	升高	升高	shēnggāo	Vp	to increase, rise	slides ankiweb ccc book
+B5L08-II-20	在在	在在	zàizài	Adv	in all aspects (classical Chinese)	slides ankiweb ddsg ccc
+B5L08-II-21	設置	设置	shèzhì	V	to establish, set up	slides ankiweb ccc book
+B5L08-II-26	交託	交托	jiāotuō	V	to entrust (one's safety, life, etc.) to	slides ankiweb ddsg
+B5L08-II-38	首要之務	首要之务	shǒuyào zhīwù	Id	top/first priority, the most important issue	slides ankiweb ddsg ccc
+B5L09-I-01	遠處	远处	yuǎnchù	N	a distant location	slides ankiweb ccc book
+B5L09-I-03	外洩	外泄	wàixiè	Vi	to leak	slides ankiweb ddsg ccc
+B5L09-I-15	列為	列为	lièwéi	Vst	to be ranked as, listed as	slides ankiweb ddsg ccc
+B5L09-I-21	及時	及时	jíshí	Adv	in time, in a timely manner	slides ankiweb ddsg ccc
+B5L09-I-22	顆	颗	kē	M	measure for round objects, e.g., bombs	slides ankiweb ddsg ccc
+B5L09-I-27	歐洲癌症護理雜誌	欧洲癌症护理杂志	Ōuzhōu Áizhèng Hùlǐ Zázhì	Ph	European Journal of Cancer Care	book
+B5L09-II-06	視為	视为	shìwéi	Vst	to regard as	slides ankiweb ddsg ccc
+B5L09-II-08	定時	定时	dìngshí	Vs-attr	to be fixed in time (定時炸彈 = time bomb)	slides ankiweb ccc book
+B5L09-II-10	水力	水力	shuǐlì	N	water power, hydropower	slides ankiweb ddsg ccc
+B5L09-II-14	機率	机率	jīlǜ	N	chance (of something happening), likelihood	slides ankiweb ccc book
+B5L09-II-15	雷	雷	léi	N	lightening	slides ddsg
+B5L09-II-18	有利	有利	yǒulì	Vs	beneficial to	slides ankiweb ddsg ccc
+B5L09-II-19	二氧化碳	二氧化碳	Èryǎnghuàtàn	N	carbon dioxide	slides ddsg mquizlet
+B5L09-II-29	高額	高额	gāo'é	Vs-attr	high (amount of money, tariff, profit, etc.)	slides ddsg
+B5L09-II-38	優良	优良	yōuliáng	Vs	fine, excellent, good	slides ankiweb ccc book
+B5L09-II-39	民生	民生	mínshēng	N	people's well-being/livelihood	slides ankiweb ddsg
+B5L10-I-08	盡快	尽快	jìnkuài	Adv	as soon/quickly as possible	slides ankiweb ddsg ccc
+B5L10-II-06	駐外	驻外	zhùwài	Vi	to be stationed abroad	slides ankiweb ddsg ccc
+B5L10-II-13	交配	交配	jiāopèi	Vi	to mate, copulate	slides ankiweb ddsg ccc
+B5L10-II-16	互補	互补	hùbǔ	Vs	to complement each other	slides ankiweb ddsg ccc
+B5L10-II-25	干涉	干涉	gānshè	V	to interfere	slides ankiweb ddsg ccc
+B5L10-II-28	第三者	第三者	dìsānzhě	Ph	"third party" (i.e., the "other man/woman")	slides ankiweb ccc book
+B5L10-II-30	無異	无异	wúyì	Vs	not different from, the same as, tantamount to	slides ankiweb ccc book
+B5L10-II-37	燈光	灯光	dēngguāng	N	lights	slides ankiweb ccc book
+B6L01-I-0-01	職校	职校	zhíxiào	N	vocational school	mquizlet
+B6L01-I-03	總要	总要	zǒngyào	Vaux	to have to	slides ankiweb ccc
+B6L01-I-04	嚴陣以待	严阵以待	yánzhèn yǐdài	Id	be ready for, be standing by, lit. wait in full battle array	slides ankiweb ccc
+B6L01-I-06	分析	分析	fēnxī	V	to analyze	slides ankiweb ccc
+B6L01-I-07	身為	身为	shēnwéi	Vst	as, in the capacity of	slides ankiweb ccc
+B6L01-I-09	一技在身	一技在身	yíjì zàishēn	Id	to have a skill	slides ankiweb ccc
+B6L01-I-13	製造業	制造业	zhìzàoyè	N	manufacturing industry (製造, zhìzào, V, manufacturing; -業, -yè, N, industry)	slides ankiweb ccc
+B6L01-I-14	上工	上工	shànggōng	Vi	to start work, to work independently without supervision	slides ankiweb ccc
+B6L01-I-15	關鍵	关键	guānjiàn	N	the key to, key	slides ankiweb ccc
+B6L01-I-17	中、小型企業	中、小型企业	zhōng, xiǎo xíng qìyè	Ph	small and medium-sized enterprises (SMEs)	slides ankiweb ccc
+B6L01-I-T-02	洛桑管理學院	洛桑管理学院	Luòsāng guǎnlǐ xuéyuàn		Lausanne Institute (for Management Development)	slides ankiweb ccc
+B6L01-II-12	轉向	转向	zhuǎnxiàng	V	to shift, change directions	mquizlet
+B6L01-II-22	低價	低价	dījià	N	low price, discount	mquizlet
+B6L01-II-23	傾銷	倾销	qīngxiāo	V	to dump (products)	book
+B6L01-II-24	消滅	消灭	xiāomiè	V	to be eliminated, displaced	book
+B6L01-III-12	奮鬥（史）	奋斗（史）	fèndòu (shǐ)	Vi	work hard, struggle; -史, -shǐ, N, history	book
+B6L01-III-T-01	教部（＝教育部）	教部（＝教育部）	Jiāobù (= Jiāoyùbù)		Ministry of Education	book
+B6L01-III-T-02	曾信哲	曾信哲	Zēng Xìnzhé		Mark Tseng (the chairman of ARITEX, specializes in the manufacturing of hardware accessories for luxury yachts)	
+B6L01-III-T-03	屏東	屏東	Píngdōng		Pingtung, southern Taiwan	book
+B6L01-III-T-04	九如	九如	Jiǔrú		Jiuru, a village in Pingtung	book
+B6L02-I-08	配	配	pèi	V	to get (glasses), to fill (a prescription), to mix and match (clothes) etc. (In this lesson, 'to have eye-glasses fitted at an optical store, without a doctor's prescription, a common practice in Taiwan.)	slides
+B6L02-I-13	估計	估计	gūjì	Vi	to estimate	slides
+B6L02-I-15	自行	自行	zìxíng	Adv	by oneself, on one's own	slides
+B6L02-I-17	副	副	fù	M	measure for (bad) attitudes, (high-brow) appearances, glasses	mquizlet
+B6L02-I-28	大放光明	大放光明	dàfàng guāngmíng	Ph	shine forth in glory, have a great ray of light (in the text, it is a play on words)	slides
+B6L02-I-34	貢獻	贡献	gòngxiàn	N	contribution	slides
+B6L02-I-T-01	牛津大學	牛津大学	Niújīn Dàxué		Oxford University	slides
+B6L02-I-T-02	喬許．席爾佛	乔许．席尔佛	Qiáoxǔ Xí'ěrfó		Professor Joshua Silver (a UK physicist whose discoveries have included a new way to change the curvature of lenses, and the chief executive of the Centre for Vision in the Developing World at the University of Oxford)	slides
+B6L02-II-03	習以為常	习以为常	xíyǐ wéicháng	Id	be used to, accustomed to, no stranger to	slides
+B6L02-II-10	有損	有损	yǒusǔn	Vst	to cause damage to, be harmful to	mquizlet
+B6L02-II-16	室內	室内	shìnèi	N	indoor	slides
+B6L02-II-20	動用	动用	dòngyòng	V	to disburse, mobilize	mquizlet
+B6L02-II-22	物力	物力	wùlì	N	coined on the basis of 人力, referring in this lesson to (heavy) equipment	mquizlet
+B6L02-II-26	固態光源（SSL）	固态光源（SSL）	gùtài guāngyuán	Ph	solid state lighting	slides
+B6L02-II-27	簡稱	简称	jiǎnchēng	N	abbreviation	slides
+B6L02-II-29	日光板	日光板	rìguāngbǎn	N	solar panel (日光, rìguāng, N, sunlight; 板, bǎn, N, board)	mquizlet
+B6L02-II-32	發光二極體（LED）	发光二极管（LED）	fāguāng èrjítǐ	Ph	light emitting diode	slides
+B6L02-II-35	群眾	群众	qúnzhòng	N	the masses, people, crowds	slides
+B6L02-II-36	剝奪	剥夺	bōduó	V	to deprive (of)	mquizlet
+B6L02-II-T-01	爾文．哈樂戴	尔文．哈乐戴	Ěrwén Hālèdài		Dave Irvine-Halliday (a Canadian photonics specialist, his Light Up the World (LUTW) project is to bring affordable lighting to the developing world through the introduction of solid state lighting (SSL) based on light emitting diodes (LEDs))	slides
+B6L02-II-T-02	卡加利大學	卡加利大学	Kǎjiālì Dàxué		University of Calgary, Canada	slides
+B6L03-I-01	舞蹈家	舞蹈家	wǔdàojiā	N	professional and accomplished dancer (家, -jiā, N, -er, -ian, -ist)	slides
+B6L03-I-06	傳人	传人	chuánrén	N	successor	slides
+B6L03-I-15	邀約	邀约	yāoyuē	N	invitation	mquizlet
+B6L03-I-18	傳承	传承	chuánchéng	V	to pass down, to pass along	slides
+B6L03-I-23	首席	首席	shǒuxí	N	first chair (e.g., first cello), leading, chief position	slides
+B6L03-I-27	化為	化为	huàwéi	Vpt	to transform into, to turn into, to change into	slides
+B6L03-I-28	作品	作品	zuòpǐn	N	production, work, composition	mquizlet
+B6L03-I-36	剎那	剎那	chànà	N	moment, instant	slides
+B6L03-I-T-01	生身不息	生身不息	Shēngshēn Bùxí		timeless (name of a dance program)	book
+B6L03-I-T-03	勞勃．阿特曼	劳勃．阿特曼	Láobó Ātèmàn		Robert Altman (an American film director, screenwriter, and producer, five-time nominee of the Academy Award for Best Director, 1925-2006)	book
+B6L03-I-T-04	舞動世紀	舞动世纪	Wǔdòng Shìjì		The Company (name of a movie, 2003)	book
+B6L03-I-T-05	瑪莎．葛蘭姆	马莎．葛兰姆	Mǎshā Gělánmǔ		Martha Graham (an American modern dancer and choreographer, one of the earliest founders of modern dance, 1894-1991)	slides
+B6L03-I-T-07	阿喀郎．汗	阿喀郎．汗	Ākèláng Hàn		Akram Khan (an English dancer of Bangladeshi descent, 1974-)	book
+B6L03-I-T-08	克理斯多福．惠爾敦	克理斯多福．惠尔敦	Kèlǐsīduōfú Huì'ěrdūn		Christopher Wheeldon (an English international choreographer of contemporary ballet, 1973-)	slides
+B6L03-I-T-10	溫蒂．威倫	温迪．威伦	Wēndì Wēilún		Wendy Whelan (a principal dancer with the New York City Ballet and is a guest artist with The Royal Ballet and the Kirov Ballet, 1967-)	slides
+B6L03-I-T-11	華岡藝校	华冈艺校	Huágāng Yìxiào		Taipei Hwa Kang Arts School	slides
+B6L03-II-02	不間斷（地）	不间断（地）	bú jiànduàn (de)	Adv	without interruption	slides
+B6L03-II-27	加諸（在）	加诸（在）	jiāzhū (zài)	V	to be added to, conferred upon	slides
+B6L03-II-28	沖昏頭	冲昏头	chōnghūn tóu	Ph	to let something get to your head, let your head swell from (praise, pride, etc.), dazzled by	slides
+B6L03-II-37	不自覺	不自觉	búzìjué	Adv	unconsciously, without realizing it	slides
+B6L03-II-T-01	羅斯．帕克斯	罗斯．帕克斯	Luósī Pàkèsī		Ross Parkes (formerly a principal dancer for the well-known Martha Graham Dance Company in the United States, 1940-)	book
+B6L04-I-0-01	做人	做人	zuòrén	Vi	to conduct oneself, to behave	mquizlet
+B6L04-I-0-04	真誠	真诚	zhēnchéng	Vs	sincere, sincerity	mquizlet
+B6L04-I-0-06	親和力	亲和力	qīnhélì	N	likeability, affinity	slides
+B6L04-I-11	悅耳	悦耳	yuè'ěr	Vs	pleasant sounding, pleasant to the ears	mquizlet
+B6L04-I-16	記住	记住	jìzhù	V	remember	book
+B6L04-I-19	自顧自（地）	自顾自（地）	zìgùzì (de)	Adv	only thinking about yourself, without taking others into consideration	book
+B6L04-I-26	罰站	罚站	fázhàn	V-sep	to be punished by being made to stand	mquizlet
+B6L04-I-27	聽教	听教	tīngjiào	Vi	to listen (somebody's "preaching", advice, etc.), be read the riot act	slides
+B6L04-I-T-01	黑幼龍	黑幼龙	Hēi Yòulóng		John Hei (the Greater China Group Leader of Carnegie training, who introduced Carnegie training to Taiwan in 1987, 1940-)	slides
+B6L04-II-01	心坎	心坎	xīnkǎn	N	from the bottom of one's heart, one's heart of hearts	slides
+B6L04-II-11	性格	性格	xìnggé	N	character, personality	mquizlet
+B6L04-II-15	發自	发自	fāzì	Vst	originate from, from, s/t finds its source in	slides
+B6L04-II-31	藉著	借着	jièzhe	Prep	by means of, relying on	book
+B6L04-II-T-01	威廉．詹姆士	威廉．詹姆士	Wēilián Zhānmǔshì		William James (an American philosopher and psychologist, and one of the leading thinkers of the late nineteenth century, while others have labeled him the "Father of American psychology", 1842-1910)	book
+B6L04-III-01	機緣	机缘	jīyuán	N	connections to great opportunities	book
+B6L04-III-02	飯店	饭店	fàndiàn	N	hotel (modern, especially in Taiwan)	book
+B6L04-III-03	伸	伸	shēn	V	to extend, stretch	book
+B6L04-III-04	名片	名片	míngpiàn	N	business card	book
+B6L04-III-05	正	正	zhèng	Adv	just, exactly	book
+B6L04-III-06	夢寐以求	梦寐以求	mèngmèi yǐqiú	Id	dream (as in 'a dream job')	book
+B6L04-III-07	直覺（地）	直觉（地）	zhíjué (de)	Adv	intuitively	book
+B6L04-III-08	淡季	淡季	dànjì	N	low season, off season	book
+B6L04-III-09	吃了一驚	吃了一惊	chīle yìjīng	Ph	be greatly surprised, taken aback, caught off guard	book
+B6L04-III-10	忠誠	忠诚	zhōngchéng	Vs/N	faithful; faithfulness, fidelity	book
+B6L04-III-11	跳槽	跳槽	tiàocáo	Vi	to change jobs, go job-hopping	book
+B6L04-III-12	等候	等候	děnghòu	V	wait, wait for (formal)	book
+B6L05-I-12	焦急	焦急	jiāojí	Vs	anxious	mquizlet
+B6L05-I-15	臨時	临时	línshí	Vs-attr/Adv	temporary, impromptu	book
+B6L05-I-16	口譯	口译	kǒuyì	N/V	(oral) interpretation; to interpret	mquizlet
+B6L05-I-18	道謝	道谢	dàoxiè	V-sep	to say thank to, to express appreciation to	slides
+B6L05-I-30	接軌	接轨	jiēguǐ	Vi	to integrate with (another entity), to get in step with, (lit. connect rails)	book
+B6L05-I-31	身在	身在	shēnzài	Vst	(of a person) located, to be (somewhere)	book
+B6L05-II-04	拋	抛	pāo	V	to toss, to throw, cast aside	slides
+B6L05-II-18	拼音	拼音	pīnyīn	N	Romanization, spelling	slides
+B6L05-II-26	景觀	景观	jǐngguān	N	view, landscape, scenery	slides
+B6L05-II-43	自大	自大	zìdà	Vs	arrogant, conceited, swelled-head	slides
+B6L05-II-T-01	捷克	捷克	Jiékè		the Czech Republic	slides
+B6L06-I-0-02	人見人愛	人见人爱	rénjiàn rén'ài	Id	everybody loves, loved by all	slides
+B6L06-I-0-07	沾染	沾染	zhānrǎn	Vpt	soiled with, tainted with, stained with	mquizlet
+B6L06-I-05	產下	产下	chǎnxià	Vpt	to give birth to	mquizlet
+B6L06-I-06	雙胞胎	双胞胎	shuāngbāotāi	N	twins	slides
+B6L06-I-17	夫人	夫人	fūrén	N	wife of a prominent figure, lady, madam	slides
+B6L06-I-19	救濟	救济	jiùjì	V	to provide relief to, relief	mquizlet
+B6L06-I-32	訪問	访问	fǎngwèn	V	to visit, to interview; visit, interview	slides
+B6L06-I-T-01	甜甜	甜甜	Tiántián		Tian Tian (貓熊名)	slides
+B6L06-I-T-03	美香	美香	Měixiāng		Mei Xiang (貓熊名)	slides
+B6L06-I-T-04	圓仔	圆仔	Yuánzǎi		Yuan Zai (貓熊名)	slides
+B6L06-I-T-05	唐朝/代	唐朝/代	Tángcháo/dài		Tang Dynasty (618-907)	mquizlet
+B6L06-I-T-06	武則天	武则天	Wǔzétiān		Wu Zetian (the only female monarch of China, 624-705)	mquizlet
+B6L06-I-T-07	天武天皇	天武天皇	Tiānwǔ tiānhuáng		Emperor Temmu (the 40th Emperor of Japan, 631-686)	mquizlet
+B6L06-I-T-08	宋美齡	宋美龄	Sòng Měilíng		Soong May-ling (Madame Chiang Kai-shek, 1897-2003)	mquizlet
+B6L06-II-02	吸金	吸金	xījīn	Vi	to bring in (revenue)	mquizlet
+B6L06-II-05	抵達	抵达	dǐdá	Vpt	to arrive at	mquizlet
+B6L06-II-18	有利可圖	有利可图	yǒulì kětú	Id	profitable, promise to be profitable	slides
+B6L06-II-29	進展	进展	jìnzhǎn	N/Vi	progress; to progress	book
+B6L06-II-T-01	尼克森	尼克松	Níkèsēn		Richard Nixon (the 37th President of U.S.A, 1913-1994)	book
+B6L06-II-T-03	周恩來	周恩来	Zhōu Ēnlái		Zhou Enlai (the 1st to 4th prime minister of the People's Republic of China, 1898-1976)	book
+B6L06-II-T-06	華盛頓	华盛顿	Huáshèngdùn		Washington (the capital of U.S.A)	slides
+B6L06-II-T-11	迎新	迎新	Yíngxīn		Ying Xin (貓熊名)	mquizlet
+B6L06-II-T-13	美國聯邦漁業和野生動物管理局	美国联邦渔业和野生动物管理局	Měiguó liánbāng yúyè hàn yěshēng dòngwù guǎnlǐ jú		FWS: United States Fish and Wildlife Service	slides
+B6L06-II-T-14	四川臥龍自然保護區	四川卧龙自然保护区	Sìchuān Wòlóng zìrán bǎohù qū		Sichuan Wolong National Nature Reserves	mquizlet
+B6L07-I-0-06	苦澀	苦涩	kǔsè	Vs/N	bitter; bitterness	mquizlet
+B6L07-I-13	俊男美女	俊男美女	jùnnán měinǚ	Ph	good-looking man and/or woman	slides
+B6L07-I-27	當頭棒喝	当头棒喝	dāngtóu bànghè	Id	give a sharp warning, give a wakeup call, wake you up	slides
+B6L07-I-30	破綻	破绽	pòzhàn	N	flaw, hole (in logic, etc.), fault	slides
+B6L07-I-32	勇敢	勇敢	yǒnggǎn	Vs	courageous	book
+B6L07-I-40	提早	提早	tízǎo	Adv	early, ahead of time	mquizlet
+B6L07-I-43	逼出	逼出	bīchū	V	to force out, to realize	mquizlet
+B6L07-I-46	發揮	发挥	fāhuī	V	to instigate, to implement, to promote	slides
+B6L07-II-21	說理	说理	shuōlǐ	Vi	to reason, to rationalize things	mquizlet FlaggedPOSSep
+B6L07-II-23	不由自主	不由自主	bùyóu zìzhǔ	Id	cannot help but (do s/t), involuntarily	slides
+B6L07-II-31	說話不算話	说话不算话	shuōhuà bú suànhuà	Ph	to not keep your word, your word means nothing	slides
+B6L07-II-39	親身	亲身	qīnshēn	Adv	personally, first-hand	slides
+B6L08-I-02	強心針	强心针	qiángxīnzhēn	N	strongest encouragement, 'a shot in the arm'	slides
+B6L08-I-06	脫穎而出	脱颖而出	tuōyǐng érchū	Id	stand out from (the rest)	slides
+B6L08-I-07	申奧＝申請奧運	申奥＝申请奥运	shēn'Ào (shēnqǐng Àoyùn)	Ph	to apply to host the Olympics	slides
+B6L08-I-08	宣傳	宣传	xuānchuán	N	promotion, propaganda	slides
+B6L08-I-10	項目	项目	xiàngmù	N	items, events (of competitions)	slides
+B6L08-I-13	贊助	赞助	zànzhù	V/N	to sponsor; sponsorship, financial support	mquizlet
+B6L08-I-16	蓬勃	蓬勃	péngbó	Adv	vigorously	slides
+B6L08-I-19	歸於	归于	guīyú	Vst	to end up in	mquizlet
+B6L08-I-20	前車之鑑	前车之鉴	qiánchē zhījiàn	Id	mistakes made by those who came before, lessons from history, instructive precedents	slides
+B6L08-I-31	花費	花费	huāfèi	V/N	to spend; expenditures	book
+B6L08-I-39	專屬	专属	zhuānshǔ	N	exclusive characteristic	slides
+B6L08-I-42	足以	足以	zúyǐ	Adv	enough to, be sufficient to	slides
+B6L08-I-T-02	奧林匹克運動會	奥林匹克运动会	Àolínpīkè yùndònghuì		Olympic Games	slides
+B6L08-I-T-04	蒙特婁	蒙特娄	Méngtèlóu		Montreal, Canada	mquizlet
+B6L08-II-11	接下	接下	jiēxià	V	to agree to	mquizlet
+B6L08-II-22	總共	总共	zǒnggòng	Adv	in total, altogether	slides
+B6L08-II-27	蚊子館	蚊子馆	wénziguǎn	Ph	white elephant, i.e., government projects on which huge amounts of money are spent, but after they are completed or used for a certain purpose, they are not used again. They are populated only by mosquitos.	slides
+B6L08-II-31	四年一度	四年一度	sìnián yídù	Ph	once every four years	slides
+B6L08-II-32	有/無福消受	有/无福消受	yǒu/wúfú xiāoshòu	Id	be fortunate enough to enjoy, not have the fortune of enjoying	slides
+B6L08-II-33	巨象	巨象	jùxiàng	N	elephant	book
+B6L08-II-34	狠狠	狠狠	hěnhěn	Adv	severely, viciously	book
+B6L08-II-T-01	奧會＝奧林匹克委員會	奥委会＝奥林匹克委员会	Àohuì (Àolínpīkè wěiyuánhuì)		Olympic Committee	book
+B6L09-I-0-01	鄉關何處	乡关何处	xiāngguān héchù	Ph	Where is home? (lit.) Where is the road to my hometown?	slides
+B6L09-I-0-02	開啟	开启	kāiqǐ	V	to open up, to unlock	slides
+B6L09-I-0-04	泰半	泰半	tàibàn	Det	most, the majority of (泰=大)	slides
+B6L09-I-0-08	念頭	念头	niàntou	N	idea, desire	book
+B6L09-I-13	飄泊	飘泊	piāobó	Vi	to drift aimlessly	slides
+B6L09-I-25	流轉	流转	liúzhuǎn	Vi	to flow (time, etc.), to go back and forth between, to shuttle between	slides
+B6L09-I-32	愕然	愕然	èrán	Vs	stunned, astounded, taken aback	slides
+B6L09-I-38	碧綠	碧绿	bìlǜ	Vs	dark green, verdant	slides
+B6L09-I-39	寧靜	宁静	níngjìng	Vs	peaceful, serene	slides
+B6L09-II-10	純粹	纯粹	chúncuì	Vs	pure	slides
+B6L09-II-12	屬意	属意	shǔyì	Vs-attr	to have one's heart set on, to be partial to	slides FlaggedPinyin
+B6L09-II-18	安放	安放	ānfàng	V	to place	slides
+B6L09-II-41	驛站	驿站	yìzhàn	N	(bus, train, etc.) stop, post, stop (along the way)	slides
+B6L09-II-T-03	普洱	普洱	Pǔ'ěr		Pu'er city, Yunnan, China, where Pu'er tea is grown	slides
+B6L10-I-02	讀萬卷書、行萬里路	读万卷书、行万里路	dú wàn juàn shū, xíng wàn lǐ lù	Ph	read and travel a great deal, i.e., knowledge is found both in books and in travelling	book
+B6L10-I-38	善（於）	善（于）	shàn (yú)	Vst	to be good at	book
+B6L10-I-T-03	中經合集團	中经合集团	Zhōngjīnghé jítuán		WI Harper Group (a pioneer in cross-border investments with offices in Beijing, Taipei, and San Francisco)	
+B6L10-II-53	二度空間	二度空间	èrdù kōngjiān	Ph	two-dimensional	book
