@@ -1,3 +1,4 @@
+//當代中文/Book 1/L01-I
 陈月美[陳月美]	Chén Yuèměi	a woman from Vietnam #D1L1
 李明华[李明華]	Lǐ Mínghuá	a man from Taiwan #D1L1
 王开文[王開文]	Wáng Kāiwén	a man from the US #D1L1
@@ -22,6 +23,7 @@
 谢谢[謝謝]	xièxie	(Ph) Thank you. #D1L1
 不客气[不客氣]	búkèqì	(Ph) You're welcome. #D1L1
 你好[你好]	Nǐ hǎo	(Ph) How are you? Hello. #D1L1
+//當代中文/Book 1/L01-II
 请[請]	qǐng	(V) please #D1L1
 喝[喝]	hē	(V) to drink #D1L1
 茶[茶]	chá	(N) tea #D1L1
@@ -41,6 +43,7 @@
 美国[美國]	Měiguó	America #D1L1
 对不起[對不起]	duìbùqǐ	(Ph) I'm sorry. #D1L1
 哪国[哪國]	nǎ guó / něi guó	(Ph) Which country? #D1L1
+//當代中文/Book 1/L02-I
 张怡君[張怡君]	Zhāng Yíjūn	a woman from Taiwan #D1L2
 马安同[馬安同]	Mǎ Āntóng	a man from the Republic of Honduras #D1L2
 的[的]	de	(Ptc) modification marker #D1L2
@@ -63,6 +66,7 @@
 爸爸[爸爸]	bàba	(N) dad #D1L2
 妈妈[媽媽]	māma	(N) mom #D1L2
 请进[請進]	qǐng jìn	(Ph) Please come in! #D1L2
+//當代中文/Book 1/L02-II
 田中诚一[田中誠一]	Tiánzhōng Chéngyī	a man from Japan #D1L2
 伯母[伯母]	bómǔ	(N) aunt; here a polite term for a friend's mother regardless of age #D1L2
 您[您]	nín	(N) you (honorific) #D1L2
@@ -78,6 +82,7 @@
 姐妹[姐妹]	jiěmèi	(N) sisters #D1L2
 五[五]	wǔ	(N) five #D1L2
 两[兩]	liǎng	(N) two #D1L2
+//當代中文/Book 1/L03-I
 周末[週末]	zhōumò	(N) weekend #D1L3
 听[聽]	tīng	(V) to listen #D1L3
 音乐[音樂]	yīnyuè	(N) music #D1L3
@@ -101,6 +106,7 @@
 啊[啊]	a	(Ptc) sentence-final particle #D1L3
 做什么[做什麼]	zuò shénme	(Ph) do what #D1L3
 好啊[好啊]	hǎo a	(Ph) OK #D1L3
+//當代中文/Book 1/L03-II
 白如玉[白如玉]	Bái Rúyù	a woman from the US #D1L3
 今天[今天]	jīntiān	(N) today #D1L3
 晚上[晚上]	wǎnshàng	(N) evening, night #D1L3
@@ -119,6 +125,7 @@
 菜[菜]	cài	(N) cuisine #D1L3
 越南[越南]	Yuènán	Vietnam #D1L3
 好不好[好不好]	hǎo bù hǎo	(Ph) How about...? How does that sound? #D1L3
+//當代中文/Book 1/L04-I
 一共[一共]	yígòng	(Adv) altogether #D1L4
 多少[多少]	duōshǎo	(N) how much, how many #D1L4
 钱[錢]	qián	(N) money #D1L4
@@ -138,6 +145,7 @@
 好的[好的]	hǎode	(Ph) OK #D1L4
 外带[外帶]	wàidài	(Ph) take out, to go #D1L4
 内用[內用]	nèiyòng	(Ph) for here #D1L4
+//當代中文/Book 1/L04-II
 支[支]	zhī	(M) measure word for cell phones #D1L4
 新[新]	xīn	(Vs) new #D1L4
 手机[手機]	shǒujī	(N) cell phone #D1L4
@@ -155,6 +163,7 @@
 万[萬]	wàn	(N) ten thousand #D1L4
 千[千]	qiān	(N) thousand #D1L4
 为什么[為什麼]	wèishénme	(Ph) why #D1L4
+//當代中文/Book 1/L05-I
 牛肉[牛肉]	niúròu	(N) beef #D1L5
 面[麵]	miàn	(N) noodles #D1L5
 真[真]	zhēn	(Adv) really #D1L5
@@ -176,6 +185,7 @@
 小笼包[小籠包]	xiǎolóngbāo	(Ph) xiaolongbao, e.g., small meat and cabbage-filled steamed buns #D1L5
 臭豆腐[臭豆腐]	chòu dòufǔ	(Ph) stinky tofu (fermented tofu) #D1L5
 太好了[太好了]	tài hǎo le	(Ph) Excellent. Great. #D1L5
+//當代中文/Book 1/L05-II
 昨天[昨天]	zuótiān	(N) yesterday #D1L5
 餐厅[餐廳]	cāntīng	(N) restaurant #D1L5
 可是[可是]	kěshì	(Conj) but, however #D1L5
@@ -193,6 +203,7 @@
 到[到]	dào	(Prep) to #D1L5
 有一点[有一點]	yǒu yìdiǎn	(Ph) a little #D1L5
 不好[不好]	bù hǎo	(Ph) not well #D1L5
+//當代中文/Book 1/L06-I
 他们[他們]	tāmen	(N) they (used for people only) #D1L6
 学校[學校]	xuéxiào	(N) school #D1L6
 在[在]	zài	(Vst) to be located at #D1L6
@@ -216,6 +227,7 @@
 上课[上課]	shàngkè	(V-sep) to go to class #D1L6
 花莲[花蓮]	Huālián	name of a city on the eastern coast of Taiwan #D1L6
 听说[聽說]	tīngshuō	(Ph) hear that #D1L6
+//當代中文/Book 1/L06-II
 近[近]	jìn	(Vs) near #D1L6
 方便[方便]	fāngbiàn	(Vs) convenient #D1L6
 这里[這裡]	zhèlǐ	(N) here, this place #D1L6
@@ -234,6 +246,7 @@
 旁边[旁邊]	pángbiān	(N) (by the) side, next to #D1L6
 教室[教室]	jiàoshì	(N) classroom #D1L6
 游泳池[游泳池]	yóuyǒngchí	(N) swimming pool #D1L6
+//當代中文/Book 1/L07-I
 点[點]	diǎn	(M) o'clock #D1L7
 KTV[KTV]	KTV	(N) Karaoke #D1L7
 唱歌[唱歌]	chànggē	(V-sep) to sing #D1L7
@@ -251,6 +264,7 @@ KTV[KTV]	KTV	(N) Karaoke #D1L7
 对了[對了]	duìle	(Ph) by the way #D1L7
 有空[有空]	yǒu kòng	(Ph) to have free time #D1L7
 再见[再見]	zàijiàn	(Ph) Goodbye. #D1L7
+//當代中文/Book 1/L07-II
 在[在]	zài	(Vs) progressive aspect verb; in the process of doing something #D1L7
 午餐[午餐]	wǔcān	(N) lunch #D1L7
 刚[剛]	gāng	(Adv) just now #D1L7
@@ -273,6 +287,7 @@ KTV[KTV]	KTV	(N) Karaoke #D1L7
 等一下[等一下]	děng yíxià	(Ph) later #D1L7
 有事[有事]	yǒu shì	(Ph) to be busy; to be engaged #D1L7
 有意思[有意思]	yǒu yìsi	(Ph) to be interesting, to be fun #D1L7
+//當代中文/Book 1/L08-I
 坐[坐]	zuò	(V) to take by, to travel by #D1L8
 火车[火車]	huǒchē	(N) train #D1L8
 跟[跟]	gēn	(Prep) with #D1L8
@@ -293,6 +308,7 @@ KTV[KTV]	KTV	(N) Karaoke #D1L7
 高铁[高鐵]	gāotiě	High Speed Rail (HSR) #D1L8
 网路上[網路上]	wǎnglù shàng	(Ph) on the Internet #D1L8
 便利商店[便利商店]	biànlì shāngdiàn	(Ph) convenience store #D1L8
+//當代中文/Book 1/L08-II
 同学[同學]	tóngxué	(N) classmate #D1L8
 参观[參觀]	cānguān	(V) to visit (an institution) #D1L8
 古代[古代]	gǔdài	(N) ancient times #D1L8
@@ -307,6 +323,7 @@ KTV[KTV]	KTV	(N) Karaoke #D1L7
 不行[不行]	bù xíng	(Ph) will not do #D1L8
 计程车[計程車]	jìchéngchē	(Ph) taxi #D1L8
 差不多[差不多]	chābùduō	(Ph) about the same #D1L8
+//當代中文/Book 1/L09-I
 星期 + number[星期 + number]	xīngqí	(N) week #D1L9
 回国[回國]	huíguó	(V-sep) to return to one's country #D1L9
 打算[打算]	dǎsuàn	(Vaux) to plan to #D1L9
@@ -321,6 +338,7 @@ KTV[KTV]	KTV	(N) Karaoke #D1L7
 有时候[有時候]	yǒu shíhòu	(Ph) sometimes #D1L9
 多久[多久]	duō jiǔ	(Ph) how long #D1L9
 台东[臺東]	Táidōng	name of one of the major cities on the southeastern coast of Taiwan #D1L9
+//當代中文/Book 1/L09-II
 女 + noun[女 + noun]	nǚ	(N) girl-, female- #D1L9
 number + 月[number + 月]	yuè	(N) month of a year #D1L9
 number + 号[number + 號]	hào	(N) date, day of a month #D1L9
@@ -337,6 +355,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 要是[要是]	yàoshì	(Conj) if #D1L9
 就[就]	jiù	(Adv) then #D1L9
 猫空[貓空]	Māokōng	name of a must-see place in Taipei to visit for fine tea and scenery #D1L9
+//當代中文/Book 1/L10-I
 水果[水果]	shuǐguǒ	(N) fruit #D1L10
 黄色[黃色]	huángsè	(N) yellow #D1L10
 芒果[芒果]	mángguǒ	(N) mango #D1L10
@@ -352,6 +371,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 机会[機會]	jīhuì	(N) opportunity #D1L10
 请[請]	qǐng	(V) to treat sb to sth #D1L10
 吃吃看[吃吃看]	chīchīkàn	(Ph) to have a taste, try it, taste it #D1L10
+//當代中文/Book 1/L10-II
 拍[拍]	pāi	(V) to take (pictures) #D1L10
 笑[笑]	xiào	(V) to laugh, to smile #D1L10
 开心[開心]	kāixīn	(Vs) happy #D1L10
@@ -371,6 +391,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 住[住]	zhù	(V) to stay #D1L10
 上个月[上個月]	shàng ge yuè	(Ph) last month #D1L10
 这些[這些]	zhèxiē	(Ph) these #D1L10
+//當代中文/Book 1/L11-I
 租[租]	zū	(V) to rent #D1L11
 房东[房東]	fángdōng	(N) landlord #D1L11
 客厅[客廳]	kètīng	(N) living room #D1L11
@@ -394,6 +415,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 给[給]	gěi	(Prep) to #D1L11
 林[林]	Lín	Chinese last name, common in Taiwan #D1L11
 打电话[打電話]	dǎ diànhuà	(Ph) to make a phone call #D1L11
+//當代中文/Book 1/L11-II
 喂[喂]	wéi	(Ptc) a particle used in addressing people, especially over the phone #D1L11
 房租[房租]	fángzū	(N) rent (for a room or a house) #D1L11
 已经[已經]	yǐjīng	(Adv) already #D1L11
@@ -411,6 +433,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 不好意思[不好意思]	bùhǎo yìsi	(Ph) sorry #D1L11
 没关系[沒關係]	méi guānxi	(Ph) Not a problem #D1L11
 有线电视[有線電視]	yǒuxiàn diànshì	(Ph) cable TV #D1L11
+//當代中文/Book 1/L12-I
 计划[計畫]	jìhuà	(V) to plan to #D1L12
 年[年]	nián	(M) measure word for year #D1L12
 久[久]	jiǔ	(Vs) long (time) #D1L12
@@ -433,6 +456,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 累[累]	lèi	(Vs) tired #D1L12
 语言中心[語言中心]	yǔyán zhōngxīn	(Ph) language center #D1L12
 加油[加油]	jiāyóu	(Ph) keep up the good work #D1L12
+//當代中文/Book 1/L12-II
 工作[工作]	gōngzuò	(Vi) to work #D1L12
 去年[去年]	qùnián	(N) last year #D1L12
 做[做]	zuò	(V) to do, to engage in #D1L12
@@ -448,6 +472,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 那么[那麼]	nàme	(Ptc) then #D1L12
 再[再]	zài	(Adv) again #D1L12
 试试看[試試看]	shìshìkàn	(Ph) to give it a try, to try and see what happens #D1L12
+//當代中文/Book 1/L13-I
 生日[生日]	shēngrì	(N) birthday #D1L13
 快乐[快樂]	kuàilè	(Vs) happy #D1L13
 回来[回來]	huílái	(Vi) to come back #D1L13
@@ -471,6 +496,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 好久不见[好久不見]	hǎojiǔ bújiàn	(Ph) long time no see #D1L13
 不必客气[不必客氣]	búbì kèqì	(Ph) No need to stand on formalities, i.e., It's my pleasure. #D1L13
 太客气[太客氣]	tài kèqì	(Ph) That's very kind of you. #D1L13
+//當代中文/Book 1/L13-II
 礼物[禮物]	lǐwù	(N) gift, present #D1L13
 今年[今年]	jīnnián	(N) this year #D1L13
 订[訂]	dìng	(V) to order (something in advance) #D1L13
@@ -488,6 +514,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 大部分[大部分]	dà bùfèn	(Ph) most (of), mostly #D1L13
 万事如意[萬事如意]	wànshì rúyì	(Ph) May everything go your way. #D1L13
 心想事成[心想事成]	xīnxiǎng shìchéng	(Ph) May all your wishes come true. #D1L13
+//當代中文/Book 1/L14-I
 天气[天氣]	tiānqì	(N) weather #D1L14
 冷[冷]	lěng	(Vs) cold #D1L14
 风[風]	fēng	(N) wind #D1L14
@@ -506,6 +533,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 纽约[紐約]	Niǔyuē	New York #D1L14
 下雪[下雪]	xiàxuě	(Ph) to snow #D1L14
 十二月底[十二月底]	shí'èryuè dǐ	(Ph) the end of December #D1L14
+//當代中文/Book 1/L14-II
 雨[雨]	yǔ	(N) rain #D1L14
 伞[傘]	sǎn	(N) umbrella #D1L14
 台风[颱風]	táifēng	(N) typhoon #D1L14
@@ -523,6 +551,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 这次[這次]	zhè cì	(Ph) this time #D1L14
 上次[上次]	shàng cì	(Ph) last time #D1L14
 慢走[慢走]	màn zǒu	(Ph) Bye. Take care. #D1L14
+//當代中文/Book 1/L15-I
 医生[醫生]	yīshēng	(N) doctor #D1L15
 一直[一直]	yìzhí	(Adv) continuously, all the way #D1L15
 流[流]	liú	(V) to flow #D1L15
@@ -544,6 +573,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 休息[休息]	xiūxí	(Vi) to take a rest #D1L15
 睡觉[睡覺]	shuìjiào	(V-sep) to sleep #D1L15
 早一点[早一點]	zǎo yìdiǎn	(Ph) a bit earlier #D1L15
+//當代中文/Book 1/L15-II
 脸色[臉色]	liǎnsè	(N) a person's "color" (said of the face when healthy or sick, pleased or angry etc.) #D1L15
 难看[難看]	nánkàn	(Vs) not to look good #D1L15
 肚子[肚子]	dùzi	(N) stomach, abdomen #D1L15
@@ -567,6 +597,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 健康中心[健康中心]	jiànkāng zhōngxīn	(Ph) health center #D1L15
 回家[回家]	huí jiā	(Ph) go home #D1L15
 最好[最好]	zuìhǎo	(Ph) It would be best.../ (You) should... #D1L15
+//當代中文/Book 2/L01-I
 走[走]	zǒu	(Vi) to get to #D2L1
 路人[路人]	lùrén	(N) someone; lit. a person on the street #D2L1
 帮忙[幫忙]	bāngmáng	(V-sep) to help #D2L1
@@ -590,6 +621,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 右转[右轉]	yòu zhuǎn	(Ph) to turn right #D2L1
 听起来[聽起來]	tīng qǐlái	(Ph) to sound, sound like #D2L1
 看见[看見]	kànjiàn	(Ph) to see, to have seen #D2L1
+//當代中文/Book 2/L01-II
 下载[下載]	xiàzài	(V) to download #D2L1
 地图[地圖]	dìtú	(N) map #D2L1
 好用[好用]	hǎoyòng	(Vs) easy to use, handy #D2L1
@@ -611,6 +643,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 左转[左轉]	zuǒ zhuǎn	(Ph) to turn left #D2L1
 师大路上[師大路上]	Shīdà Lù shàng	(Ph) on Shida Road #D2L1
 面店[麵店]	miàn diàn	(Ph) noodle shop #D2L1
+//當代中文/Book 2/L02-I
 还是[還是]	háishì	(Adv) should probably, alternatively, had better #D2L2
 早[早]	zǎo	(Vs) Good morning. #D2L2
 约[約]	yuē	(V) to invite someone to do something at a specific time #D2L2
@@ -632,6 +665,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 台北[台北]	Táiběi	Taipei #D2L2
 2号线[2號線]	èr hào xiàn	(Ph) Line 2 (of the Taipei MRT) #D2L2
 别急[別急]	bié jí	(Ph) No need to hurry. Take your time. #D2L2
+//當代中文/Book 2/L02-II
 飞机[飛機]	fēijī	(N) airplane #D2L2
 转机[轉機]	zhuǎn jī	(V-sep) to transfer (flights) #D2L2
 机场[機場]	jīchǎng	(N) airport #D2L2
@@ -657,6 +691,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 绿岛[綠島]	Lǜdǎo	Green Island, to the southeast of the main island #D2L2
 东南边[東南邊]	dōngnán biān	(Ph) the southeast side of #D2L2
 好好地[好好地]	hǎohǎo de	(Ph) to do something properly #D2L2
+//當代中文/Book 2/L03-I
 进步[進步]	jìnbù	(Vp) to make improvement, to progress #D2L3
 早[早]	zǎo	(Vs) early #D2L3
 考试[考試]	kǎoshì	(N) a test, examination #D2L3
@@ -681,6 +716,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 噢[噢]	òu	(Ptc) Oh #D2L3
 活动中心[活動中心]	huódòng zhōngxīn	(Ph) activity center #D2L3
 想起来[想起來]	xiǎng qǐlái	(Ph) to have remembered #D2L3
+//當代中文/Book 2/L03-II
 选[選]	xuǎn	(V) to select #D2L3
 作业[作業]	zuòyè	(N) homework, assignment #D2L3
 练习[練習]	liànxí	(V) to practice #D2L3
@@ -698,6 +734,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 阳明山[陽明山]	Yángmíng Shān	Yangming Mountain #D2L3
 外国人[外國人]	wàiguó rén	(Ph) foreigner #D2L3
 一些[一些]	yìxiē	(Ph) a little bit of, some, a fair amount of #D2L3
+//當代中文/Book 2/L04-I
 高美玲[高美玲]	Gāo Měilíng	Gao Meiling, a woman from France #D2L4
 打工[打工]	dǎgōng	(V-sep) to work part-time #D2L4
 主任[主任]	zhǔrèn	(N) director #D2L4
@@ -725,6 +762,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 西班牙语[西班牙語]	Xībānyá yǔ	Spanish language #D2L4
 英文[英文]	Yīngwén	English language #D2L4
 三年级[三年級]	sān niánjí	(Ph) grade three (school or university) #D2L4
+//當代中文/Book 2/L04-II
 法律[法律]	fǎlǜ	(N) law #D2L4
 够[夠]	gòu	(Vs-pred) enough #D2L4
 履历表[履歷表]	lǚlìbiǎo	(N) resume #D2L4
@@ -743,6 +781,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 顺利[順利]	shùnlì	(Vs) to go, to proceed, smoothly #D2L4
 黄[黃]	Huáng	a common Chinese family name, literally "yellow" #D2L4
 没想到[沒想到]	méi xiǎngdào	(Ph) unexpectedly, didn't expect #D2L4
+//當代中文/Book 2/L05-I
 喜酒[喜酒]	xǐjiǔ	(N) wedding banquet, wedding reception #D2L5
 恭喜[恭喜]	gōngxǐ	(V) to congratulate #D2L5
 新娘[新娘]	xīnniáng	(N) bride #D2L5
@@ -760,6 +799,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 礼服[禮服]	lǐfú	(N) formal attire #D2L5
 座位[座位]	zuòwèi	(N) seat #D2L5
 看起来[看起來]	kàn qǐlái	(Ph) to look, it appears to me... #D2L5
+//當代中文/Book 2/L05-II
 结婚[結婚]	jiéhūn	(Vp-sep) to get married to #D2L5
 日子[日子]	rìzi	(N) day #D2L5
 亲戚[親戚]	qīnqī	(N) relatives #D2L5
@@ -787,6 +827,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 有吃有喝[有吃有喝]	yǒuchī yǒuhē	(Ph) an availability of food and drink #D2L5
 百年好合[百年好合]	bǎinián hǎohé	(Ph) century-long matrimony, i.e., to have a long happy marriage #D2L5
 早生贵子[早生貴子]	zǎoshēng guìzǐ	(Ph) May you soon bear a child! (a traditional exhortation given to newly-weds) #D2L5
+//當代中文/Book 2/L06-I
 李东健[李東健]	Lǐ Dōngjiàn	Li Dongjian, a man from Seoul #D2L6
 搬[搬]	bān	(V) to move to #D2L6
 河边[河邊]	hé biān	(N) riverside #D2L6
@@ -816,6 +857,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 什么样[什麼樣]	shénmeyàng	(Ph) what kind of #D2L6
 慢慢来[慢慢來]	mànmàn lái	(Ph) take your time #D2L6
 不急[不急]	bùjí	(Ph) don't rush, no hurry #D2L6
+//當代中文/Book 2/L06-II
 相当[相當]	xiāngdāng	(Adv) fairly #D2L6
 自行车[自行車]	zìxíngchē	(N) bicycle #D2L6
 床[床]	chuáng	(N) bed #D2L6
@@ -835,6 +877,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 放心[放心]	fàngxīn	(Vs-sep) not to worry, to rest assured #D2L6
 用[用]	yòng	(V) to use #D2L6
 首尔[首爾]	Shǒu'ěr	Seoul #D2L6
+//當代中文/Book 2/L07-I
 垃圾[垃圾]	lèsè	(N) garbage #D2L7
 倒[倒]	dào	(V) to throw out (garbage) #D2L7
 丢[丟]	diū	(V) to throw, to throw away (garbage) #D2L7
@@ -854,6 +897,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 放下[放下]	fàngxià	(Ph) put down #D2L7
 走出来[走出來]	zǒu chūlái	(Ph) to walk out of #D2L7
 怎么办[怎麼辦]	zěnmebàn	(Ph) What now? #D2L7
+//當代中文/Book 2/L07-II
 聊[聊]	liáo	(V) to chat (about) #D2L7
 忽然[忽然]	hūrán	(Adv) suddenly #D2L7
 声音[聲音]	shēngyīn	(N) sound #D2L7
@@ -877,6 +921,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 走过去[走過去]	zǒu guòqù	(Ph) to walk over #D2L7
 丢进去[丟進去]	diū jìnqù	(Ph) to throw into #D2L7
 路上[路上]	lùshàng	(Ph) on the street #D2L7
+//當代中文/Book 2/L08-I
 功夫[功夫]	gōngfū	(N) kungfu, martial arts #D2L8
 叫[叫]	jiào	(V) to call (for someone's attention) #D2L8
 见[見]	jiàn	(Ptc) accomplishment complete (in perception) #D2L8
@@ -898,6 +943,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 学会[學會]	xué huì	(Ph) to learn, to master #D2L8
 起不来[起不來]	qǐ bù lái	(Ph) can't get up (from bed) #D2L8
 走不了路[走不了路]	zǒu bù liǎo lù	(Ph) can't walk #D2L8
+//當代中文/Book 2/L08-II
 好处[好處]	hǎochù	(N) benefit #D2L8
 抱怨[抱怨]	bàoyuàn	(Vi) to complain #D2L8
 公尺[公尺]	gōngchǐ	(N) meter #D2L8
@@ -913,6 +959,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 身体[身體]	shēntǐ	(N) body #D2L8
 练[練]	liàn	(V) to practice, to train, to drill #D2L8
 想起[想起]	xiǎngqǐ	(Ph) to recall #D2L8
+//當代中文/Book 2/L09-I
 春假[春假]	chūnjià	(N) spring break #D2L9
 好[好]	hǎo	(Ptc) As a resultative particle, it indicates a proper completion of an action. #D2L9
 到[到]	dào	(Ptc) As a resultative particle, it indicates a successful completion of an action. #D2L9
@@ -933,6 +980,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 比起来[比起來]	bǐ qǐlái	(Ph) compared to #D2L9
 极了[極了]	jí le	(Ph) absolutely, extremely #D2L9
 忘不了[忘不了]	wàng bù liǎo	(Ph) unforgettable #D2L9
+//當代中文/Book 2/L09-II
 乡下[鄉下]	xiāngxià	(N) countryside #D2L9
 气氛[氣氛]	qìfēn	(N) atmosphere #D2L9
 镇[鎮]	zhèn	(N) rural town #D2L9
@@ -955,6 +1003,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 买得起[買得起]	mǎi de qǐ	(Ph) afford, affordable #D2L9
 百货公司[百貨公司]	bǎihuò gōngsī	(Ph) department store #D2L9
 越来越[越來越]	yuèláiyuè	(Ph) more and more, increasingly #D2L9
+//當代中文/Book 2/L10-I
 马丁[馬丁]	Mǎdīng	Martin, a man from the UK #D2L10
 包[包]	bāo	(V) to wrap #D2L10
 饺子[餃子]	jiǎozi	(N) dumplings #D2L10
@@ -984,6 +1033,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 韩国[韓國]	Hánguó	(South) Korea #D2L10
 看不出来[看不出來]	kàn bù chūlái	(Ph) It does not occur to me that..., can't tell (i.e., ascertain) #D2L10
 酸辣汤[酸辣湯]	suānlà tāng	(Ph) hot and sour soup #D2L10
+//當代中文/Book 2/L10-II
 学期[學期]	xuéqí	(N) semester #D2L10
 趁[趁]	chèn	(Prep) while, take advantage of #D2L10
 皮[皮]	pí	(N) skin, wraps #D2L10
@@ -1000,6 +1050,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 像[像]	xiàng	(Vst) such as; like #D2L10
 食物[食物]	shíwù	(N) food #D2L10
 做起来[做起來]	zuò qǐlái	(Ph) when undertaken, to do #D2L10
+//當代中文/Book 2/L11-I
 其他[其他]	qítā	(Det) other, the other, the remaining #D2L11
 假期[假期]	jiàqí	(N) vacation, holiday #D2L11
 温泉[溫泉]	wēnquán	(N) hot springs #D2L11
@@ -1024,6 +1075,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 日月潭[日月潭]	Rìyuè Tán	Sun Moon Lake, in central Taiwan #D2L11
 水上活动[水上活動]	shuǐshàng huódòng	(Ph) water activities, water recreation #D2L11
 风景区[風景區]	fēngjǐngqū	(Ph) scenic area #D2L11
+//當代中文/Book 2/L11-II
 又[又]	yòu	(Adv) then #D2L11
 遍[遍]	biàn	(M) measure word for number of times #D2L11
 民宿[民宿]	mínsù	(N) Bed & Breakfast lodgings #D2L11
@@ -1046,6 +1098,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 晒太阳[曬太陽]	shài tàiyáng	(Ph) to sunbathe #D2L11
 水上摩托车[水上摩托車]	shuǐshàng mótuōchē	(Ph) jet skis #D2L11
 爱上[愛上]	àishàng	(Ph) to fall in love with #D2L11
+//當代中文/Book 2/L12-I
 新[新]	xīn	(Adv) newly #D2L12
 开[開]	kāi	(V) to open (business) #D2L12
 素食[素食]	sùshí	(N) vegetarian food #D2L12
@@ -1075,6 +1128,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 沙拉[沙拉]	shālā	(N) salad #D2L12
 麦当劳[麥當勞]	Màidāngláo	McDonald's #D2L12
 速食店[速食店]	sùshí diàn	(Ph) fast food restaurant #D2L12
+//當代中文/Book 2/L12-II
 只要[只要]	zhǐyào	(Conj) as long as #D2L12
 讨厌[討厭]	tǎoyàn	(Vst) to dislike #D2L12
 餐[餐]	cān	(M) measure word for meal #D2L12
@@ -1093,6 +1147,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 卫生[衛生]	wèishēng	(N) hygiene #D2L12
 营养[營養]	yíngyǎng	(N) nutrition #D2L12
 什么的[什麼的]	shénmede	(Ph) things like (that); etc. #D2L12
+//當代中文/Book 2/L13-I
 林爱丽[林愛麗]	Lín Àilì	Lin Aili, a woman from Canada #D2L13
 掉[掉]	diào	(Vp) to lose #D2L13
 低头[低頭]	dītóu	(V-sep) to lower one's head #D2L13
@@ -1116,6 +1171,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 拿走[拿走]	názǒu	(Ph) to take away #D2L13
 捡到[撿到]	jiǎndào	(Ph) to find something, to pick up #D2L13
 留下[留下]	liúxià	(Ph) to keep for oneself #D2L13
+//當代中文/Book 2/L13-II
 网路[網路]	wǎnglù	(N) the internet #D2L13
 发生[發生]	fāshēng	(Vp) to happen #D2L13
 事情[事情]	shìqíng	(N) event, happening #D2L13
@@ -1137,6 +1193,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 急着[急著]	jízhe	(Ph) in a hurry to #D2L13
 打招呼[打招呼]	dǎ zhāohū	(Ph) to greet someone; to say hello; to wave at someone #D2L13
 面对面[面對面]	miàn duì miàn	(Ph) face-to-face #D2L13
+//當代中文/Book 2/L14-I
 将来[將來]	jiānglái	(N) the future #D2L14
 征求[徵求]	zhēngqiú	(V) to seek, to invite applications for #D2L14
 教师[教師]	jiàoshī	(N) instructor #D2L14
@@ -1159,6 +1216,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 分公司[分公司]	fēngōngsī	(Ph) branch office #D2L14
 舍不得[捨不得]	shěbùde	(Ph) reluctant to part with #D2L14
 聚一聚[聚一聚]	jù yí jù	(Ph) get together #D2L14
+//當代中文/Book 2/L14-II
 当时[當時]	dāngshí	(Adv) at that time #D2L14
 声调[聲調]	shēngdiào	(N) tones #D2L14
 发音[發音]	fāyīn	(N) pronunciation #D2L14
@@ -1184,6 +1242,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 加拿大[加拿大]	Jiānádà	Canada #D2L14
 企业管理系（企管系）[企業管理系（企管系）]	qìyè guǎnlǐ xì	(Ph) department of business management #D2L14
 国际关系[國際關係]	guójì guānxì	(Ph) international relations #D2L14
+//當代中文/Book 2/L15-I
 春节[春節]	chūnjié	(N) the Lunar New Year, the Spring Festival #D2L15
 伯伯[伯伯]	bóbo	(N) (older) uncle, friends' fathers in general #D2L15
 年夜饭[年夜飯]	niányèfàn	(N) Lunar New Year's Eve dinner #D2L15
@@ -1202,6 +1261,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 压岁钱[壓歲錢]	yāsuìqián	(Ph) New Year's Eve money #D2L15
 恭喜发财[恭喜發財]	gōngxǐ fācái	(Ph) Congratulations. I wish you wealth. #D2L15
 好了[好了]	hǎo le	(Ph) OK #D2L15
+//當代中文/Book 2/L15-II
 节日[節日]	jiérì	(N) holiday, festival #D2L15
 打扫[打掃]	dǎsǎo	(V) to clean up (must include sweeping) #D2L15
 另外[另外]	lìngwài	(Conj) in addition #D2L15
@@ -1226,6 +1286,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 放鞭炮[放鞭炮]	fàng biānpào	(Ph) to set off firecrackers #D2L15
 大年初一[大年初一]	dànián chūyī	(Ph) first day of the Lunar New Year #D2L15
 大年初五[大年初五]	dànián chūwǔ	(Ph) fifth day of the Lunar New Year #D2L15
+//當代中文/Book 3/L01-I
 安德思[安德思]	Ān Désī	a man from Honduras #D3L1
 罗珊蒂[羅珊蒂]	Luó Shāndì	a woman from Indonesia #D3L1
 何雅婷[何雅婷]	Hé Yǎtíng	a woman from Taiwan #D3L1
@@ -1261,6 +1322,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 差一点[差一點]	chà yì diǎn	(Ph) barely, nearly, almost #D3L1
 这样下去[這樣下去]	zhèyàng xiàqù	(Ph) if it goes on like this #D3L1
 没办法[沒辦法]	méi bànfǎ	(Ph) there's no way, there's nothing that can be done #D3L1
+//當代中文/Book 3/L01-II
 独生女[獨生女]	dúshēngnǚ	(N) only child (girl) #D3L1
 私立[私立]	sīlì	(Vs-attr) private #D3L1
 理想[理想]	lǐxiǎng	(Vs) ideal, aspired #D3L1
@@ -1282,6 +1344,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 成绩单[成績單]	chéngjī dān	(N) report card, transcripts #D3L1
 考上[考上]	kǎoshàng	(Ph) to test into #D3L1
 推荐信[推薦信]	tuījiàn xìn	(Ph) a letter of recommendation #D3L1
+//當代中文/Book 3/L02-I
 起[起]	qǐ	(Vp) starting from... #D3L2
 外套[外套]	wàitào	(N) coat, jacket #D3L2
 一般[一般]	yìbān	(Adv) generally; in general #D3L2
@@ -1314,6 +1377,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 试穿[試穿]	shì chuān	(Ph) to try on (garments) #D3L2
 打完折[打完折]	dǎ wán zhé	(Ph) after discount #D3L2
 弄丢[弄丟]	nòng diū	(Ph) to lose #D3L2
+//當代中文/Book 3/L02-II
 购物[購物]	gòuwù	(Vi) to go shopping #D3L2
 纠纷[糾紛]	jiūfēn	(N) dispute #D3L2
 电信[電信]	diànxìn	(N) telecommunications #D3L2
@@ -1338,6 +1402,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 吃到饱[吃到飽]	chī dào bǎo	(Ph) unlimited data (lit. all you can eat) #D3L2
 吓一跳[嚇一跳]	xià yí tiào	(Ph) shocked, startled, taken aback #D3L2
 客服中心[客服中心]	kèfú zhōngxīn	(Ph) customer service center #D3L2
+//當代中文/Book 3/L03-I
 陈敏萱[陳敏萱]	Chén Mǐnxuān	a woman from the Netherlands #D3L3
 高桥健太[高橋健太]	Gāoqiáo Jiàntài	a man from Japan #D3L3
 空气[空氣]	kōngqì	(N) air #D3L3
@@ -1375,6 +1440,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 受不了[受不了]	shòu bù liǎo	(Ph) can't stand it #D3L3
 饿死了[餓死了]	è sǐle	(Ph) to starve to death (an exaggeration) #D3L3
 后母脸[後母臉]	hòumǔ liǎn	(Ph) stepmother's face, i.e., stern and cruel look #D3L3
+//當代中文/Book 3/L03-II
 祖先[祖先]	zǔxiān	(N) ancestor #D3L3
 移民[移民]	yímín	(Vi) to immigrate, to emigrate #D3L3
 当中[當中]	dāngzhōng	(N) of, amongst #D3L3
@@ -1412,6 +1478,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 古时候[古時候]	gǔ shíhòu	(Ph) historically; in ancient times #D3L3
 赶走[趕走]	gǎnzǒu	(Ph) to drive away #D3L3
 过节[過節]	guò jié	(Ph) to spend the holiday in some manner #D3L3
+//當代中文/Book 3/L04-I
 爱[愛]	ài	(Vst) to love #D3L4
 人情味[人情味]	rénqíngwèi	(N) to be hospitable, kind, friendly #D3L4
 放[放]	fàng	(V) to release #D3L4
@@ -1447,6 +1514,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 校外教学[校外教學]	xiàowài jiāoxué	(Ph) field trip, class excursion #D3L4
 碰到[碰到]	pèngdào	(Ph) to run into #D3L4
 水煎包[水煎包]	shuǐjiān bāo	(Ph) pan-fried pork bun #D3L4
+//當代中文/Book 3/L04-II
 同事[同事]	tóngshì	(N) colleague, coworker #D3L4
 美食[美食]	měishí	(N) delicacies, delicious foods #D3L4
 上[上]	shàng	(V) to go up to #D3L4
@@ -1476,6 +1544,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 留下来[留下來]	liú xià lái	(Ph) to leave behind #D3L4
 木造[木造]	mù zào	(Ph) wooden; made from wood #D3L4
 非去不可[非去不可]	fēiqù bùkě	(Ph) Visiting (it) is a must!! #D3L4
+//當代中文/Book 3/L05-I
 流行[流行]	liúxíng	(Vst) popular #D3L5
 唉[唉]	āi	(Ptc) Oh no! Oh boy! #D3L5
 演唱会[演唱會]	yǎnchànghuì	(N) concert #D3L5
@@ -1509,6 +1578,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 杀时间[殺時間]	shā shíjiān	(Ph) to kill time #D3L5
 漫画展[漫畫展]	mànhuà zhǎn	(Ph) comic (book) exhibition #D3L5
 来不及[來不及]	lái bù jí	(Ph) not be in time for, not make it on time #D3L5
+//當代中文/Book 3/L05-II
 撞衫[撞衫]	zhuàngshān	(Vs) wardrobe clash, more than one person unintentionally wearing duplicate garments #D3L5
 它[它]	tā	(N) it #D3L5
 塞[塞]	sāi	(V) to stuff, cram, squeeze (into) #D3L5
@@ -1544,6 +1614,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 脱掉[脫掉]	tuōdiào	(Ph) to take off (clothing) #D3L5
 小题大作[小題大作]	xiǎotí dàzuò	(Ph) to make a mountain out of a molehill, to make a big deal of nothing #D3L5
 推出[推出]	tuīchū	(Ph) to introduce, to roll out (products) #D3L5
+//當代中文/Book 3/L06-I
 李文彦[李文彥]	Lǐ Wényàn	an American-born Chinese #D3L6
 表哥[表哥]	biǎogē	(N) cousin (older male cousin, from a female lineage) #D3L6
 随便[隨便]	suíbiàn	(Adv) as one pleases oneself, to act freely #D3L6
@@ -1576,6 +1647,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 忙得过来[忙得過來]	máng de guòlái	(Ph) to be able to manage everything #D3L6
 开玩笑[開玩笑]	kāi wánxiào	(Ph) to joke, to kid #D3L6
 看天吃饭[看天吃飯]	kàntiān chīfàn	(Ph) livelihood depends on the whims of nature #D3L6
+//當代中文/Book 3/L06-II
 小农[小農]	xiǎonóng	(N) small farmer #D3L6
 市集[市集]	shìjí	(N) bazaar, market #D3L6
 食材[食材]	shícái	(N) food materials, ingredients #D3L6
@@ -1610,6 +1682,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 消失[消失]	xiāoshī	(Vp) to disappear #D3L6
 出问题[出問題]	chū wèntí	(Ph) to go wrong, to have problems #D3L6
 一方面[一方面]	yì fāngmiàn	(Ph) on the one hand #D3L6
+//當代中文/Book 3/L07-I
 亲[親]	qīn	(Vs) close (as of familial relationship) #D3L7
 爷爷[爺爺]	yéye	(N) grandpa (father's side) #D3L7
 邻居[鄰居]	línjū	(N) neighbor #D3L7
@@ -1650,6 +1723,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 跌倒[跌倒]	dié dǎo	(Ph) to fall down #D3L7
 当成[當成]	dāngchéng	(Ph) to consider, view as, regard #D3L7
 忍不住[忍不住]	rěn bú zhù	(Ph) to be beyond the limits of endurance #D3L7
+//當代中文/Book 3/L07-II
 多元[多元]	duōyuán	(Vs-attr) diverse, diversified #D3L7
 阿姨[阿姨]	āyí	(N) aunt (mother's sisters) #D3L7
 先生[先生]	xiānshēng	(N) husband #D3L7
@@ -1685,6 +1759,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 家华[家華]	Jiāhuá	male person's name #D3L7
 风云人物[風雲人物]	fēngyún rénwù	(Ph) mover and shaker, popular and influential person #D3L7
 下决心[下決心]	xià juéxīn	(Ph) to resolve oneself, make up one's mind (to do something) #D3L7
+//當代中文/Book 3/L08-I
 整夜[整夜]	zhěngyè	(N) all night #D3L8
 开[開]	kāi	(V) to turn on, to power on #D3L8
 灯[燈]	dēng	(N) light, lamp #D3L8
@@ -1721,6 +1796,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 服装设计[服裝設計]	fúzhuāng shèjì	(Ph) fashion design #D3L8
 医学系[醫學系]	yīxué xì	(Ph) department of medicine #D3L8
 行行出状元[行行出狀元]	hángháng chū zhuàngyuán	(Ph) there is a leader in every industry #D3L8
+//當代中文/Book 3/L08-II
 冠军[冠軍]	guànjūn	(N) champion, championship #D3L8
 大赛[大賽]	dàsài	(N) a major, usually international, competition #D3L8
 通过[通過]	tōngguò	(Vpt) to pass #D3L8
@@ -1770,6 +1846,7 @@ number + 号[number + 號]	hào	(N) date, day of a month #D1L9
 小时候[小時候]	xiǎo shíhòu	(Ph) in one's childhood #D3L8
 大开眼界[大開眼界]	dàkāi yǎnjiè	(Ph) to have one's eyes opened #D3L8
 X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or fractions #D3L8
+//當代中文/Book 3/L09-I
 订单[訂單]	dìngdān	(N) an order (trading) #D3L9
 客户[客戶]	kèhù	(N) customer, client #D3L9
 方便[方便]	fāngbiàn	(V) to offer convenience #D3L9
@@ -1800,6 +1877,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 网购[網購]	wǎng gòu	(Ph) online shopping #D3L9
 货比三家不吃亏[貨比三家不吃虧]	huò bǐ sān jiā bù chīkuī	(Ph) shop around and you won't get ripped off (lit. Compare products at three stores and you won't be cheated.) #D3L9
 两成[兩成]	liǎng chéng	(Ph) 20%, literally 2/10 #D3L9
+//當代中文/Book 3/L09-II
 凤梨[鳳梨]	fènglí	(N) pineapple #D3L9
 农产品[農產品]	nóngchǎnpǐn	(N) agricultural product #D3L9
 出口[出口]	chūkǒu	(V) to export #D3L9
@@ -1840,6 +1918,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 凤梨酥[鳳梨酥]	fènglí sū	(Ph) pineapple shortcake #D3L9
 第二位[第二位]	dì èr wèi	(Ph) second (place) #D3L9
 凤梨农[鳳梨農]	fènglí nóng	(Ph) pineapple farmer #D3L9
+//當代中文/Book 3/L10-I
 住院[住院]	zhùyuàn	(V-sep) to stay in a hospital, be hospitalized #D3L10
 脸[臉]	liǎn	(N) face #D3L10
 受伤[受傷]	shòushāng	(Vp-sep) to be injured #D3L10
@@ -1873,6 +1952,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 救护车[救護車]	jiùhù chē	(Ph) ambulance #D3L10
 照 X 光[照 X 光]	zhào X guāng	(Ph) to take an X-ray #D3L10
 动手术[動手術]	dòng shǒushù	(Ph) to have/undergo a surgery #D3L10
+//當代中文/Book 3/L10-II
 医美[醫美]	yīměi	(N) cosmetic surgery #D3L10
 合理[合理]	hélǐ	(Vs) reasonable #D3L10
 休假[休假]	xiūjià	(V-sep) to take time off #D3L10
@@ -1908,6 +1988,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 人际关系[人際關係]	rénjì guānxì	(Ph) interpersonal relations #D3L10
 动不动就[動不動就]	dòng bú dòng jiù	(Ph) to do something impetuously #D3L10
 找回[找回]	zhǎo huí	(Ph) to rediscover, to retrieve #D3L10
+//當代中文/Book 3/L11-I
 建[建]	jiàn	(V) to build (Classical Chinese) #D3L11
 重建[重建]	chóngjiàn	(V) to rebuild #D3L11
 到底[到底]	dàodǐ	(Adv) in the end, after all #D3L11
@@ -1950,6 +2031,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 十七世纪初[十七世紀初]	shíqī shìjì chū	(Ph) early 17th century #D3L11
 打败[打敗]	dǎ bài	(Ph) to defeat #D3L11
 十七世纪末[十七世紀末]	shíqī shìjì mò	(Ph) late 17th century #D3L11
+//當代中文/Book 3/L11-II
 餐桌[餐桌]	cānzhuō	(N) dining table #D3L11
 中式[中式]	Zhōngshì	(N) Chinese-style #D3L11
 套[套]	tào	(M) set of (books, clothes, equipment etc.) #D3L11
@@ -1993,6 +2075,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 味噌汤[味噌湯]	wèizēng tāng	(Ph) miso soup (Japanese food) #D3L11
 萝卜干[蘿蔔乾]	luóbo gān	(Ph) dried daikon #D3L11
 进一步[進一步]	jìn yí bù	(Ph) further #D3L11
+//當代中文/Book 3/L12-I
 投票[投票]	tóupiào	(V-sep) to vote #D3L12
 抱歉[抱歉]	bàoqiàn	(Vs) sorry, apologetic #D3L12
 表妹[表妹]	biǎomèi	(N) younger female cousin #D3L12
@@ -2035,6 +2118,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 推销员[推銷員]	tuīxiāoyuán	(N) salesperson #D3L12
 有道理[有道理]	yǒu dàolǐ	(Ph) there's some truth (to what you are saying) #D3L12
 候选人[候選人]	hòuxuǎn rén	(Ph) candidate #D3L12
+//當代中文/Book 3/L12-II
 学术界[學術界]	xuéshùjiè	(N) academia, the academic fields or circles #D3L12
 从政[從政]	cóngzhèng	(Vi) to engage in politics #D3L12
 政策[政策]	zhèngcè	(N) policy #D3L12
@@ -2077,6 +2161,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 出版社[出版社]	chūbǎn shè	(Ph) publishing company #D3L12
 捐出[捐出]	juānchū	(Ph) to donate #D3L12
 二手书[二手書]	èrshǒu shū	(Ph) secondhand book #D3L12
+//當代中文/Book 4/L01-I
 小玲[小玲]	Xiǎolíng	Xiaoling, female #D4L1
 阿建[阿建]	Ājiàn	Ajian, male #D4L1
 聊天室[聊天室]	liáotiānshì	(N) chatroom (室 -shì, room) #D4L1
@@ -2103,6 +2188,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 建设公司[建設公司]	jiànshè gōngsī	(Ph) construction company #D4L1
 业务经理[業務經理]	yèwù jīnglǐ	(Ph) business manager #D4L1
 室内设计[室內設計]	shìnèi shèjì	(Ph) interior design #D4L1
+//當代中文/Book 4/L01-II
 温暖[溫暖]	wēnnuǎn	(Vs) warm #D4L1
 目前[目前]	mùqián	(Adv) currently #D4L1
 所[所]	suǒ	(M) measure word for schools #D4L1
@@ -2147,6 +2233,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 喘不过气[喘不過氣]	chuǎnbúguò qì	(Ph) to be under great pressure, (lit.) unable to breathe #D4L1
 躲进[躲進]	duǒjìn	(Ph) to hide oneself in #D4L1
 掉进[掉進]	diàojìn	(Ph) to fall into #D4L1
+//當代中文/Book 4/L02-I
 李云真[李雲真]	Lǐ Yúnzhēn	Li Yunzhen, female #D4L2
 眼睛[眼睛]	yǎnjīng	(N) eye #D4L2
 耳朵[耳朵]	ěrduo	(N) ear #D4L2
@@ -2183,6 +2270,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 看不成[看不成]	kànbùchéng	(Ph) to miss out #D4L2
 联络感情[聯絡感情]	liánluò gǎnqíng	(Ph) to get to know each other better to strengthen ties with each other #D4L2
 擤鼻涕[擤鼻涕]	xǐng bítì	(Ph) to blow one's nose #D4L2
+//當代中文/Book 4/L02-II
 场[場]	chǎng	(M) measure word for performances #D4L2
 强调[強調]	qiángdiào	(V) to stress #D4L2
 团体[團體]	tuántǐ	(N) group #D4L2
@@ -2226,6 +2314,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 装置艺术[裝置藝術]	zhuāngzhì yìshù	(Ph) installation art #D4L2
 填饱[填飽]	tiánbǎo	(Ph) to fill one's belly #D4L2
 口腹之欲[口腹之慾]	kǒufù zhīyù	(Ph) the desire of one's palate #D4L2
+//當代中文/Book 4/L03-I
 李文丽[李文麗]	Lǐ Wénlì	Li Wenli, female #D4L3
 外婆[外婆]	wàipó	(N) grandma #D4L3
 女装[女裝]	nǚzhuāng	(N) women's apparel #D4L3
@@ -2261,6 +2350,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 用不惯[用不慣]	yòngbúguàn	(Ph) not used/accustomed to using, not comfortable with #D4L3
 退换[退換]	tuì huàn	(Ph) to return, to exchange for something else #D4L3
 信用卡[信用卡]	xìnyòng kǎ	(Ph) credit card #D4L3
+//當代中文/Book 4/L03-II
 缩短[縮短]	suōduǎn	(Vpt) to shorten #D4L3
 人们[人們]	rénmen	(N) people in general #D4L3
 距离[距離]	jùlí	(N) distance #D4L3
@@ -2307,6 +2397,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 大吵大闹[大吵大鬧]	dàchǎo dànào	(Ph) to kick up a row, make a scene, scream bloody murder #D4L3
 焦虑不安[焦慮不安]	jiāolǜ bù'ān	(Ph) to be anxious #D4L3
 总而言之[總而言之]	zǒng'ér yánzhī	(Ph) in conclusion, to sum up, in short #D4L3
+//當代中文/Book 4/L04-I
 该[該]	gāi	(Vaux) should, ought to #D4L4
 摆[擺]	bǎi	(V) to place, display #D4L4
 总算[總算]	zǒngsuàn	(Adv) finally #D4L4
@@ -2345,6 +2436,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 譬如说[譬如說]	pìrú shuō	(Ph) for example #D4L4
 一口气[一口氣]	yì kǒu qì	(Ph) in one breath #D4L4
 死定了[死定了]	sǐdìngle	(Ph) (You're) a dead man; You're toast #D4L4
+//當代中文/Book 4/L04-II
 地理[地理]	dìlǐ	(N) geography #D4L4
 便利性[便利性]	biànlìxìng	(N) convenience (性 -xìng, property, suffix indicating that a term is a noun) #D4L4
 周边[周邊]	zhōubiān	(N) surrounding, periphery #D4L4
@@ -2388,6 +2480,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 加起来[加起來]	jiāqǐlái	(Ph) to add up, totalize #D4L4
 咬钱龟[咬錢龜]	yǎoqián guī	(Ph) money-biting turtle #D4L4
 十全十美[十全十美]	shíquán shíměi	(Ph) perfect, pinnacle of perfection #D4L4
+//當代中文/Book 4/L05-I
 梦[夢]	mèng	(N) dream #D4L5
 排队[排隊]	páiduì	(V-sep) to line up, stand in queue #D4L5
 校刊[校刊]	xiàokān	(N) school newspaper, school publications of all sorts #D4L5
@@ -2420,6 +2513,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 话说回来[話說回來]	huàshuō huílái	(Ph) on the other hand, however #D4L5
 自食其力[自食其力]	zìshí qílì	(Ph) to rely on yourself, to stand on your own two feet #D4L5
 下一期[下一期]	xiàyìqí	(Ph) next issue (of a periodical) #D4L5
+//當代中文/Book 4/L05-II
 段[段]	duàn	(M) a period of (time) #D4L5
 物价[物價]	wùjià	(N) prices, commodity prices #D4L5
 上涨[上漲]	shàngzhǎng	(Vp) to rise (of prices) #D4L5
@@ -2469,6 +2563,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 恨不得[恨不得]	hènbùdé	(Ph) to be dying to, desperately #D4L5
 一夜致富[一夜致富]	yíyè zhìfù	(Ph) to become rich overnight #D4L5
 一片天[一片天]	yípiàntiān	(Ph) place in the sun, a job that makes you happy and provides you with all the money and things that you want, paradise #D4L5
+//當代中文/Book 4/L06-I
 高来恩[高來恩]	Gāo Lái'ēn	a man from Switzerland #D4L6
 地震[地震]	dìzhèn	(N) earthquake #D4L6
 摇[搖]	yáo	(Vp) to rock, shake #D4L6
@@ -2510,6 +2605,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 地震带[地震帶]	dìzhèn dài	(Ph) seismic zone, earthquake belt #D4L6
 救生包[救生包]	jiùshēng bāo	(Ph) survival kit, survival pack #D4L6
 有备无患[有備無患]	yǒubèi wúhuàn	(Ph) be prepared, be on the safe side #D4L6
+//當代中文/Book 4/L06-II
 如何[如何]	rúhé	(Adv) how #D4L6
 逃生[逃生]	táoshēng	(Vi) to evacuate #D4L6
 发达[發達]	fādá	(Vs) advanced, developed #D4L6
@@ -2558,6 +2654,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 掉下来[掉下來]	diàoxiàlái	(Ph) to fall down, to drop #D4L6
 倒下来[倒下來]	dǎoxiàlái	(Ph) to fall over, to collapse #D4L6
 救灾人员[救災人員]	jiùzāi rényuán	(Ph) rescue personnel #D4L6
+//當代中文/Book 4/L07-I
 博文[博文]	Bówén	a senior in college #D4L7
 玉珍[玉珍]	Yùzhēn	a sophomore in college #D4L7
 学妹[學妹]	xuémèi	(N) female lower classmate (see culture notes) #D4L7
@@ -2589,6 +2686,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 低空飞过[低空飛過]	dīkōng fēiguò	(Ph) barely managed to pass (a test, course) #D4L7
 有助于[有助於]	yǒuzhùyú	(Ph) to help in something, be beneficial to something #D4L7
 寒暑假[寒暑假]	hánshǔ jià	(Ph) winter and summer vacations #D4L7
+//當代中文/Book 4/L07-II
 暗恋[暗戀]	ànliàn	(V) to have a crush on someone #D4L7
 目光[目光]	mùguāng	(N) eyes, gaze #D4L7
 移动[移動]	yídòng	(Vi) to move #D4L7
@@ -2636,6 +2734,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 一举一动[一舉一動]	yìjǔ yídòng	(Ph) every move #D4L7
 前一天[前一天]	qián yì tiān	(Ph) the day before #D4L7
 已读不回[已讀不回]	yǐdú bùhuí	(Ph) read without reply #D4L7
+//當代中文/Book 4/L08-I
 王丽华[王麗華]	Wáng Lìhuá	a woman from Taiwan #D4L8
 鲁亚[魯亞]	Lǔ Yǎ	a man from Turkey #D4L8
 论文[論文]	lùnwén	(N) thesis, dissertation, scholarly article #D4L8
@@ -2673,6 +2772,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 老一辈[老一輩]	lǎoyíbèi	(Ph) the older generation #D4L8
 一胎化政策[一胎化政策]	yìtāihuà zhèngcè	(Ph) One Child Policy #D4L8
 这下子[這下子]	zhèxiàzi	(Ph) as a consequence #D4L8
+//當代中文/Book 4/L08-II
 已[已]	yǐ	(Adv) already (formal) #D4L8
 生育率[生育率]	shēngyùlǜ	(N) birth rate (率 -lǜ, rate) #D4L8
 离婚[離婚]	líhūn	(Vp-sep) to get divorced #D4L8
@@ -2729,6 +2829,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 生儿育女[生兒育女]	shēng'ér yùnǚ	(Ph) to have and raise children #D4L8
 独善其身[獨善其身]	dúshàn qíshēn	(Ph) to look out only for oneself, be self-centered #D4L8
 停滞不前[停滯不前]	tíngzhì bùqián	(Ph) in stagnation #D4L8
+//當代中文/Book 4/L09-I
 逐渐[逐漸]	zhújiàn	(Adv) gradually #D4L9
 据点[據點]	jùdiǎn	(N) base, stronghold #D4L9
 统治[統治]	tǒngzhì	(V) to rule, govern #D4L9
@@ -2773,6 +2874,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 绿豆糕[綠豆糕]	lǜdòu gāo	(Ph) mung-bean cake #D4L9
 牛舌饼[牛舌餅]	niúshé bǐng	(Ph) ox-tongue biscuit #D4L9
 垂涎三尺[垂涎三尺]	chuíxián sānchǐ	(Ph) to salivate over, make one's mouth water #D4L9
+//當代中文/Book 4/L09-II
 数目[數目]	shùmù	(N) amount, quantity #D4L9
 大约[大約]	dàyuē	(Adv) about, approximately #D4L9
 占[佔]	zhàn	(Vst) constitute (same as "占") #D4L9
@@ -2820,6 +2922,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 一辈子[一輩子]	yíbèizi	(Ph) one lifetime #D4L9
 恐惧不安[恐懼不安]	kǒngjù bù'ān	(Ph) scared and anxious, suffering from constant fear #D4L9
 刻骨铭心[刻骨銘心]	kègǔ míngxīn	(Ph) unforgettable, to be imprinted hard in one's mind #D4L9
+//當代中文/Book 4/L10-I
 何建明[何建明]	Hé Jiànmíng	a male college graduate #D4L10
 应征[應徵]	yìngzhēng	(V) to apply for a job #D4L10
 配[配]	pèi	(V) to go with, match #D4L10
@@ -2866,6 +2969,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 面试官[面試官]	miànshì guān	(Ph) interviewing officer #D4L10
 自我介绍[自我介紹]	zìwǒ jièshào	(Ph) self-introduction #D4L10
 所学有限[所學有限]	suǒxué yǒuxiàn	(Ph) what has been learned is only rather limited #D4L10
+//當代中文/Book 4/L10-II
 出国[出國]	chūguó	(V-sep) to go abroad #D4L10
 资金[資金]	zījīn	(N) capital, funds #D4L10
 厂商[廠商]	chǎngshāng	(N) manufacturer #D4L10
@@ -2898,6 +3002,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 考古题[考古題]	kǎogǔtí	(Ph) test items from previous years (題 -tí, for test items) #D4L10
 沙盘推演[沙盤推演]	shāpán tuīyǎn	(Ph) to rehearse; a dry run, a practice run #D4L10
 深蓝色[深藍色]	shēnlánsè	(Ph) dark blue #D4L10
+//當代中文/Book 4/L11-I
 种族[種族]	zhǒngzú	(N) ethnic group, race #D4L11
 熔炉[熔爐]	rónglú	(N) melting pot, smelting furnace, crucible #D4L11
 偏偏[偏偏]	piānpiān	(Adv) deliberately, insist on #D4L11
@@ -2944,6 +3049,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 本地人[本地人]	běndì rén	(Ph) local people #D4L11
 自己人[自己人]	zìjǐrén	(Ph) one of us, one of our own, compatriots #D4L11
 哪里！哪里！[哪裡！哪裡！]	nǎlǐ nǎlǐ	(Ph) not at all, not a problem, you're welcome #D4L11
+//當代中文/Book 4/L11-II
 渐渐[漸漸]	jiànjiàn	(Adv) gradually #D4L11
 曾[曾]	céng	(Adv) have been before, was once (formal) #D4L11
 尝试[嘗試]	chángshì	(V/N) to try (something new), attempt; an attempt #D4L11
@@ -2991,6 +3097,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 新生儿[新生兒]	xīnshēng'ér	(Ph) a newborn baby #D4L11
 生产力[生產力]	shēngchǎn lì	(Ph) productivity #D4L11
 一较长短[一較長短]	yíjiào chángduǎn	(Ph) to compete, to compare against #D4L11
+//當代中文/Book 4/L12-I
 王安康[王安康]	Wáng Ānkāng	Wang Ankang, male #D4L12
 张定能[張定能]	Zhāng Dìngnéng	Zhang Dingneng, male #D4L12
 美好[美好]	měihǎo	(Vs) wonderful, beautiful #D4L12
@@ -3033,6 +3140,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 照理说[照理說]	zhào lǐ shuō	(Ph) normally #D4L12
 政治人物[政治人物]	zhèngzhì rénwù	(Ph) politicians #D4L12
 受苦[受苦]	shòu kǔ	(Ph) suffering #D4L12
+//當代中文/Book 4/L12-II
 富裕[富裕]	fùyù	(Vs) rich, affluent #D4L12
 贪污[貪汙]	tānwū	(Vp) to graft, to demand #D4L12
 腐败[腐敗]	fǔbài	(Vs) corruption #D4L12
@@ -3074,6 +3182,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 官商勾结[官商勾結]	guānshāng gōujié	(Ph) collusion between politicians and business people #D4L12
 贫富悬殊[貧富懸殊]	pínfù xuánshū	(Ph) a huge gap between the rich and the poor #D4L12
 息息相关[息息相關]	xíxí xiāngguān	(Ph) inextricably related to #D4L12
+//當代中文/Book 5/L01-I
 言论[言論]	yánlùn	(N) speech, act of speaking #D5L1
 界线[界線]	jièxiàn	(N) boundaries, demarcation #D5L1
 脸书[臉書]	Liǎnshū	(N) Facebook #D5L1
@@ -3131,6 +3240,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 嘴[嘴]	zuǐ	(N) mouth, opinion #D5L1
 混乱[混亂]	hùnluàn	(Vs) tumultuous, chaotic #D5L1
 唯一[唯一]	wéiyī	(Vs-attr) one and only, sole #D5L1
+//當代中文/Book 5/L01-II
 滥用[濫用]	lànyòng	(V) to abuse #D5L1
 并非[並非]	bìngfēi	(Adv) it is not as expected #D5L1
 不用[不用]	búyòng	(Vaux) (there is) no need to #D5L1
@@ -3176,6 +3286,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 制定[制定]	zhìdìng	(V) to formulate, devise (laws) #D5L1
 严格[嚴格]	yángé	(Vs) strict, severe #D5L1
 约束[約束]	yuēshù	(V) to restrict, constrain #D5L1
+//當代中文/Book 5/L02-I
 基改[基改]	jīgǎi	(N) 基 = 基因, 改 = 改造 (see Book 3) #D5L2
 农粮[農糧]	nóngliáng	(N) 農 = 農作物, crop; 糧 = 糧食, food #D5L2
 广播节目[廣播節目]	guǎngbò jiémù	(Ph) broadcast program #D5L2
@@ -3239,6 +3350,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 包装[包裝]	bāozhuāng	(N) packaging #D5L2
 标示[標示]	biāoshì	(V/N) to label; mark #D5L2
 一切[一切]	yíqiè	(Det) all #D5L2
+//當代中文/Book 5/L02-II
 昆虫[昆蟲]	kūnchóng	(N) insect #D5L2
 不孕[不孕]	búyùn	(Vs) infertile, barren #D5L2
 罹患[罹患]	líhuàn	(Vpt) to come down with, be stricken with, suffer from #D5L2
@@ -3276,6 +3388,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 付出[付出]	fùchū	(V) to pay (a heavy price for) #D5L2
 代价[代價]	dàijià	(N) (to pay a heavy) price #D5L2
 掌握[掌握]	zhǎngwò	(V) to hold, grasp, control #D5L2
+//當代中文/Book 5/L03-I
 风气[風氣]	fēngqì	(N) ethos, mood (said of society, a nation, etc.) #D5L3
 开放[開放]	kāifàng	(N) (nominalized from its verb form) to open up to the outside world; liberal, non-conservative #D5L3
 意外[意外]	yìwài	(N) accident #D5L3
@@ -3332,6 +3445,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 进而[進而]	jìn'ér	(Adv) furthermore #D5L3
 谨慎[謹慎]	jǐnshèn	(Vs) careful, cautious #D5L3
 看待[看待]	kàndài	(V) to regard #D5L3
+//當代中文/Book 5/L03-II
 吹[吹]	chuī	(V) to blow (used in the text to mean a trend has been "circulating" or "stirring") #D5L3
 旅游[旅遊]	lǚyóu	(N) tour, trip #D5L3
 极具[極具]	jíjù	(Vst) to strongly possess (classical Chinese) #D5L3
@@ -3374,6 +3488,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 剪[剪]	jiǎn	(V) to cut (with scissors) #D5L3
 理会[理會]	lǐhuì	(V) to pay attention to #D5L3
 有何不可[有何不可]	yǒuhé bùkě	(Id) What's wrong with that? and why not? what's the harm in that? #D5L3
+//當代中文/Book 5/L04-I
 删减[刪減]	shānjiǎn	(V) to cut, cut back on (as in funds, personnel, etc.) #D5L4
 斗牛[鬥牛]	dòuniú	(N) bullfighting #D5L4
 街头[街頭]	jiētóu	(N) the streets (used in phrases like "take to the streets") #D5L4
@@ -3430,6 +3545,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 推广[推廣]	tuīguǎng	(V) to promote #D5L4
 遗产[遺產]	yíchǎn	(N) heritage #D5L4
 由来已久[由來已久]	yóulái yǐjiǔ	(Id) age-old #D5L4
+//當代中文/Book 5/L04-II
 过时[過時]	guòshí	(Vs) passé, obsolete #D5L4
 不利[不利]	búlì	(Vs) disadvantageous to, detrimental to #D5L4
 刺[刺]	cì	(V) to stab, gore #D5L4
@@ -3467,6 +3583,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 娱乐[娛樂]	yúlè	(N) recreation, amusement, entertainment #D5L4
 入场[入場]	rùchǎng	(Vi) to enter (a venue) #D5L4
 澈底[澈底]	chèdǐ	(Adv) completely, thoroughly #D5L4
+//當代中文/Book 5/L05-I
 代理孕母[代理孕母]	dàilǐ yùnmǔ	(Ph) surrogate mother #D5L5
 案例[案例]	ànlì	(N) case, instance #D5L5
 名[名]	míng	(M) measure for people (formal) #D5L5
@@ -3517,6 +3634,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 忍受[忍受]	rěnshòu	(Vst) to endure, suffer #D5L5
 如愿[如願]	rúyuàn	(Vs-sep) as one hopes, as one wishes #D5L5
 自主权[自主權]	zìzhǔquán	(N) right to make one's own decisions, autonomy #D5L5
+//當代中文/Book 5/L05-II
 固然[固然]	gùrán	(Adv) granted, certainly, while it is definitely true that #D5L5
 交易[交易]	jiāoyì	(Vi) to trade, transact, carry out a transaction #D5L5
 属[屬]	shǔ	(Vst) to belong to, be part of (a category) #D5L5
@@ -3542,6 +3660,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 搞定[搞定]	gǎodìng	(V) to have it resolved #D5L5
 独一无二[獨一無二]	dúyī wú'èr	(Id) unique, one of a kind #D5L5
 总之[總之]	zǒngzhī	(Adv) to sum it up, in short, in conclusion #D5L5
+//當代中文/Book 5/L06-I
 死刑[死刑]	sǐxíng	(N) capital punishment, the death penalty #D5L6
 存废[存廢]	cúnfèi	(N) preservation or abolishment, to preserve or to abolish (contracted word from 保存 + 廢除) #D5L6
 争议[爭議]	zhēngyì	(N) controversy #D5L6
@@ -3604,6 +3723,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 坦白[坦白]	tǎnbái	(Vs) honesty, honest (坦白說 = to be honest/frank/candid) #D5L6
 抚慰[撫慰]	fǔwèi	(V) to console, comfort #D5L6
 刚刚好[剛剛好]	gānggāng hǎo	(Ph) just right, just enough, just the right amount, time, color, etc. (meaning here: justice done) #D5L6
+//當代中文/Book 5/L06-II
 无济于事[無濟於事]	wújì yúshì	(Id) to not help the situation, does not do anybody good, of no use #D5L6
 致力[致力]	zhìlì	(Adv) with all might and mind #D5L6
 推动[推動]	tuīdòng	(V) to promote, push #D5L6
@@ -3642,6 +3762,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 身旁[身旁]	shēnpáng	(N) next to, around you #D5L6
 打造[打造]	dǎzào	(V) to create, implement #D5L6
 根本[根本]	gēnběn	(Adv) completely, fundamentally, thoroughly #D5L6
+//當代中文/Book 5/L07-I
 伤脑筋[傷腦筋]	shāng nǎojīn	(Id) to cause a headache, a pain in the neck, to be knotty/troublesome (said of issues or problems) #D5L7
 受益[受益]	shòuyì	(Vp) to be benefited, to benefit (from) #D5L7
 财富[財富]	cáifù	(N) wealth #D5L7
@@ -3690,6 +3811,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 提心吊胆[提心吊膽]	tíxīn diàodǎn	(Id) on tenterhooks, nervous #D5L7
 警力[警力]	jǐnglì	(N) police force #D5L7
 治安[治安]	zhì'ān	(N) public security #D5L7
+//當代中文/Book 5/L07-II
 哈佛大学[哈佛大學]	Hāfó Dàxué	(N) Harvard University #D5L7
 课堂[課堂]	kètáng	(N) classroom #D5L7
 心脏[心臟]	xīnzàng	(N) heart (organ) #D5L7
@@ -3735,6 +3857,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 打击[打擊]	dǎjí	(V) to strike a blow to #D5L7
 创富[創富]	chuàngfù	(Vi) to create wealth #D5L7
 介入[介入]	jièrù	(V) to intervene, get involved in #D5L7
+//當代中文/Book 5/L08-I
 左右为难[左右為難]	zuǒyòu wéinán	(Id) in a dilemma, be in a bind, in a predicament, in a fix #D5L8
 难民[難民]	nànmín	(N) refugees #D5L8
 男童[男童]	nántóng	(N) boy, male child #D5L8
@@ -3792,6 +3915,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 肤色[膚色]	fūsè	(N) skin color #D5L8
 早日[早日]	zǎorì	(Adv) soon #D5L8
 扶持[扶持]	fúchí	(V) to support, help, aid, assist #D5L8
+//當代中文/Book 5/L08-II
 优先[優先]	yōuxiān	(Vs) to be given priority #D5L8
 无力[無力]	wúlì	(Vst) incapable of, powerless to #D5L8
 安置[安置]	ānzhì	(V) to make proper living arrangements for #D5L8
@@ -3830,6 +3954,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 对策[對策]	duìcè	(N) countermeasure, strategy #D5L8
 贩运[販運]	fànyùn	(N) trafficking, smuggling, transporting #D5L8
 首要之务[首要之務]	shǒuyào zhīwù	(Id) top/first priority, the most important issue #D5L8
+//當代中文/Book 5/L09-I
 核电厂[核電廠]	hédiànchǎng	(N) nuclear power plant #D5L9
 热烈[熱烈]	rèliè	(Vs) fervent, ardent #D5L9
 乃至[乃至]	nǎizhì	(Adv) and even #D5L9
@@ -3878,6 +4003,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 无解[無解]	wújiě	(Vs) have no solution, be unsolvable #D5L9
 难题[難題]	nántí	(N) difficult problem, tough problem #D5L9
 正确[正確]	zhèngquè	(Vs) accurate #D5L9
+//當代中文/Book 5/L09-II
 环保[環保]	huánbǎo	(Vs) environmentally friendly #D5L9
 联想[聯想]	liánxiǎng	(Vi) to associate with in the mind, think of #D5L9
 事故[事故]	shìgù	(N) accident #D5L9
@@ -3922,6 +4048,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 隐忧[隱憂]	yǐnyōu	(N) hidden concerns, worries #D5L9
 绿色[綠色]	lǜsè	(N) green (color) #D5L9
 替代[替代]	tìdài	(V) alternative #D5L9
+//當代中文/Book 5/L10-I
 同性[同性]	tóngxìng	(Vs-attr) to be of the same gender #D5L10
 主播[主播]	zhǔbò	(N) newscaster, anchor #D5L10
 记者[記者]	jìzhě	(N) reporter, journalist, correspondent #D5L10
@@ -3958,6 +4085,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 范围[範圍]	fànwéi	(N) scope, range, extent #D5L10
 心声[心聲]	xīnshēng	(N) heartfelt wishes, aspirations #D5L10
 法案[法案]	fǎ'àn	(N) bill, act #D5L10
+//當代中文/Book 5/L10-II
 镜头[鏡頭]	jìngtóu	(N) lens, shot, scene #D5L10
 联邦[聯邦]	liánbāng	(N) federal, federation, union #D5L10
 彩虹[彩虹]	cǎihóng	(N) rainbow #D5L10
@@ -4001,6 +4129,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 对话[對話]	duìhuà	(Vi) to engage in dialogues #D5L10
 激辩[激辯]	jībiàn	(Vi) to engage in robust debate, wrangle #D5L10
 交还[交還]	jiāohuán	(V) to give back to, to return to #D5L10
+//當代中文/Book 6/L01-I
 职校[職校]	zhíxiào	(N) vocational school #D6L1
 技职[技職]	jìzhí	(N) technical and vocational career #D6L1
 成功之处[成功之處]	chénggōng zhīchù	(Ph) where it has been successful, achievement #D6L1
@@ -4037,6 +4166,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 葛瑞里[葛瑞里]	Gěruìlǐ	Garelli #D6L1
 奥地利[奧地利]	Àodìlì	Austria #D6L1
 瑞典[瑞典]	Ruìdiǎn	Sweden #D6L1
+//當代中文/Book 6/L01-II
 提到[提到]	tídào	(V) to mention, to bring up #D6L1
 成效[成效]	chéngxiào	(N) results #D6L1
 愈[愈]	yù	(Adv) the more... (the more) #D6L1
@@ -4065,6 +4195,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 巴西[巴西]	Bāxī	Brazil #D6L1
 非洲[非洲]	Fēizhōu	Africa #D6L1
 拉丁美洲[拉丁美洲]	Lādīng Měizhōu	Latin America #D6L1
+//當代中文/Book 6/L01-III
 游艇[游艇]	yóutǐng	(N) yacht #D6L1
 五金[五金]	wǔjīn	(N) hardware (as in a hardware store and things found in a hardware store) #D6L1
 达人[達人]	dárén	(N) expert #D6L1
@@ -4082,6 +4213,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 曾信哲[曾信哲]	Zēng Xìnzhé	Mark Tseng (the chairman of ARITEX, specializes in the manufacturing of hardware accessories for luxury yachts) #D6L1
 屏东[屏東]	Píngdōng	Pingtung, southern Taiwan #D6L1
 九如[九如]	Jiǔrú	Jiuru, a village in Pingtung #D6L1
+//當代中文/Book 6/L02-I
 洞察[洞察]	dòngchá	(V) to investigate, gain insight into #D6L2
 锲而不舍/舍[鍥而不舍/捨]	qiè'ér bùshě	(Id) work unflaggingly, slog away, keep your nose to the grindstone, lit. chisel away incessantly #D6L2
 专精[專精]	zhuānjīng	(Vs) specialized, as an expert #D6L2
@@ -4126,6 +4258,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 人群[人群]	rénqún	(N) crowd, the masses (people) #D6L2
 牛津大学[牛津大學]	Niújīn Dàxué	Oxford University #D6L2
 乔许．席尔佛[喬許．席爾佛]	Qiáoxǔ Xí'ěrfó	Professor Joshua Silver (a UK physicist whose discoveries have included a new way to change the curvature of lenses, and the chief executive of the Centre for Vision in the Developing World at the University of Oxford) #D6L2
+//當代中文/Book 6/L02-II
 场所[場所]	chǎngsuǒ	(N) location, venue #D6L2
 照明[照明]	zhàomíng	(Vi) to illuminate #D6L2
 习以为常[習以為常]	xíyǐ wéicháng	(Id) be used to, accustomed to, no stranger to #D6L2
@@ -4167,6 +4300,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 卡加利大学[卡加利大學]	Kǎjiālì Dàxué	University of Calgary, Canada #D6L2
 尼泊尔[尼泊爾]	Níbó'ěr	Nepal #D6L2
 喜马拉雅山群[喜馬拉雅山群]	Xǐmǎlāyǎ Shānqún	Himalaya Mountains, the Himalayas #D6L2
+//當代中文/Book 6/L03-I
 前所未有[前所未有]	qiánsuǒ wèiyǒu	(Id) unprecedented, like never before #D6L3
 尽情[盡情]	jìnqíng	(Adv) to one's heart's content, without restraint #D6L3
 挥洒[揮灑]	huīsǎ	(Vi) to display without reservation #D6L3
@@ -4224,6 +4358,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 纽约市立芭蕾舞团[紐約市立芭蕾舞團]	Niǔyuē shìlì bālěi wǔtuán	New York City Ballet #D6L3
 温迪．威伦[溫蒂．威倫]	Wēndì Wēilún	Wendy Whelan (a principal dancer with the New York City Ballet and is a guest artist with The Royal Ballet and the Kirov Ballet, 1967-) #D6L3
 华冈艺校[華岡藝校]	Huágāng Yìxiào	Taipei Hwa Kang Arts School #D6L3
+//當代中文/Book 6/L03-II
 从（来）[從（來）]	cóng (lái)	(Adv) has always been; all along #D6L3
 不间断（地）[不間斷（地）]	bú jiànduàn (de)	(Adv) without interruption #D6L3
 保送[保送]	bǎosòng	(V) to be admitted to university solely upon recommendation without exams #D6L3
@@ -4269,6 +4404,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 固定[固定]	gùdìng	(Vs) fixed, invariable, by routine #D6L3
 罗斯．帕克斯[羅斯．帕克斯]	Luósī Pàkèsī	Ross Parkes (formerly a principal dancer for the well-known Martha Graham Dance Company in the United States, 1940-) #D6L3
 葛兰姆舞团[葛蘭姆舞團]	Gělánmǔ wǔtuán	Martha Graham Dance Company, New York #D6L3
+//當代中文/Book 6/L04-I
 做人[做人]	zuòrén	(Vi) to conduct oneself, to behave #D6L4
 心法[心法]	xīnfǎ	(N) mental cultivation methods #D6L4
 谈论[談論]	tánlùn	(V) to discuss, to talk about #D6L4
@@ -4312,6 +4448,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 提问[提問]	tíwèn	(Vi) to ask a question #D6L4
 黑幼龙[黑幼龍]	Hēi Yòulóng	John Hei (the Greater China Group Leader of Carnegie training, who introduced Carnegie training to Taiwan in 1987, 1940-) #D6L4
 卡内基[卡內基]	Kǎnèijī	Dale Carnegie (an American writer and lecturer and the developer of famous courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills, 1888-1955) #D6L4
+//當代中文/Book 6/L04-II
 心坎[心坎]	xīnkǎn	(N) from the bottom of one's heart, one's heart of hearts #D6L4
 本质[本質]	běnzhí	(N) nature, real self #D6L4
 驱策[驅策]	qūcè	(V) to drive #D6L4
@@ -4346,6 +4483,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 驱动力[驅動力]	qūdònglì	(N) driving force #D6L4
 威廉．詹姆士[威廉．詹姆士]	Wēilián Zhānmǔshì	William James (an American philosopher and psychologist, and one of the leading thinkers of the late nineteenth century, while others have labeled him the "Father of American psychology", 1842-1910) #D6L4
 艾森豪威尔[艾森豪]	Àisēnháo	Dwight D. Eisenhower (the 34th President of the United States from 1953 to 1961, 1890-1969) #D6L4
+//當代中文/Book 6/L04-III
 机缘[機緣]	jīyuán	(N) connections to great opportunities #D6L4
 饭店[飯店]	fàndiàn	(N) hotel (modern, especially in Taiwan) #D6L4
 伸[伸]	shēn	(V) to extend, stretch #D6L4
@@ -4358,6 +4496,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 忠诚[忠誠]	zhōngchéng	(Vs/N) faithful; faithfulness, fidelity #D6L4
 跳槽[跳槽]	tiàocáo	(Vi) to change jobs, go job-hopping #D6L4
 等候[等候]	děnghòu	(V) wait, wait for (formal) #D6L4
+//當代中文/Book 6/L05-I
 开阔[開闊]	kāikuò	(Vs) wide, expansive #D6L5
 转动[轉動]	zhuǎndòng	(Vi) to revolve #D6L5
 共通[共通]	gòngtōng	(Vs-attr) common, universal #D6L5
@@ -4393,6 +4532,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 身在[身在]	shēnzài	(Vst) (of a person) located, to be (somewhere) #D6L5
 柏林[柏林]	Bólín	Berlin #D6L5
 土耳其[土耳其]	Tǔ'ěrqí	Turkey #D6L5
+//當代中文/Book 6/L05-II
 眼见[眼見]	yǎnjiàn	(V) seeing that, to observe #D6L5
 心急[心急]	xīnjí	(Vs) anxious, agitated #D6L5
 浪潮[浪潮]	làngcháo	(N) wave, trend #D6L5
@@ -4440,6 +4580,7 @@ X 分之 Y[X 分之 Y]	X fēn zhī Y	(Ph) pattern for indicating percentages or 
 上演[上演]	shàngyǎn	(V) to perform, to put on (a performance) #D6L5
 戏码[戲碼]	xìmǎ	(N) play, drama #D6L5
 捷克[捷克]	Jiékè	the Czech Republic #D6L5
+//當代中文/Book 6/L06-I
 猫熊[貓熊]	māoxióng	(N) panda #D6L6
 人见人爱[人見人愛]	rénjiàn rén'ài	(Id) everybody loves, loved by all #D6L6
 征服[征服]	zhēngfú	(V) to conquer, to subdue, to vanquish #D6L6
@@ -4502,6 +4643,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 迈阿密[邁阿密]	Mài'āmì	Miami #D6L6
 芝加哥[芝加哥]	Zhījiāgē	Chicago #D6L6
 国务院[國務院]	Guówùyuàn	State Department (US) #D6L6
+//當代中文/Book 6/L06-II
 出租[出租]	chūzū	(V) to rent, for lease; rental, leasing #D6L6
 吸金[吸金]	xījīn	(Vi) to bring in (revenue) #D6L6
 赴[赴]	fù	(V) to go to (literary) #D6L6
@@ -4551,6 +4693,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 旧金山[舊金山]	Jiùjīnshān	San Francisco #D6L6
 美国联邦渔业和野生动物管理局[美國聯邦漁業和野生動物管理局]	Měiguó liánbāng yúyè hàn yěshēng dòngwù guǎnlǐ jú	FWS: United States Fish and Wildlife Service #D6L6
 四川卧龙自然保护区[四川臥龍自然保護區]	Sìchuān Wòlóng zìrán bǎohù qū	Sichuan Wolong National Nature Reserves #D6L6
+//當代中文/Book 6/L07-I
 自我[自我]	zìwǒ	(N) ego-centricity #D6L7
 膨胀[膨脹]	péngzhàng	(Vs) to puff up, to swell up, self-complacent #D6L7
 面貌[面貌]	miànmào	(N) face, real nature of things #D6L7
@@ -4604,6 +4747,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 邪恶[邪惡]	xié'è	(Vs) evil, bad #D6L7
 发挥[發揮]	fāhuī	(V) to instigate, to implement, to promote #D6L7
 极致[極致]	jízhì	(N) to the utmost #D6L7
+//當代中文/Book 6/L07-II
 晚婚[晚婚]	wǎnhūn	(N) late marriage #D6L7
 直到[直到]	zhídào	(Prep) until, up to, to date #D6L7
 心仪[心儀]	xīnyí	(Vst) to be attracted #D6L7
@@ -4644,6 +4788,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 微妙[微妙]	wéimiào	(Vs) tricky, delicate (situations, etc.) #D6L7
 亲身[親身]	qīnshēn	(Adv) personally, first-hand #D6L7
 共同点[共同點]	gòngtóngdiǎn	(N) common point, something in common, common ground #D6L7
+//當代中文/Book 6/L08-I
 黑洞[黑洞]	hēidòng	(N) black hole #D6L8
 荣耀[榮耀]	róngyào	(N) honor, glory #D6L8
 国力[國力]	guólì	(N) national power, national strength #D6L8
@@ -4700,6 +4845,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 蒙特娄[蒙特婁]	Méngtèlóu	Montreal, Canada #D6L8
 美金[美金]	Měijīn	US dollars #D6L8
 英镑[英鎊]	Yīngbàng	British pounds #D6L8
+//當代中文/Book 6/L08-II
 亏钱[虧錢]	kuīqián	(V-sep) to lose money #D6L8
 亏本[虧本]	kuīběn	(V-sep) to lose money, at a loss #D6L8
 收场[收場]	shōuchǎng	(Vp) to end up with, fix the situation, (below) what are you going to do now? #D6L8
@@ -4735,6 +4881,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 巨象[巨象]	jùxiàng	(N) elephant #D6L8
 狠狠[狠狠]	hěnhěn	(Adv) severely, viciously #D6L8
 奥委会＝奥林匹克委员会[奧會＝奧林匹克委員會]	Àohuì (Àolínpīkè wěiyuánhuì)	Olympic Committee #D6L8
+//當代中文/Book 6/L09-I
 乡关何处[鄉關何處]	xiāngguān héchù	(Ph) Where is home? (lit.) Where is the road to my hometown? #D6L9
 开启[開啟]	kāiqǐ	(V) to open up, to unlock #D6L9
 浪游[浪遊]	làngyóu	(Vi) to be wandering, roaming #D6L9
@@ -4795,6 +4942,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 具体[具體]	jùtǐ	(Vs) concrete, in actual fact #D6L9
 基隆[基隆]	Jīlóng	Keelung (the city of northern Taiwan) #D6L9
 亚力山大[亞力山大]	Yǎlìshāndà	Alexander (name of a man) #D6L9
+//當代中文/Book 6/L09-II
 地道[地道]	dìdào	(Vs) authentic, genuine #D6L9
 华裔[華裔]	Huáyì	(N) foreign citizens of Chinese ancestry #D6L9
 混血[混血]	hùnxiě	(Vs-attr) mixed blood, mixed race #D6L9
@@ -4843,6 +4991,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 哥大建筑学系[哥大建築學系]	Gēdà jiànzhú xuéxì	Columbia University, Department of Architecture #D6L9
 广东[廣東]	Guǎngdōng	Guangdong (Canton) #D6L9
 普洱[普洱]	Pǔ'ěr	Pu'er city, Yunnan, China, where Pu'er tea is grown #D6L9
+//當代中文/Book 6/L10-I
 修练[修練]	xiūliàn	(V) to undergo training in order to achieve a goal #D6L10
 记忆[記憶]	jìyì	(N) memory #D6L10
 诠释[詮釋]	quánshì	(N/V) interpretation; to interpret #D6L10
@@ -4889,6 +5038,7 @@ BBC[BBC]	BBC	British Broadcasting Corporation #D6L6
 卢希鹏[盧希鵬]	Lú Xīpéng	Hsi-Peng Lu (Distinguished Professor of department of Information Management, NTUST, 1962-) #D6L10
 中经合集团[中經合集團]	Zhōngjīnghé jítuán	WI Harper Group (a pioneer in cross-border investments with offices in Beijing, Taipei, and San Francisco) #D6L10
 朱永光[朱永光]	Zhū Yǒngguāng	Y. K. Chu (managing director, oversees WI Harper's venture capital business in Taiwan) #D6L10
+//當代中文/Book 6/L10-II
 评量[評量]	píngliáng	(V) to assess, to evaluate #D6L10
 画上[畫上]	huàshàng	(V) to draw #D6L10
 等号[等號]	děnghào	(N) equation #D6L10

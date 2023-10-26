@@ -24,15 +24,14 @@ Tags:
 
 Audio comes from book's website - recorded sounds by book's authors. Slicing into individual terms done thanks to "[all vocabs](https://ankiweb.net/shared/info/2118503187)" ([github](https://github.com/jiru/ccc/tree/main)). Card template also comes from the same deck, slightly revised, just hanzi->pinyin/meaning template so you don't have to do much cleanups after importing if you only want to use this deck for reference data. Taiwan Ministry of Education's standard Kaiti font is included with proper Taiwan standard variants of characters - the same main learning font you'd see in most taiwanese textbooks.
 
-`Variants`: for terms with multiple writing/pinyin variants and a few other oddities, a more machine-friendly list of expanded variants in `traditional [pinyin] / ...` format, as the book is inconsistent in formatting those. If using this deck for an automatic analysis, you might find this field useful when present or just ignore these entries.
+`Variants`: for terms with multiple writing/pinyin variants and a few other oddities, a more machine-friendly list of expanded variants as a JSON list `[["term", "pinyin"], ...]`, as the book is inconsistent in formatting those. If using this deck for an automatic analysis (such as merging with other sources or your anki decks), you might find this field useful.
 
 ## Files
 
-- `dangdai.tsv`: deck in tab-separated values format. Can be loaded to Anki or used in scripts.
-- `dangdai_pleco.txt`: version for importing to Pleco as flashcards/dict:
+- `dangdai.csv`: deck in .csv format. Can be loaded to Anki or used in scripts.
+- `dangdai-pleco.txt`: version for importing to Pleco as flashcards or a user dictionary:
   - Settings > Manage Dictionaries > Add User > New (Existing won't work with .txt)
   - Settings > Manage Dictionaries > Import Entries > select .txt
-- `dangdai_pleco_tagged.txt`: a variant of pleco file with book/lesson tag at the end of each entry - useful for roughly gauging the level of a term from dictionary view.
 - `data`: inputs and intermediate files
   - `book.tsv`: entries with diffs reviewed against the book. The correct entry matching the book is in the file.
   - `errata.tsv`: indentional corrections for some typos.
