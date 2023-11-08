@@ -1,0 +1,587 @@
+{
+  "B1L01-I-12": {
+    "Traditional": "這",
+    "Pinyin": "zhè / zhèi",
+    "Variants": [
+      {
+        "Traditional": "這",
+        "Simplified": "这",
+        "Pinyin": "zhè"
+      },
+      {
+        "Traditional": "這",
+        "Simplified": "这",
+        "Pinyin": "zhèi"
+      }
+    ]
+  },
+  "B1L01-I-18": {
+    "Traditional": "臺灣（＝台灣）",
+    "Pinyin": "Táiwān",
+    "Variants": [
+      {
+        "Traditional": "臺灣",
+        "Simplified": "台湾",
+        "Pinyin": "Táiwān"
+      },
+      {
+        "Traditional": "台灣",
+        "Simplified": "台湾",
+        "Pinyin": "Táiwān"
+      }
+    ]
+  },
+  "B1L01-II-12": {
+    "Traditional": "哪",
+    "Pinyin": "nǎ / něi",
+    "Variants": [
+      {
+        "Traditional": "哪",
+        "Simplified": "哪",
+        "Pinyin": "nǎ"
+      },
+      {
+        "Traditional": "哪",
+        "Simplified": "哪",
+        "Pinyin": "něi"
+      }
+    ]
+  },
+  "B1L01-II-19": {
+    "Traditional": "哪國",
+    "Pinyin": "nǎ guó / něi guó",
+    "Variants": [
+      {
+        "Traditional": "哪國",
+        "Simplified": "哪国",
+        "Pinyin": "nǎ guó"
+      },
+      {
+        "Traditional": "哪國",
+        "Simplified": "哪国",
+        "Pinyin": "něi guó"
+      }
+    ]
+  },
+  "B1L04-II-10": {
+    "Traditional": "那",
+    "Pinyin": "nà / nèi",
+    "Variants": [
+      {
+        "Traditional": "那",
+        "Simplified": "那",
+        "Pinyin": "nà"
+      },
+      {
+        "Traditional": "那",
+        "Simplified": "那",
+        "Pinyin": "nèi"
+      }
+    ]
+  },
+  "B1L08-II-09": {
+    "Traditional": "故宮博物院（故宮）",
+    "Pinyin": "Gùgōng Bówùyuàn",
+    "Variants": [
+      {
+        "Traditional": "故宮博物院",
+        "Simplified": "故宫博物院",
+        "Pinyin": "Gùgōng Bówùyuàn"
+      },
+      {
+        "Traditional": "故宮",
+        "Simplified": "故宫",
+        "Pinyin": "Gùgōng"
+      }
+    ]
+  },
+  "B1L08-II-11": {
+    "Traditional": "公共汽車（公車）",
+    "Pinyin": "gōnggòng qìchē",
+    "Variants": [
+      {
+        "Traditional": "公共汽車",
+        "Simplified": "公共汽车",
+        "Pinyin": "gōnggòng qìchē"
+      },
+      {
+        "Traditional": "公車",
+        "Simplified": "公车",
+        "Pinyin": "gōngchē"
+      }
+    ]
+  },
+  "B1L09-I-01": {
+    "Traditional": "星期 + number",
+    "Pinyin": "xīngqí",
+    "Variants": [
+      {
+        "Traditional": "星期",
+        "Simplified": "星期",
+        "Pinyin": "xīngqí"
+      }
+    ]
+  },
+  "B1L09-II-01": {
+    "Traditional": "女 + noun",
+    "Pinyin": "nǚ",
+    "Variants": [
+      {
+        "Traditional": "女",
+        "Simplified": "女",
+        "Pinyin": "nǚ"
+      }
+    ]
+  },
+  "B1L09-II-02": {
+    "Traditional": "number + 月",
+    "Pinyin": "yuè",
+    "Variants": [
+      {
+        "Traditional": "月",
+        "Simplified": "月",
+        "Pinyin": "yuè"
+      }
+    ]
+  },
+  "B1L09-II-03": {
+    "Traditional": "number + 號",
+    "Pinyin": "hào",
+    "Variants": [
+      {
+        "Traditional": "號",
+        "Simplified": "号",
+        "Pinyin": "hào"
+      }
+    ]
+  },
+  "B1L10-II-08": {
+    "Traditional": "男 + noun",
+    "Pinyin": "nán",
+    "Variants": [
+      {
+        "Traditional": "男",
+        "Simplified": "男",
+        "Pinyin": "nán"
+      }
+    ]
+  },
+  "B1L13-I-06": {
+    "Traditional": "忘（了）",
+    "Pinyin": "wàngle",
+    "Variants": [
+      {
+        "Traditional": "忘了",
+        "Simplified": "忘了",
+        "Pinyin": "wàngle"
+      },
+      {
+        "Traditional": "忘",
+        "Simplified": "忘",
+        "Pinyin": "wàng"
+      }
+    ]
+  },
+  "B2L01-I-17": {
+    "Traditional": "那邊",
+    "Pinyin": "nàbiān / nèibiān",
+    "Variants": [
+      {
+        "Traditional": "那邊",
+        "Simplified": "那边",
+        "Pinyin": "nàbiān"
+      },
+      {
+        "Traditional": "那邊",
+        "Simplified": "那边",
+        "Pinyin": "nèibiān"
+      }
+    ]
+  },
+  "B2L01-I-18": {
+    "Traditional": "師大（師範大學）",
+    "Pinyin": "Shīdà (Shīfàn Dàxué)",
+    "Variants": [
+      {
+        "Traditional": "師大",
+        "Simplified": "师大",
+        "Pinyin": "Shīdà"
+      },
+      {
+        "Traditional": "師範大學",
+        "Simplified": "师范大学",
+        "Pinyin": "Shīfàn Dàxué"
+      }
+    ]
+  },
+  "B2L14-II-24": {
+    "Traditional": "企業管理系（企管系）",
+    "Pinyin": "qìyè guǎnlǐ xì",
+    "Variants": [
+      {
+        "Traditional": "企業管理系",
+        "Simplified": "企业管理系",
+        "Pinyin": "qìyè guǎnlǐ xì"
+      },
+      {
+        "Traditional": "企管系",
+        "Simplified": "企管系",
+        "Pinyin": "qìguǎnxì"
+      }
+    ]
+  },
+  "B3L08-II-46": {
+    "Traditional": "EMBA（高級管理人員工商管理碩士）",
+    "Pinyin": "EMBA (gāojí guǎnlǐ rényuán gōngshāng guǎnlǐ shuòshì)",
+    "Variants": [
+      {
+        "Traditional": "高級管理人員工商管理碩士",
+        "Simplified": "高级管理人员工商管理硕士",
+        "Pinyin": "gāojí guǎnlǐ rényuán gōngshāng guǎnlǐ shuòshì"
+      }
+    ]
+  },
+  "B3L08-II-49": {
+    "Traditional": "X 分之 Y",
+    "Pinyin": "X fēn zhī Y",
+    "Variants": [
+      {
+        "Traditional": "分之",
+        "Simplified": "分之",
+        "Pinyin": "fēn zhī"
+      }
+    ]
+  },
+  "B3L09-II-24": {
+    "Traditional": "（台）斤",
+    "Pinyin": "(Tái) jīn",
+    "Variants": [
+      {
+        "Traditional": "台斤",
+        "Simplified": "台斤",
+        "Pinyin": "Táijīn"
+      },
+      {
+        "Traditional": "斤",
+        "Simplified": "斤",
+        "Pinyin": "jīn"
+      }
+    ]
+  },
+  "B4L07-I-26": {
+    "Traditional": "一下…一下…",
+    "Pinyin": "yíxià...yíxià...",
+    "Variants": [
+      {
+        "Traditional": "一下",
+        "Simplified": "一下",
+        "Pinyin": "yíxià"
+      }
+    ]
+  },
+  "B4L10-II-26": {
+    "Traditional": "提不起（勇氣）",
+    "Pinyin": "tíbùqǐ (yǒngqì)",
+    "Variants": [
+      {
+        "Traditional": "提不起勇氣",
+        "Simplified": "提不起勇气",
+        "Pinyin": "tíbùqǐ yǒngqì"
+      },
+      {
+        "Traditional": "提不起",
+        "Simplified": "提不起",
+        "Pinyin": "tíbùqǐ"
+      }
+    ]
+  },
+  "B5L02-I-30": {
+    "Traditional": "好幾（種）",
+    "Pinyin": "hǎojǐ zhǒng",
+    "Variants": [
+      {
+        "Traditional": "好幾種",
+        "Simplified": "好几种",
+        "Pinyin": "hǎojǐ zhǒng"
+      },
+      {
+        "Traditional": "好幾",
+        "Simplified": "好几",
+        "Pinyin": "hǎojǐ"
+      }
+    ]
+  },
+  "B5L07-I-06": {
+    "Traditional": "（一）大半",
+    "Pinyin": "(yí) dàbàn",
+    "Variants": [
+      {
+        "Traditional": "一大半",
+        "Simplified": "一大半",
+        "Pinyin": "yí dàbàn"
+      },
+      {
+        "Traditional": "大半",
+        "Simplified": "大半",
+        "Pinyin": "dàbàn"
+      }
+    ]
+  },
+  "B5L08-I-20": {
+    "Traditional": "前-",
+    "Pinyin": "qián",
+    "Variants": [
+      {
+        "Traditional": "前",
+        "Simplified": "前",
+        "Pinyin": "qián"
+      }
+    ]
+  },
+  "B6L01-III-12": {
+    "Traditional": "奮鬥（史）",
+    "Pinyin": "fèndòu (shǐ)",
+    "Variants": [
+      {
+        "Traditional": "奮鬥史",
+        "Simplified": "奋斗史",
+        "Pinyin": "fèndòu shǐ"
+      },
+      {
+        "Traditional": "奮鬥",
+        "Simplified": "奋斗",
+        "Pinyin": "fèndòu"
+      }
+    ]
+  },
+  "B6L01-III-T-01": {
+    "Traditional": "教部（＝教育部）",
+    "Pinyin": "Jiāobù (= Jiāoyùbù)",
+    "Variants": [
+      {
+        "Traditional": "教部",
+        "Simplified": "教部",
+        "Pinyin": "Jiāobù"
+      },
+      {
+        "Traditional": "教育部",
+        "Simplified": "教育部",
+        "Pinyin": "Jiāoyùbù"
+      }
+    ]
+  },
+  "B6L02-I-0-02": {
+    "Traditional": "鍥而不舍/捨",
+    "Pinyin": "qiè'ér bùshě",
+    "Variants": [
+      {
+        "Traditional": "鍥而不舍",
+        "Simplified": "锲而不舍",
+        "Pinyin": "qiè'ér bùshě"
+      },
+      {
+        "Traditional": "鍥而不捨",
+        "Simplified": "锲而不舍",
+        "Pinyin": "qiè'ér bùshě"
+      }
+    ]
+  },
+  "B6L02-II-26": {
+    "Traditional": "固態光源（SSL）",
+    "Pinyin": "gùtài guāngyuán",
+    "Variants": [
+      {
+        "Traditional": "固態光源",
+        "Simplified": "固态光源",
+        "Pinyin": "gùtài guāngyuán"
+      }
+    ]
+  },
+  "B6L02-II-32": {
+    "Traditional": "發光二極體（LED）",
+    "Pinyin": "fāguāng èrjítǐ",
+    "Variants": [
+      {
+        "Traditional": "發光二極體",
+        "Simplified": "发光二极体",
+        "Pinyin": "fāguāng èrjítǐ"
+      }
+    ]
+  },
+  "B6L03-II-01": {
+    "Traditional": "從（來）",
+    "Pinyin": "cóng (lái)",
+    "Variants": [
+      {
+        "Traditional": "從來",
+        "Simplified": "从来",
+        "Pinyin": "cónglái"
+      },
+      {
+        "Traditional": "從",
+        "Simplified": "从",
+        "Pinyin": "cóng"
+      }
+    ]
+  },
+  "B6L03-II-02": {
+    "Traditional": "不間斷（地）",
+    "Pinyin": "bú jiànduàn (de)",
+    "Variants": [
+      {
+        "Traditional": "不間斷地",
+        "Simplified": "不间断地",
+        "Pinyin": "bú jiànduàn de"
+      },
+      {
+        "Traditional": "不間斷",
+        "Simplified": "不间断",
+        "Pinyin": "bú jiànduàn"
+      }
+    ]
+  },
+  "B6L03-II-27": {
+    "Traditional": "加諸（在）",
+    "Pinyin": "jiāzhū (zài)",
+    "Variants": [
+      {
+        "Traditional": "加諸在",
+        "Simplified": "加诸在",
+        "Pinyin": "jiāzhū zài"
+      },
+      {
+        "Traditional": "加諸",
+        "Simplified": "加诸",
+        "Pinyin": "jiāzhū"
+      }
+    ]
+  },
+  "B6L04-I-19": {
+    "Traditional": "自顧自（地）",
+    "Pinyin": "zìgùzì (de)",
+    "Variants": [
+      {
+        "Traditional": "自顧自地",
+        "Simplified": "自顾自地",
+        "Pinyin": "zìgùzì de"
+      },
+      {
+        "Traditional": "自顧自",
+        "Simplified": "自顾自",
+        "Pinyin": "zìgùzì"
+      }
+    ]
+  },
+  "B6L04-I-24": {
+    "Traditional": "以致（於）",
+    "Pinyin": "yǐzhì (yú)",
+    "Variants": [
+      {
+        "Traditional": "以致於",
+        "Simplified": "以致于",
+        "Pinyin": "yǐzhì yú"
+      },
+      {
+        "Traditional": "以致",
+        "Simplified": "以致",
+        "Pinyin": "yǐzhì"
+      }
+    ]
+  },
+  "B6L04-III-07": {
+    "Traditional": "直覺（地）",
+    "Pinyin": "zhíjué (de)",
+    "Variants": [
+      {
+        "Traditional": "直覺地",
+        "Simplified": "直觉地",
+        "Pinyin": "zhíjué de"
+      },
+      {
+        "Traditional": "直覺",
+        "Simplified": "直觉",
+        "Pinyin": "zhíjué"
+      }
+    ]
+  },
+  "B6L06-I-T-05": {
+    "Traditional": "唐朝/代",
+    "Pinyin": "Tángcháo/dài",
+    "Variants": [
+      {
+        "Traditional": "唐朝",
+        "Simplified": "唐朝",
+        "Pinyin": "Tángcháo"
+      },
+      {
+        "Traditional": "唐代",
+        "Simplified": "唐代",
+        "Pinyin": "Tángdài"
+      }
+    ]
+  },
+  "B6L08-I-07": {
+    "Traditional": "申奧＝申請奧運",
+    "Pinyin": "shēn'Ào (shēnqǐng Àoyùn)",
+    "Variants": [
+      {
+        "Traditional": "申奧",
+        "Simplified": "申奥",
+        "Pinyin": "shēn'Ào"
+      },
+      {
+        "Traditional": "申請奧運",
+        "Simplified": "申请奥运",
+        "Pinyin": "shēnqǐng Àoyùn"
+      }
+    ]
+  },
+  "B6L08-II-32": {
+    "Traditional": "有/無福消受",
+    "Pinyin": "yǒu/wúfú xiāoshòu",
+    "Variants": [
+      {
+        "Traditional": "有福消受",
+        "Simplified": "有福消受",
+        "Pinyin": "yǒufú xiāoshòu"
+      },
+      {
+        "Traditional": "無福消受",
+        "Simplified": "无福消受",
+        "Pinyin": "wúfú xiāoshòu"
+      }
+    ]
+  },
+  "B6L08-II-T-01": {
+    "Traditional": "奧會＝奧林匹克委員會",
+    "Pinyin": "Àohuì (Àolínpīkè wěiyuánhuì)",
+    "Variants": [
+      {
+        "Traditional": "奧會",
+        "Simplified": "奥会",
+        "Pinyin": "Àohuì"
+      },
+      {
+        "Traditional": "奧林匹克委員會",
+        "Simplified": "奥林匹克委员会",
+        "Pinyin": "Àolínpīkè wěiyuánhuì"
+      }
+    ]
+  },
+  "B6L10-I-38": {
+    "Traditional": "善（於）",
+    "Pinyin": "shàn (yú)",
+    "Variants": [
+      {
+        "Traditional": "善於",
+        "Simplified": "善于",
+        "Pinyin": "shàn yú"
+      },
+      {
+        "Traditional": "善",
+        "Simplified": "善",
+        "Pinyin": "shàn"
+      }
+    ]
+  }
+}
